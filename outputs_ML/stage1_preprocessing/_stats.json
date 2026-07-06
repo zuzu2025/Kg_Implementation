@@ -1,0 +1,2557 @@
+{
+  "total_contracts": 510,
+  "total_sentences": 117932,
+  "total_chunks": 14960,
+  "contracts": [
+    {
+      "filename": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.txt",
+      "sentences": 193,
+      "chunks": 25
+    },
+    {
+      "filename": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT.txt",
+      "sentences": 129,
+      "chunks": 17
+    },
+    {
+      "filename": "ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT.txt",
+      "sentences": 67,
+      "chunks": 9
+    },
+    {
+      "filename": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 624,
+      "chunks": 78
+    },
+    {
+      "filename": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt",
+      "sentences": 151,
+      "chunks": 19
+    },
+    {
+      "filename": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 446,
+      "chunks": 56
+    },
+    {
+      "filename": "ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT.txt",
+      "sentences": 147,
+      "chunks": 19
+    },
+    {
+      "filename": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement .txt",
+      "sentences": 52,
+      "chunks": 7
+    },
+    {
+      "filename": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT(1).txt",
+      "sentences": 70,
+      "chunks": 9
+    },
+    {
+      "filename": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT.txt",
+      "sentences": 70,
+      "chunks": 9
+    },
+    {
+      "filename": "AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT.txt",
+      "sentences": 245,
+      "chunks": 31
+    },
+    {
+      "filename": "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.txt",
+      "sentences": 114,
+      "chunks": 15
+    },
+    {
+      "filename": "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.txt",
+      "sentences": 605,
+      "chunks": 76
+    },
+    {
+      "filename": "AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement.txt",
+      "sentences": 294,
+      "chunks": 37
+    },
+    {
+      "filename": "AIRTECHINTERNATIONALGROUPINC_05_08_2000-EX-10.4-FRANCHISE AGREEMENT.txt",
+      "sentences": 443,
+      "chunks": 56
+    },
+    {
+      "filename": "ALAMOGORDOFINANCIALCORP_12_16_1999-EX-1-AGENCY AGREEMENT.txt",
+      "sentences": 259,
+      "chunks": 33
+    },
+    {
+      "filename": "ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT.txt",
+      "sentences": 43,
+      "chunks": 6
+    },
+    {
+      "filename": "ALLIANCEBANCORPINCOFPENNSYLVANIA_10_18_2006-EX-1.2-AGENCY AGREEMENT.txt",
+      "sentences": 319,
+      "chunks": 40
+    },
+    {
+      "filename": "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.txt",
+      "sentences": 183,
+      "chunks": 23
+    },
+    {
+      "filename": "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement.txt",
+      "sentences": 158,
+      "chunks": 20
+    },
+    {
+      "filename": "ALLISONTRANSMISSIONHOLDINGSINC_12_15_2014-EX-99.1-COOPERATION AGREEMENT.txt",
+      "sentences": 103,
+      "chunks": 13
+    },
+    {
+      "filename": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt",
+      "sentences": 189,
+      "chunks": 24
+    },
+    {
+      "filename": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT.txt",
+      "sentences": 149,
+      "chunks": 19
+    },
+    {
+      "filename": "AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT.txt",
+      "sentences": 111,
+      "chunks": 14
+    },
+    {
+      "filename": "ANIXABIOSCIENCESINC_06_09_2020-EX-10.1-COLLABORATION AGREEMENT.txt",
+      "sentences": 205,
+      "chunks": 26
+    },
+    {
+      "filename": "Antares Pharma, Inc. - Manufacturing Agreement.txt",
+      "sentences": 384,
+      "chunks": 48
+    },
+    {
+      "filename": "Apollo Endosurgery - Manufacturing and Supply Agreement.txt",
+      "sentences": 295,
+      "chunks": 37
+    },
+    {
+      "filename": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement.txt",
+      "sentences": 49,
+      "chunks": 7
+    },
+    {
+      "filename": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement.txt",
+      "sentences": 97,
+      "chunks": 13
+    },
+    {
+      "filename": "ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement.txt",
+      "sentences": 92,
+      "chunks": 12
+    },
+    {
+      "filename": "ARMSTRONGFLOORING,INC_01_07_2019-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt",
+      "sentences": 320,
+      "chunks": 40
+    },
+    {
+      "filename": "ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement.txt",
+      "sentences": 243,
+      "chunks": 31
+    },
+    {
+      "filename": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT.txt",
+      "sentences": 934,
+      "chunks": 117
+    },
+    {
+      "filename": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.txt",
+      "sentences": 173,
+      "chunks": 22
+    },
+    {
+      "filename": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC..txt",
+      "sentences": 136,
+      "chunks": 17
+    },
+    {
+      "filename": "ASIANDRAGONGROUPINC_08_11_2005-EX-10.5-Reseller Agreement.txt",
+      "sentences": 174,
+      "chunks": 22
+    },
+    {
+      "filename": "ASPIRITYHOLDINGSLLC_05_07_2012-EX-10.6-OUTSOURCING AGREEMENT.txt",
+      "sentences": 311,
+      "chunks": 39
+    },
+    {
+      "filename": "ATENTOSA_07_06_2020-EX-99.1-JOINT FILING AGREEMENT.txt",
+      "sentences": 4,
+      "chunks": 1
+    },
+    {
+      "filename": "ATHENSBANCSHARESCORP_11_02_2009-EX-1.2-AGENCY AGREEMENT , 2009.txt",
+      "sentences": 354,
+      "chunks": 45
+    },
+    {
+      "filename": "ATMOSENERGYCORP_11_22_2002-EX-10.17-TRANSPORTATION SERVICE AGREEMENT.txt",
+      "sentences": 80,
+      "chunks": 10
+    },
+    {
+      "filename": "AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement.txt",
+      "sentences": 748,
+      "chunks": 94
+    },
+    {
+      "filename": "AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement.txt",
+      "sentences": 272,
+      "chunks": 34
+    },
+    {
+      "filename": "AULAMERICANUNITTRUST_04_24_2020-EX-99.8.77-SERVICING AGREEMENT.txt",
+      "sentences": 162,
+      "chunks": 21
+    },
+    {
+      "filename": "AURASYSTEMSINC_06_16_2010-EX-10.25-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 182,
+      "chunks": 23
+    },
+    {
+      "filename": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1.txt",
+      "sentences": 631,
+      "chunks": 79
+    },
+    {
+      "filename": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement2.txt",
+      "sentences": 60,
+      "chunks": 8
+    },
+    {
+      "filename": "BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC..txt",
+      "sentences": 324,
+      "chunks": 41
+    },
+    {
+      "filename": "BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt",
+      "sentences": 14,
+      "chunks": 2
+    },
+    {
+      "filename": "BANUESTRAFINANCIALCORP_09_08_2006-EX-10.16-AGENCY AGREEMENT.txt",
+      "sentences": 168,
+      "chunks": 21
+    },
+    {
+      "filename": "BELLICUMPHARMACEUTICALS,INC_05_07_2019-EX-10.1-Supply Agreement.txt",
+      "sentences": 648,
+      "chunks": 81
+    },
+    {
+      "filename": "BELLRINGBRANDS,INC_02_07_2020-EX-10.18-MASTER SUPPLY AGREEMENT.txt",
+      "sentences": 177,
+      "chunks": 23
+    },
+    {
+      "filename": "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1.txt",
+      "sentences": 202,
+      "chunks": 26
+    },
+    {
+      "filename": "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement2.txt",
+      "sentences": 14,
+      "chunks": 2
+    },
+    {
+      "filename": "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement3.txt",
+      "sentences": 42,
+      "chunks": 6
+    },
+    {
+      "filename": "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement4.txt",
+      "sentences": 12,
+      "chunks": 2
+    },
+    {
+      "filename": "BERKELEYLIGHTS,INC_06_26_2020-EX-10.12-COLLABORATION AGREEMENT.txt",
+      "sentences": 723,
+      "chunks": 91
+    },
+    {
+      "filename": "BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement.txt",
+      "sentences": 170,
+      "chunks": 22
+    },
+    {
+      "filename": "BEYONDCOMCORP_08_03_2000-EX-10.2-CO-HOSTING AGREEMENT.txt",
+      "sentences": 285,
+      "chunks": 36
+    },
+    {
+      "filename": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+      "sentences": 182,
+      "chunks": 23
+    },
+    {
+      "filename": "BIOAMBERINC_04_10_2013-EX-10.34-DEVELOPMENT AGREEMENT (1).txt",
+      "sentences": 192,
+      "chunks": 24
+    },
+    {
+      "filename": "BIOAMBERINC_04_10_2013-EX-10.34-DEVELOPMENT AGREEMENT - First Amendment.txt",
+      "sentences": 26,
+      "chunks": 4
+    },
+    {
+      "filename": "BIOCEPTINC_08_19_2013-EX-10-COLLABORATION AGREEMENT.txt",
+      "sentences": 376,
+      "chunks": 47
+    },
+    {
+      "filename": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.txt",
+      "sentences": 308,
+      "chunks": 39
+    },
+    {
+      "filename": "BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT.txt",
+      "sentences": 199,
+      "chunks": 25
+    },
+    {
+      "filename": "BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement.txt",
+      "sentences": 148,
+      "chunks": 19
+    },
+    {
+      "filename": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 104,
+      "chunks": 13
+    },
+    {
+      "filename": "BLACKROCKMUNIHOLDINGSINVESTMENTQUALITYFUND_04_07_2020-EX-99.01-JOINT FILING AGREEMENT.txt",
+      "sentences": 4,
+      "chunks": 1
+    },
+    {
+      "filename": "BLACKSTONEGSOLONG-SHORTCREDITINCOMEFUND_05_11_2020-EX-99.(K)(1)-SERVICE AGREEMENT.txt",
+      "sentences": 193,
+      "chunks": 25
+    },
+    {
+      "filename": "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.txt",
+      "sentences": 360,
+      "chunks": 45
+    },
+    {
+      "filename": "BLUEFLYINC_03_27_2002-EX-10.27-e-business Hosting Agreement.txt",
+      "sentences": 171,
+      "chunks": 22
+    },
+    {
+      "filename": "BLUEHILLSBANCORP,INC_05_20_2014-EX-1.1-AGENCY AGREEMENT.txt",
+      "sentences": 315,
+      "chunks": 40
+    },
+    {
+      "filename": "BLUEROCKRESIDENTIALGROWTHREIT,INC_06_01_2016-EX-1.1-AGENCY AGREEMENT.txt",
+      "sentences": 406,
+      "chunks": 51
+    },
+    {
+      "filename": "BNCMORTGAGEINC_05_17_1999-EX-10.4-LICENSING AND WEB SITE HOSTING AGREEMENT.txt",
+      "sentences": 200,
+      "chunks": 25
+    },
+    {
+      "filename": "BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.txt",
+      "sentences": 228,
+      "chunks": 29
+    },
+    {
+      "filename": "BOLIVARMININGCORP_05_23_2003-EX-2.1-VISP WEB SITE BUILDING AND HOSTING AGREEMENT.txt",
+      "sentences": 46,
+      "chunks": 6
+    },
+    {
+      "filename": "BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+      "sentences": 442,
+      "chunks": 56
+    },
+    {
+      "filename": "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT.txt",
+      "sentences": 196,
+      "chunks": 25
+    },
+    {
+      "filename": "BravatekSolutionsInc_20170418_8-K_EX-10.1_10205739_EX-10.1_Reseller Agreement.txt",
+      "sentences": 93,
+      "chunks": 12
+    },
+    {
+      "filename": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT.txt",
+      "sentences": 1402,
+      "chunks": 176
+    },
+    {
+      "filename": "CANOPETROLEUM,INC_12_13_2007-EX-10.1-Sponsorship Agreement.txt",
+      "sentences": 79,
+      "chunks": 10
+    },
+    {
+      "filename": "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.txt",
+      "sentences": 284,
+      "chunks": 36
+    },
+    {
+      "filename": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement1.txt",
+      "sentences": 763,
+      "chunks": 96
+    },
+    {
+      "filename": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement2.txt",
+      "sentences": 21,
+      "chunks": 3
+    },
+    {
+      "filename": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement3.txt",
+      "sentences": 6,
+      "chunks": 1
+    },
+    {
+      "filename": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt",
+      "sentences": 18,
+      "chunks": 3
+    },
+    {
+      "filename": "CCAINDUSTRIESINC_04_14_2014-EX-10.1-OUTSOURCING AGREEMENT.txt",
+      "sentences": 153,
+      "chunks": 20
+    },
+    {
+      "filename": "CcRealEstateIncomeFundadv_20181205_POS 8C_EX-99.(H)(3)_11447739_EX-99.(H)(3)_Marketing Agreement.txt",
+      "sentences": 111,
+      "chunks": 14
+    },
+    {
+      "filename": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT.txt",
+      "sentences": 57,
+      "chunks": 8
+    },
+    {
+      "filename": "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt",
+      "sentences": 290,
+      "chunks": 37
+    },
+    {
+      "filename": "CERES,INC_01_25_2012-EX-10.20-Collaboration Agreement.txt",
+      "sentences": 1309,
+      "chunks": 164
+    },
+    {
+      "filename": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT.txt",
+      "sentences": 58,
+      "chunks": 8
+    },
+    {
+      "filename": "CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT.txt",
+      "sentences": 578,
+      "chunks": 73
+    },
+    {
+      "filename": "CHAPARRALRESOURCESINC_03_30_2000-EX-10.66-TRANSPORTATION CONTRACT.txt",
+      "sentences": 106,
+      "chunks": 14
+    },
+    {
+      "filename": "CHEETAHMOBILEINC_04_22_2014-EX-10.43-Cooperation Agreement.txt",
+      "sentences": 258,
+      "chunks": 33
+    },
+    {
+      "filename": "CHERRYHILLMORTGAGEINVESTMENTCORP_09_26_2013-EX-10.1-Strategic Alliance Agreement.txt",
+      "sentences": 113,
+      "chunks": 15
+    },
+    {
+      "filename": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.txt",
+      "sentences": 245,
+      "chunks": 31
+    },
+    {
+      "filename": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement.txt",
+      "sentences": 165,
+      "chunks": 21
+    },
+    {
+      "filename": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement.txt",
+      "sentences": 51,
+      "chunks": 7
+    },
+    {
+      "filename": "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.txt",
+      "sentences": 263,
+      "chunks": 33
+    },
+    {
+      "filename": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement.txt",
+      "sentences": 62,
+      "chunks": 8
+    },
+    {
+      "filename": "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.txt",
+      "sentences": 553,
+      "chunks": 70
+    },
+    {
+      "filename": "Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",
+      "sentences": 203,
+      "chunks": 26
+    },
+    {
+      "filename": "ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt",
+      "sentences": 265,
+      "chunks": 34
+    },
+    {
+      "filename": "COOLTECHNOLOGIES,INC_10_25_2017-EX-10.71-Strategic Alliance Agreement.txt",
+      "sentences": 79,
+      "chunks": 10
+    },
+    {
+      "filename": "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.txt",
+      "sentences": 95,
+      "chunks": 12
+    },
+    {
+      "filename": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt",
+      "sentences": 330,
+      "chunks": 42
+    },
+    {
+      "filename": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.txt",
+      "sentences": 110,
+      "chunks": 14
+    },
+    {
+      "filename": "CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT.txt",
+      "sentences": 82,
+      "chunks": 11
+    },
+    {
+      "filename": "CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT.txt",
+      "sentences": 168,
+      "chunks": 21
+    },
+    {
+      "filename": "CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+      "sentences": 219,
+      "chunks": 28
+    },
+    {
+      "filename": "CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT.txt",
+      "sentences": 131,
+      "chunks": 17
+    },
+    {
+      "filename": "CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement.txt",
+      "sentences": 640,
+      "chunks": 80
+    },
+    {
+      "filename": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement.txt",
+      "sentences": 44,
+      "chunks": 6
+    },
+    {
+      "filename": "DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+      "sentences": 166,
+      "chunks": 21
+    },
+    {
+      "filename": "DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement.txt",
+      "sentences": 442,
+      "chunks": 56
+    },
+    {
+      "filename": "DIVERSINETCORP_03_01_2012-EX-4-RESELLER AGREEMENT.txt",
+      "sentences": 396,
+      "chunks": 50
+    },
+    {
+      "filename": "DOMINIADVISORTRUST_02_18_2005-EX-99.(H)(2)-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 46,
+      "chunks": 6
+    },
+    {
+      "filename": "DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt",
+      "sentences": 760,
+      "chunks": 95
+    },
+    {
+      "filename": "DRAGONSYSTEMSINC_01_08_1999-EX-10.17-OUTSOURCING AGREEMENT.txt",
+      "sentences": 51,
+      "chunks": 7
+    },
+    {
+      "filename": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT.txt",
+      "sentences": 162,
+      "chunks": 21
+    },
+    {
+      "filename": "DRKOOPCOMINC_04_21_1999-EX-10.28-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 233,
+      "chunks": 30
+    },
+    {
+      "filename": "DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 218,
+      "chunks": 28
+    },
+    {
+      "filename": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+      "sentences": 147,
+      "chunks": 19
+    },
+    {
+      "filename": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT.txt",
+      "sentences": 96,
+      "chunks": 12
+    },
+    {
+      "filename": "EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement.txt",
+      "sentences": 144,
+      "chunks": 18
+    },
+    {
+      "filename": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement.txt",
+      "sentences": 132,
+      "chunks": 17
+    },
+    {
+      "filename": "EcoScienceSolutionsInc_20180406_8-K_EX-10.1_11135398_EX-10.1_Sponsorship Agreement.txt",
+      "sentences": 38,
+      "chunks": 5
+    },
+    {
+      "filename": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+      "sentences": 255,
+      "chunks": 32
+    },
+    {
+      "filename": "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.txt",
+      "sentences": 310,
+      "chunks": 39
+    },
+    {
+      "filename": "ELANDIAINTERNATIONALINC_04_25_2007-EX-10.21-Outsourcing Agreement.txt",
+      "sentences": 252,
+      "chunks": 32
+    },
+    {
+      "filename": "ELECTRAMECCANICA VEHICLES CORP. - Manufacturing Agreement.txt",
+      "sentences": 261,
+      "chunks": 33
+    },
+    {
+      "filename": "ELFBEAUTY,INC_07_02_2020-EX-10.1-COOPERATION AGREEMENT.txt",
+      "sentences": 101,
+      "chunks": 13
+    },
+    {
+      "filename": "ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement.txt",
+      "sentences": 352,
+      "chunks": 44
+    },
+    {
+      "filename": "EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement.txt",
+      "sentences": 158,
+      "chunks": 20
+    },
+    {
+      "filename": "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.txt",
+      "sentences": 78,
+      "chunks": 10
+    },
+    {
+      "filename": "EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC..txt",
+      "sentences": 101,
+      "chunks": 13
+    },
+    {
+      "filename": "EmmisCommunicationsCorp_20191125_8-K_EX-10.6_11906433_EX-10.6_Marketing Agreement.txt",
+      "sentences": 118,
+      "chunks": 15
+    },
+    {
+      "filename": "ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 365,
+      "chunks": 46
+    },
+    {
+      "filename": "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt",
+      "sentences": 246,
+      "chunks": 31
+    },
+    {
+      "filename": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT.txt",
+      "sentences": 414,
+      "chunks": 52
+    },
+    {
+      "filename": "ENTERTAINMENTGAMINGASIAINC_02_15_2005-EX-10.5-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 274,
+      "chunks": 35
+    },
+    {
+      "filename": "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 210,
+      "chunks": 27
+    },
+    {
+      "filename": "ETELOS,INC_03_09_2004-EX-10.8-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 156,
+      "chunks": 20
+    },
+    {
+      "filename": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+      "sentences": 238,
+      "chunks": 30
+    },
+    {
+      "filename": "EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+      "sentences": 149,
+      "chunks": 19
+    },
+    {
+      "filename": "EUROPEANMICROHOLDINGSINC_03_06_1998-EX-10.6-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 276,
+      "chunks": 35
+    },
+    {
+      "filename": "ExactSciencesCorp_20180822_8-K_EX-10.1_11331629_EX-10.1_Promotion Agreement.txt",
+      "sentences": 594,
+      "chunks": 75
+    },
+    {
+      "filename": "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt",
+      "sentences": 52,
+      "chunks": 7
+    },
+    {
+      "filename": "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_AMENDMENT.txt",
+      "sentences": 18,
+      "chunks": 3
+    },
+    {
+      "filename": "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF.txt",
+      "sentences": 23,
+      "chunks": 3
+    },
+    {
+      "filename": "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_SECONDAMENDMENT.txt",
+      "sentences": 29,
+      "chunks": 4
+    },
+    {
+      "filename": "FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement.txt",
+      "sentences": 329,
+      "chunks": 42
+    },
+    {
+      "filename": "FIBROGENINC_10_01_2014-EX-10.11-COLLABORATION AGREEMENT.txt",
+      "sentences": 597,
+      "chunks": 75
+    },
+    {
+      "filename": "FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.txt",
+      "sentences": 463,
+      "chunks": 58
+    },
+    {
+      "filename": "FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.txt",
+      "sentences": 143,
+      "chunks": 18
+    },
+    {
+      "filename": "FOUNDATIONMEDICINE,INC_02_02_2015-EX-10.2-Collaboration Agreement.txt",
+      "sentences": 653,
+      "chunks": 82
+    },
+    {
+      "filename": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement.txt",
+      "sentences": 59,
+      "chunks": 8
+    },
+    {
+      "filename": "FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt",
+      "sentences": 154,
+      "chunks": 20
+    },
+    {
+      "filename": "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 202,
+      "chunks": 26
+    },
+    {
+      "filename": "FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+      "sentences": 511,
+      "chunks": 64
+    },
+    {
+      "filename": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt",
+      "sentences": 94,
+      "chunks": 12
+    },
+    {
+      "filename": "FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt",
+      "sentences": 131,
+      "chunks": 17
+    },
+    {
+      "filename": "FUSIONPHARMACEUTICALSINC_06_05_2020-EX-10.17-Supply Agreement - FUSION.txt",
+      "sentences": 226,
+      "chunks": 29
+    },
+    {
+      "filename": "GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 82,
+      "chunks": 11
+    },
+    {
+      "filename": "GALACTICOMMTECHNOLOGIESINC_11_07_1997-EX-10.46-WEB HOSTING AGREEMENT.txt",
+      "sentences": 12,
+      "chunks": 2
+    },
+    {
+      "filename": "GALERATHERAPEUTICS,INC_02_14_2020-EX-99.A-JOINT FILING AGREEMENT.txt",
+      "sentences": 10,
+      "chunks": 2
+    },
+    {
+      "filename": "GarrettMotionInc_20181001_8-K_EX-2.4_11364532_EX-2.4_Intellectual Property Agreement.txt",
+      "sentences": 268,
+      "chunks": 34
+    },
+    {
+      "filename": "GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt",
+      "sentences": 149,
+      "chunks": 19
+    },
+    {
+      "filename": "GIGGLESN_HUGS,INC_06_23_2016-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 142,
+      "chunks": 18
+    },
+    {
+      "filename": "GlobalTechnologiesGroupInc_20050928_10KSB_EX-10.9_4148808_EX-10.9_Content License Agreement.txt",
+      "sentences": 216,
+      "chunks": 27
+    },
+    {
+      "filename": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT.txt",
+      "sentences": 126,
+      "chunks": 16
+    },
+    {
+      "filename": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement1.txt",
+      "sentences": 352,
+      "chunks": 44
+    },
+    {
+      "filename": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement2.txt",
+      "sentences": 50,
+      "chunks": 7
+    },
+    {
+      "filename": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3.txt",
+      "sentences": 18,
+      "chunks": 3
+    },
+    {
+      "filename": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement4.txt",
+      "sentences": 9,
+      "chunks": 2
+    },
+    {
+      "filename": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement.txt",
+      "sentences": 109,
+      "chunks": 14
+    },
+    {
+      "filename": "GOLDRESOURCECORP_12_11_2008-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 139,
+      "chunks": 18
+    },
+    {
+      "filename": "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement.txt",
+      "sentences": 1343,
+      "chunks": 168
+    },
+    {
+      "filename": "GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt",
+      "sentences": 200,
+      "chunks": 25
+    },
+    {
+      "filename": "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.6_11951677_EX-10.6_License Agreement.txt",
+      "sentences": 144,
+      "chunks": 18
+    },
+    {
+      "filename": "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.txt",
+      "sentences": 198,
+      "chunks": 25
+    },
+    {
+      "filename": "GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt",
+      "sentences": 1069,
+      "chunks": 134
+    },
+    {
+      "filename": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",
+      "sentences": 56,
+      "chunks": 7
+    },
+    {
+      "filename": "GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement.txt",
+      "sentences": 166,
+      "chunks": 21
+    },
+    {
+      "filename": "GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt",
+      "sentences": 17,
+      "chunks": 3
+    },
+    {
+      "filename": "GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC..txt",
+      "sentences": 122,
+      "chunks": 16
+    },
+    {
+      "filename": "GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 174,
+      "chunks": 22
+    },
+    {
+      "filename": "GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt",
+      "sentences": 62,
+      "chunks": 8
+    },
+    {
+      "filename": "GWG HOLDINGS, INC. - ORDERLY MARKETING AGREEMENT.txt",
+      "sentences": 69,
+      "chunks": 9
+    },
+    {
+      "filename": "HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT.txt",
+      "sentences": 147,
+      "chunks": 19
+    },
+    {
+      "filename": "HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt",
+      "sentences": 1005,
+      "chunks": 126
+    },
+    {
+      "filename": "HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT.txt",
+      "sentences": 168,
+      "chunks": 21
+    },
+    {
+      "filename": "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+      "sentences": 155,
+      "chunks": 20
+    },
+    {
+      "filename": "HealthcentralCom_19991108_S-1A_EX-10.27_6623292_EX-10.27_Co-Branding Agreement.txt",
+      "sentences": 151,
+      "chunks": 19
+    },
+    {
+      "filename": "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).txt",
+      "sentences": 910,
+      "chunks": 114
+    },
+    {
+      "filename": "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT - Escrow Agreement.txt",
+      "sentences": 95,
+      "chunks": 12
+    },
+    {
+      "filename": "HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement.txt",
+      "sentences": 349,
+      "chunks": 44
+    },
+    {
+      "filename": "HerImports_20161018_8-KA_EX-10.14_9765707_EX-10.14_Maintenance Agreement.txt",
+      "sentences": 76,
+      "chunks": 10
+    },
+    {
+      "filename": "HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT.txt",
+      "sentences": 121,
+      "chunks": 16
+    },
+    {
+      "filename": "HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement.txt",
+      "sentences": 81,
+      "chunks": 11
+    },
+    {
+      "filename": "HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement.txt",
+      "sentences": 128,
+      "chunks": 16
+    },
+    {
+      "filename": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT.txt",
+      "sentences": 91,
+      "chunks": 12
+    },
+    {
+      "filename": "HOSPITALITYINVESTORSTRUST,INC_04_07_2014-EX-10.26-FRANCHISE AGREEMENT.txt",
+      "sentences": 717,
+      "chunks": 90
+    },
+    {
+      "filename": "HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT.txt",
+      "sentences": 129,
+      "chunks": 17
+    },
+    {
+      "filename": "HUBEIMINKANGPHARMACEUTICALLTD_09_19_2006-EX-10.1-OUTSOURCING AGREEMENT.txt",
+      "sentences": 39,
+      "chunks": 5
+    },
+    {
+      "filename": "HYDRONTECHNOLOGIESINC_03_31_1997-EX-10.47-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 107,
+      "chunks": 14
+    },
+    {
+      "filename": "HYPERIONSOFTWARECORP_09_28_1994-EX-10.47-EXCLUSIVE DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 189,
+      "chunks": 24
+    },
+    {
+      "filename": "IbioInc_20200313_8-K_EX-10.1_12052678_EX-10.1_Development Agreement.txt",
+      "sentences": 136,
+      "chunks": 17
+    },
+    {
+      "filename": "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.txt",
+      "sentences": 127,
+      "chunks": 16
+    },
+    {
+      "filename": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement.txt",
+      "sentences": 187,
+      "chunks": 24
+    },
+    {
+      "filename": "IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+      "sentences": 209,
+      "chunks": 27
+    },
+    {
+      "filename": "IDREAMSKYTECHNOLOGYLTD_07_03_2014-EX-10.39-Cooperation Agreement on Mobile Game Business.txt",
+      "sentences": 299,
+      "chunks": 38
+    },
+    {
+      "filename": "IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+      "sentences": 405,
+      "chunks": 51
+    },
+    {
+      "filename": "IMAGEWARESYSTEMSINC_12_20_1999-EX-10.22-MAINTENANCE AGREEMENT.txt",
+      "sentences": 122,
+      "chunks": 16
+    },
+    {
+      "filename": "ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+      "sentences": 236,
+      "chunks": 30
+    },
+    {
+      "filename": "IMMUNOMEDICSINC_08_07_2019-EX-10.1-PROMOTION AGREEMENT.txt",
+      "sentences": 730,
+      "chunks": 92
+    },
+    {
+      "filename": "IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT.txt",
+      "sentences": 266,
+      "chunks": 34
+    },
+    {
+      "filename": "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt",
+      "sentences": 130,
+      "chunks": 17
+    },
+    {
+      "filename": "ImpresseCorp_20000322_S-1A_EX-10.11_5199234_EX-10.11_Co-Branding Agreement.txt",
+      "sentences": 330,
+      "chunks": 42
+    },
+    {
+      "filename": "INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT.txt",
+      "sentences": 164,
+      "chunks": 21
+    },
+    {
+      "filename": "INKTOMICORP_06_08_1998-EX-10.14-SOFTWARE HOSTING AGREEMENT.txt",
+      "sentences": 289,
+      "chunks": 37
+    },
+    {
+      "filename": "InmodeLtd_20190729_F-1A_EX-10.9_11743243_EX-10.9_Manufacturing Agreement.txt",
+      "sentences": 207,
+      "chunks": 26
+    },
+    {
+      "filename": "InnerscopeHearingTechnologiesInc_20181109_8-K_EX-10.6_11419704_EX-10.6_Distributor Agreement.txt",
+      "sentences": 156,
+      "chunks": 20
+    },
+    {
+      "filename": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT.txt",
+      "sentences": 736,
+      "chunks": 92
+    },
+    {
+      "filename": "IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement.txt",
+      "sentences": 65,
+      "chunks": 9
+    },
+    {
+      "filename": "IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+      "sentences": 144,
+      "chunks": 18
+    },
+    {
+      "filename": "INTELLIGENTHIGHWAYSOLUTIONS,INC_01_18_2018-EX-10.1-Strategic Alliance Agreement.txt",
+      "sentences": 43,
+      "chunks": 6
+    },
+    {
+      "filename": "INTERNATIONALFASTFOODCORP_04_04_1997-EX-99-FRANCHISE AGREEMENT.txt",
+      "sentences": 556,
+      "chunks": 70
+    },
+    {
+      "filename": "INTERSECTENT,INC_05_11_2020-EX-10.1-SUPPLY AGREEMENT.txt",
+      "sentences": 275,
+      "chunks": 35
+    },
+    {
+      "filename": "INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement.txt",
+      "sentences": 175,
+      "chunks": 22
+    },
+    {
+      "filename": "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.txt",
+      "sentences": 603,
+      "chunks": 76
+    },
+    {
+      "filename": "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 291,
+      "chunks": 37
+    },
+    {
+      "filename": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement.txt",
+      "sentences": 432,
+      "chunks": 54
+    },
+    {
+      "filename": "IPAYMENT,INC_05_14_2007-EX-10.1-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 416,
+      "chunks": 52
+    },
+    {
+      "filename": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 134,
+      "chunks": 17
+    },
+    {
+      "filename": "JINGWEIINTERNATIONALLTD_10_04_2007-EX-10.7-INTELLECTUAL PROPERTY AGREEMENT.txt",
+      "sentences": 80,
+      "chunks": 10
+    },
+    {
+      "filename": "JOINTCORP_09_19_2014-EX-10.15-FRANCHISE AGREEMENT.txt",
+      "sentences": 775,
+      "chunks": 97
+    },
+    {
+      "filename": "KALLOINC_11_03_2011-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 351,
+      "chunks": 44
+    },
+    {
+      "filename": "KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT.txt",
+      "sentences": 64,
+      "chunks": 8
+    },
+    {
+      "filename": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+      "sentences": 727,
+      "chunks": 91
+    },
+    {
+      "filename": "KIROMICBIOPHARMA,INC_04_08_2020-EX-10.28-JOINT VENTURE AGREEMENT.txt",
+      "sentences": 127,
+      "chunks": 16
+    },
+    {
+      "filename": "KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT.txt",
+      "sentences": 109,
+      "chunks": 14
+    },
+    {
+      "filename": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement.txt",
+      "sentences": 196,
+      "chunks": 25
+    },
+    {
+      "filename": "KNOWLABS,INC_08_15_2005-EX-10-INTELLECTUAL PROPERTY AGREEMENT.txt",
+      "sentences": 78,
+      "chunks": 10
+    },
+    {
+      "filename": "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part1.txt",
+      "sentences": 107,
+      "chunks": 14
+    },
+    {
+      "filename": "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part2.txt",
+      "sentences": 33,
+      "chunks": 5
+    },
+    {
+      "filename": "LeadersonlineInc_20000427_S-1A_EX-10.8_4991089_EX-10.8_Co-Branding Agreement.txt",
+      "sentences": 370,
+      "chunks": 47
+    },
+    {
+      "filename": "LECLANCH\u00c9 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT.txt",
+      "sentences": 129,
+      "chunks": 17
+    },
+    {
+      "filename": "LegacyEducationAllianceInc_20141110_8-K_EX-10.9_8828866_EX-10.9_Endorsement Agreement.txt",
+      "sentences": 120,
+      "chunks": 15
+    },
+    {
+      "filename": "LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt",
+      "sentences": 208,
+      "chunks": 26
+    },
+    {
+      "filename": "LEGACYTECHNOLOGYHOLDINGS,INC_12_09_2005-EX-10.2-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 106,
+      "chunks": 14
+    },
+    {
+      "filename": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT.txt",
+      "sentences": 171,
+      "chunks": 22
+    },
+    {
+      "filename": "LejuHoldingsLtd_20140121_DRS (on F-1)_EX-10.26_8473102_EX-10.26_Content License Agreement1.txt",
+      "sentences": 232,
+      "chunks": 29
+    },
+    {
+      "filename": "LejuHoldingsLtd_20140121_DRS (on F-1)_EX-10.26_8473102_EX-10.26_Content License Agreement2.txt",
+      "sentences": 14,
+      "chunks": 2
+    },
+    {
+      "filename": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.txt",
+      "sentences": 58,
+      "chunks": 8
+    },
+    {
+      "filename": "LIGHTBRIDGECORP_11_23_2015-EX-10.26-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 103,
+      "chunks": 13
+    },
+    {
+      "filename": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 216,
+      "chunks": 27
+    },
+    {
+      "filename": "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.txt",
+      "sentences": 92,
+      "chunks": 12
+    },
+    {
+      "filename": "LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement.txt",
+      "sentences": 355,
+      "chunks": 45
+    },
+    {
+      "filename": "LOGANSROADHOUSEINC_03_27_1998-EX-10.17-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 125,
+      "chunks": 16
+    },
+    {
+      "filename": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement.txt",
+      "sentences": 94,
+      "chunks": 12
+    },
+    {
+      "filename": "LOOKSMARTLTD_07_20_2012-EX-99.(D)(I)-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 98,
+      "chunks": 13
+    },
+    {
+      "filename": "Loop Industries, Inc. - Marketing Agreement.txt",
+      "sentences": 195,
+      "chunks": 25
+    },
+    {
+      "filename": "LOYALTYPOINTINC_11_16_2004-EX-10.2-RESELLER AGREEMENT.txt",
+      "sentences": 422,
+      "chunks": 53
+    },
+    {
+      "filename": "LUCIDINC_04_15_2011-EX-10.9-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 105,
+      "chunks": 14
+    },
+    {
+      "filename": "MACROGENICSINC_08_02_2013-EX-10-COLLABORATION AGREEMENT.txt",
+      "sentences": 992,
+      "chunks": 124
+    },
+    {
+      "filename": "MACY_S,INC_05_11_2020-EX-99.4-JOINT FILING AGREEMENT.txt",
+      "sentences": 6,
+      "chunks": 1
+    },
+    {
+      "filename": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement.txt",
+      "sentences": 398,
+      "chunks": 50
+    },
+    {
+      "filename": "MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 90,
+      "chunks": 12
+    },
+    {
+      "filename": "MANUFACTURERSSERVICESLTD_06_05_2000-EX-10.14-OUTSOURCING AGREEMENT.txt",
+      "sentences": 1299,
+      "chunks": 163
+    },
+    {
+      "filename": "MARSHALLHOLDINGSINTERNATIONAL,INC_04_14_2004-EX-10.15-ENDORSEMENT AGREEMENT.txt",
+      "sentences": 71,
+      "chunks": 9
+    },
+    {
+      "filename": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT.txt",
+      "sentences": 72,
+      "chunks": 9
+    },
+    {
+      "filename": "MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT.txt",
+      "sentences": 119,
+      "chunks": 15
+    },
+    {
+      "filename": "MEDIWOUNDLTD_01_15_2014-EX-10.6-SUPPLY AGREEMENT.txt",
+      "sentences": 280,
+      "chunks": 35
+    },
+    {
+      "filename": "MEETGROUP,INC_06_29_2017-EX-10.1-COOPERATION AGREEMENT.txt",
+      "sentences": 186,
+      "chunks": 24
+    },
+    {
+      "filename": "MERCATAINC_03_09_2000-EX-10.21-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 173,
+      "chunks": 22
+    },
+    {
+      "filename": "MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT.txt",
+      "sentences": 123,
+      "chunks": 16
+    },
+    {
+      "filename": "MetLife, Inc. - Remarketing Agreement.txt",
+      "sentences": 202,
+      "chunks": 26
+    },
+    {
+      "filename": "MFAFINANCIAL,INC_07_06_2020-EX-99.D-JOINT FILING AGREEMENT.txt",
+      "sentences": 5,
+      "chunks": 1
+    },
+    {
+      "filename": "Microgenics Corporation - Collaborative Development and Commercialization Agreement.txt",
+      "sentences": 774,
+      "chunks": 97
+    },
+    {
+      "filename": "MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.txt",
+      "sentences": 275,
+      "chunks": 35
+    },
+    {
+      "filename": "MidwestEnergyEmissionsCorp_20080604_8-K_EX-10.2_3093976_EX-10.2_Content License Agreement.txt",
+      "sentences": 147,
+      "chunks": 19
+    },
+    {
+      "filename": "MJBIOTECH,INC_12_06_2018-EX-99.01-JOINT VENTURE AGREEMENT.txt",
+      "sentences": 188,
+      "chunks": 24
+    },
+    {
+      "filename": "MOELIS_CO_03_24_2014-EX-10.19-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 420,
+      "chunks": 53
+    },
+    {
+      "filename": "Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT .txt",
+      "sentences": 783,
+      "chunks": 98
+    },
+    {
+      "filename": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt",
+      "sentences": 122,
+      "chunks": 16
+    },
+    {
+      "filename": "MOSSIMOINC_04_14_2000-EX-10.14-ENDORSEMENT AGREEMENT.txt",
+      "sentences": 143,
+      "chunks": 18
+    },
+    {
+      "filename": "MOVADOGROUPINC_04_30_2003-EX-10.28-ENDORSEMENT AGREEMENT.txt",
+      "sentences": 95,
+      "chunks": 12
+    },
+    {
+      "filename": "MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement.txt",
+      "sentences": 45,
+      "chunks": 6
+    },
+    {
+      "filename": "MPLXLP_06_17_2015-EX-10.1-TRANSPORTATION SERVICES AGREEMENT.txt",
+      "sentences": 209,
+      "chunks": 27
+    },
+    {
+      "filename": "MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT.txt",
+      "sentences": 1306,
+      "chunks": 164
+    },
+    {
+      "filename": "MSCIINC_02_28_2008-EX-10.10-.txt",
+      "sentences": 68,
+      "chunks": 9
+    },
+    {
+      "filename": "MTITECHNOLOGYCORP_11_16_2004-EX-10.102-Reseller Agreement Premier Addendum.txt",
+      "sentences": 169,
+      "chunks": 22
+    },
+    {
+      "filename": "MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+      "sentences": 337,
+      "chunks": 43
+    },
+    {
+      "filename": "N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 169,
+      "chunks": 22
+    },
+    {
+      "filename": "NakedBrandGroupInc_20150731_POS AM (on S-1)_EX-10.75_9196027_EX-10.75_Endorsement Agreement.txt",
+      "sentences": 256,
+      "chunks": 32
+    },
+    {
+      "filename": "NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 247,
+      "chunks": 31
+    },
+    {
+      "filename": "NATIONALPROCESSINGINC_07_18_1996-EX-10.4-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 123,
+      "chunks": 16
+    },
+    {
+      "filename": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT.txt",
+      "sentences": 4,
+      "chunks": 1
+    },
+    {
+      "filename": "NeoformaInc_19991202_S-1A_EX-10.26_5224521_EX-10.26_Co-Branding Agreement.txt",
+      "sentences": 426,
+      "chunks": 54
+    },
+    {
+      "filename": "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 145,
+      "chunks": 19
+    },
+    {
+      "filename": "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt",
+      "sentences": 87,
+      "chunks": 11
+    },
+    {
+      "filename": "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New.txt",
+      "sentences": 544,
+      "chunks": 68
+    },
+    {
+      "filename": "NETGEAR,INC_04_21_2003-EX-10.16- AMENDMENT #2 TO THE DISTRIBUTION AGREEMENT.txt",
+      "sentences": 23,
+      "chunks": 3
+    },
+    {
+      "filename": "NETGEAR,INC_04_21_2003-EX-10.16-AMENDMENT TO THE DISTRIBUTOR AGREEMENT BETWEEN INGRAM MICRO AND NETGEAR.txt",
+      "sentences": 36,
+      "chunks": 5
+    },
+    {
+      "filename": "NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 249,
+      "chunks": 32
+    },
+    {
+      "filename": "NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 138,
+      "chunks": 18
+    },
+    {
+      "filename": "NETZEEINC_11_14_2002-EX-10.3-MAINTENANCE AGREEMENT.txt",
+      "sentences": 12,
+      "chunks": 2
+    },
+    {
+      "filename": "NeuroboPharmaceuticalsInc_20190903_S-4_EX-10.36_11802165_EX-10.36_Manufacturing Agreement_ Supply Agreement.txt",
+      "sentences": 71,
+      "chunks": 9
+    },
+    {
+      "filename": "NEXSTARFINANCEHOLDINGSINC_03_27_2002-EX-10.26-OUTSOURCING AGREEMENT.txt",
+      "sentences": 518,
+      "chunks": 65
+    },
+    {
+      "filename": "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt",
+      "sentences": 720,
+      "chunks": 90
+    },
+    {
+      "filename": "NlsPharmaceuticsLtd_20200228_F-1_EX-10.14_12029046_EX-10.14_Development Agreement.txt",
+      "sentences": 342,
+      "chunks": 43
+    },
+    {
+      "filename": "NmfSlfIInc_20200115_10-12GA_EX-10.5_11946987_EX-10.5_Trademark License Agreement.txt",
+      "sentences": 100,
+      "chunks": 13
+    },
+    {
+      "filename": "NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT.txt",
+      "sentences": 95,
+      "chunks": 12
+    },
+    {
+      "filename": "NUVEEN - REMARKETING AGREEMENT.txt",
+      "sentences": 283,
+      "chunks": 36
+    },
+    {
+      "filename": "NYLIACVARIABLEANNUITYSEPARATEACCOUNTIII_04_10_2020-EX-99.8.KK-SERVICE AGREEMENT.txt",
+      "sentences": 40,
+      "chunks": 5
+    },
+    {
+      "filename": "OAKTREECAPITALGROUP,LLC_03_02_2020-EX-10.8-Services Agreement.txt",
+      "sentences": 76,
+      "chunks": 10
+    },
+    {
+      "filename": "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.txt",
+      "sentences": 318,
+      "chunks": 40
+    },
+    {
+      "filename": "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.txt",
+      "sentences": 1035,
+      "chunks": 130
+    },
+    {
+      "filename": "OLDAPIWIND-DOWNLTD_01_08_2016-EX-1.3-AGENCY AGREEMENT1.txt",
+      "sentences": 234,
+      "chunks": 30
+    },
+    {
+      "filename": "OLDAPIWIND-DOWNLTD_01_08_2016-EX-1.3-AGENCY AGREEMENT2.txt",
+      "sentences": 12,
+      "chunks": 2
+    },
+    {
+      "filename": "OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.txt",
+      "sentences": 145,
+      "chunks": 19
+    },
+    {
+      "filename": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 326,
+      "chunks": 41
+    },
+    {
+      "filename": "ON4COMMUNICATIONSINC_07_02_2009-EX-10.1-PROMOTION AGREEMENT.txt",
+      "sentences": 85,
+      "chunks": 11
+    },
+    {
+      "filename": "ONEMAINHOLDINGS,INC_02_20_2020-EX-99.D-JOINT FILING AGREEMENT.txt",
+      "sentences": 5,
+      "chunks": 1
+    },
+    {
+      "filename": "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT.txt",
+      "sentences": 107,
+      "chunks": 14
+    },
+    {
+      "filename": "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 57,
+      "chunks": 8
+    },
+    {
+      "filename": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 126,
+      "chunks": 16
+    },
+    {
+      "filename": "OTISWORLDWIDECORP_04_03_2020-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT by and among UNITED TECHNOLOGIES CORPORATION, OTIS WORLDWIDE CORPORATION and CARRIER ~1.txt",
+      "sentences": 176,
+      "chunks": 22
+    },
+    {
+      "filename": "PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement.txt",
+      "sentences": 60,
+      "chunks": 8
+    },
+    {
+      "filename": "PACIFICSYSTEMSCONTROLTECHNOLOGYINC_08_24_2000-EX-10.53-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 18,
+      "chunks": 3
+    },
+    {
+      "filename": "PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT .txt",
+      "sentences": 631,
+      "chunks": 79
+    },
+    {
+      "filename": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement.txt",
+      "sentences": 90,
+      "chunks": 12
+    },
+    {
+      "filename": "PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT.txt",
+      "sentences": 123,
+      "chunks": 16
+    },
+    {
+      "filename": "PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+      "sentences": 303,
+      "chunks": 38
+    },
+    {
+      "filename": "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.txt",
+      "sentences": 551,
+      "chunks": 69
+    },
+    {
+      "filename": "ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement.txt",
+      "sentences": 404,
+      "chunks": 51
+    },
+    {
+      "filename": "PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt",
+      "sentences": 320,
+      "chunks": 40
+    },
+    {
+      "filename": "PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement.txt",
+      "sentences": 91,
+      "chunks": 12
+    },
+    {
+      "filename": "PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.txt",
+      "sentences": 113,
+      "chunks": 15
+    },
+    {
+      "filename": "PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement2.txt",
+      "sentences": 5,
+      "chunks": 1
+    },
+    {
+      "filename": "PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement3.txt",
+      "sentences": 16,
+      "chunks": 2
+    },
+    {
+      "filename": "PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement1.txt",
+      "sentences": 75,
+      "chunks": 10
+    },
+    {
+      "filename": "PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt",
+      "sentences": 126,
+      "chunks": 16
+    },
+    {
+      "filename": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+      "sentences": 232,
+      "chunks": 29
+    },
+    {
+      "filename": "PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.txt",
+      "sentences": 235,
+      "chunks": 30
+    },
+    {
+      "filename": "PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement1.txt",
+      "sentences": 996,
+      "chunks": 125
+    },
+    {
+      "filename": "PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement3.txt",
+      "sentences": 29,
+      "chunks": 4
+    },
+    {
+      "filename": "PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT.txt",
+      "sentences": 67,
+      "chunks": 9
+    },
+    {
+      "filename": "PharmagenInc_20120803_8-KA_EX-10.1_7693204_EX-10.1_Endorsement Agreement.txt",
+      "sentences": 135,
+      "chunks": 17
+    },
+    {
+      "filename": "PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt",
+      "sentences": 1051,
+      "chunks": 132
+    },
+    {
+      "filename": "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 515,
+      "chunks": 65
+    },
+    {
+      "filename": "PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement.txt",
+      "sentences": 75,
+      "chunks": 10
+    },
+    {
+      "filename": "PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement.txt",
+      "sentences": 124,
+      "chunks": 16
+    },
+    {
+      "filename": "PHREESIA,INC_05_28_2019-EX-10.18-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 573,
+      "chunks": 72
+    },
+    {
+      "filename": "PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun).txt",
+      "sentences": 100,
+      "chunks": 13
+    },
+    {
+      "filename": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.txt",
+      "sentences": 589,
+      "chunks": 74
+    },
+    {
+      "filename": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2.txt",
+      "sentences": 17,
+      "chunks": 3
+    },
+    {
+      "filename": "PrecheckHealthServicesInc_20200320_8-K_EX-99.2_12070169_EX-99.2_Distributor Agreement.txt",
+      "sentences": 56,
+      "chunks": 7
+    },
+    {
+      "filename": "PRECIGEN,INC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt",
+      "sentences": 2,
+      "chunks": 1
+    },
+    {
+      "filename": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt",
+      "sentences": 148,
+      "chunks": 19
+    },
+    {
+      "filename": "PRIMEENERGYRESOURCESCORP_04_02_2007-EX-10.28-COMPLETION AND LIQUIDITY MAINTENANCE AGREEMENT.txt",
+      "sentences": 23,
+      "chunks": 3
+    },
+    {
+      "filename": "Principal Life Insurance Company - Broker Dealer Marketing and Servicing Agreement.txt",
+      "sentences": 143,
+      "chunks": 18
+    },
+    {
+      "filename": "PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT.txt",
+      "sentences": 250,
+      "chunks": 32
+    },
+    {
+      "filename": "PROLONGINTERNATIONALCORP_03_23_1998-EX-10.16-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 101,
+      "chunks": 13
+    },
+    {
+      "filename": "PrudentialBancorpInc_20170606_8-K_EX-10.4_10474434_EX-10.4_Endorsement Agreement.txt",
+      "sentences": 66,
+      "chunks": 9
+    },
+    {
+      "filename": "QBIOMEDINC_04_08_2020-EX-99.1-JOINT FILING AGREEMENT.txt",
+      "sentences": 29,
+      "chunks": 4
+    },
+    {
+      "filename": "QIWI_06_16_2017-EX-99.(D)(2)-COOPERATION AGREEMENT.txt",
+      "sentences": 88,
+      "chunks": 11
+    },
+    {
+      "filename": "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.txt",
+      "sentences": 82,
+      "chunks": 11
+    },
+    {
+      "filename": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.txt",
+      "sentences": 477,
+      "chunks": 60
+    },
+    {
+      "filename": "RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement.txt",
+      "sentences": 248,
+      "chunks": 31
+    },
+    {
+      "filename": "RandWorldwideInc_20010402_8-KA_EX-10.2_2102464_EX-10.2_Co-Branding Agreement.txt",
+      "sentences": 203,
+      "chunks": 26
+    },
+    {
+      "filename": "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.txt",
+      "sentences": 505,
+      "chunks": 64
+    },
+    {
+      "filename": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement.txt",
+      "sentences": 152,
+      "chunks": 19
+    },
+    {
+      "filename": "ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+      "sentences": 153,
+      "chunks": 20
+    },
+    {
+      "filename": "REGANHOLDINGCORP_03_31_2008-EX-10-LICENSE AND HOSTING AGREEMENT.txt",
+      "sentences": 261,
+      "chunks": 33
+    },
+    {
+      "filename": "Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT.txt",
+      "sentences": 234,
+      "chunks": 30
+    },
+    {
+      "filename": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.txt",
+      "sentences": 299,
+      "chunks": 38
+    },
+    {
+      "filename": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement.txt",
+      "sentences": 968,
+      "chunks": 121
+    },
+    {
+      "filename": "REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 87,
+      "chunks": 11
+    },
+    {
+      "filename": "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.txt",
+      "sentences": 257,
+      "chunks": 33
+    },
+    {
+      "filename": "ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt",
+      "sentences": 393,
+      "chunks": 50
+    },
+    {
+      "filename": "RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement.txt",
+      "sentences": 34,
+      "chunks": 5
+    },
+    {
+      "filename": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT.txt",
+      "sentences": 84,
+      "chunks": 11
+    },
+    {
+      "filename": "RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement.txt",
+      "sentences": 606,
+      "chunks": 76
+    },
+    {
+      "filename": "RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt",
+      "sentences": 2,
+      "chunks": 1
+    },
+    {
+      "filename": "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 320,
+      "chunks": 40
+    },
+    {
+      "filename": "RUBIOSRESTAURANTSINC_03_31_2008-EX-10.75-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 169,
+      "chunks": 22
+    },
+    {
+      "filename": "SalesforcecomInc_20171122_10-Q_EX-10.1_10961535_EX-10.1_Reseller Agreement.txt",
+      "sentences": 20,
+      "chunks": 3
+    },
+    {
+      "filename": "SANDRIDGEENERGYINC_08_06_2009-EX-10.6-OPERATIONS AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 302,
+      "chunks": 38
+    },
+    {
+      "filename": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement.txt",
+      "sentences": 83,
+      "chunks": 11
+    },
+    {
+      "filename": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt",
+      "sentences": 477,
+      "chunks": 60
+    },
+    {
+      "filename": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2.txt",
+      "sentences": 71,
+      "chunks": 9
+    },
+    {
+      "filename": "ScansourceInc_20190822_10-K_EX-10.39_11793959_EX-10.39_Distributor Agreement.txt",
+      "sentences": 42,
+      "chunks": 6
+    },
+    {
+      "filename": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT.txt",
+      "sentences": 62,
+      "chunks": 8
+    },
+    {
+      "filename": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.txt",
+      "sentences": 408,
+      "chunks": 51
+    },
+    {
+      "filename": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT.txt",
+      "sentences": 45,
+      "chunks": 6
+    },
+    {
+      "filename": "SENMIAOTECHNOLOGYLTD_02_19_2019-EX-10.5-Collaboration Agreement.txt",
+      "sentences": 275,
+      "chunks": 35
+    },
+    {
+      "filename": "SEPARATEACCOUNTIIOFAGL_05_02_2011-EX-99.(J)(4)-UNCONDITIONAL CAPITAL MAINTENANCE AGREEMENT.txt",
+      "sentences": 45,
+      "chunks": 6
+    },
+    {
+      "filename": "SFGFINANCIALCORP_05_12_2009-EX-10.1-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 197,
+      "chunks": 25
+    },
+    {
+      "filename": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement.txt",
+      "sentences": 42,
+      "chunks": 6
+    },
+    {
+      "filename": "SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement.txt",
+      "sentences": 550,
+      "chunks": 69
+    },
+    {
+      "filename": "SightLife Surgical, Inc. - STRATEGIC SALES _ MARKETING AGREEMENT.txt",
+      "sentences": 151,
+      "chunks": 19
+    },
+    {
+      "filename": "SimplicityEsportsGamingCompany_20181130_8-K_EX-10.1_11444071_EX-10.1_Franchise Agreement.txt",
+      "sentences": 147,
+      "chunks": 19
+    },
+    {
+      "filename": "SLINGERBAGINC_05_27_2020-EX-10.7-CONSULTING AGREEMENT.txt",
+      "sentences": 177,
+      "chunks": 23
+    },
+    {
+      "filename": "SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt",
+      "sentences": 96,
+      "chunks": 12
+    },
+    {
+      "filename": "SmartRxSystemsInc_20180914_1-A_EX1A-6 MAT CTRCT_11351705_EX1A-6 MAT CTRCT_Distributor Agreement.txt",
+      "sentences": 224,
+      "chunks": 28
+    },
+    {
+      "filename": "SMITHELECTRICVEHICLESCORP_04_04_2012-EX-10.26-FLEET MAINTENANCE AGREEMENT.txt",
+      "sentences": 319,
+      "chunks": 40
+    },
+    {
+      "filename": "SOLUTIONSVENDINGINTERNATIONAL,INC_03_31_2020-EX1A-1 UNDR AGMT-SERVICES AGREEMENT.txt",
+      "sentences": 32,
+      "chunks": 4
+    },
+    {
+      "filename": "Sonos, Inc. - Manufacturing Agreement .txt",
+      "sentences": 863,
+      "chunks": 108
+    },
+    {
+      "filename": "SONUSCORP_03_12_1997-EX-10.11-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 70,
+      "chunks": 9
+    },
+    {
+      "filename": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.txt",
+      "sentences": 499,
+      "chunks": 63
+    },
+    {
+      "filename": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement2.txt",
+      "sentences": 14,
+      "chunks": 2
+    },
+    {
+      "filename": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement3.txt",
+      "sentences": 37,
+      "chunks": 5
+    },
+    {
+      "filename": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement4.txt",
+      "sentences": 8,
+      "chunks": 1
+    },
+    {
+      "filename": "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.txt",
+      "sentences": 126,
+      "chunks": 16
+    },
+    {
+      "filename": "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 114,
+      "chunks": 15
+    },
+    {
+      "filename": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT.txt",
+      "sentences": 54,
+      "chunks": 7
+    },
+    {
+      "filename": "SPIENERGYCO,LTD_03_09_2011-EX-99.5-OPERATIONS AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 228,
+      "chunks": 29
+    },
+    {
+      "filename": "SPIENERGYCO,LTD_07_10_2014-EX-10-Cooperation Agreement of 50MWp Photovoltaic Grid-connected Power Generation Project in Yangqiao of~1.txt",
+      "sentences": 12,
+      "chunks": 2
+    },
+    {
+      "filename": "SPOKHOLDINGS,INC_06_19_2020-EX-10.1-COOPERATION AGREEMENT.txt",
+      "sentences": 67,
+      "chunks": 9
+    },
+    {
+      "filename": "SPORTHALEYINC_09_29_1997-EX-10.2-10-ENDORSEMENT AGREEMENT.txt",
+      "sentences": 66,
+      "chunks": 9
+    },
+    {
+      "filename": "SPRINGBANKPHARMACEUTICALS,INC_04_08_2020-EX-99.A-JOINT FILING AGREEMENT.txt",
+      "sentences": 5,
+      "chunks": 1
+    },
+    {
+      "filename": "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.txt",
+      "sentences": 208,
+      "chunks": 26
+    },
+    {
+      "filename": "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 208,
+      "chunks": 26
+    },
+    {
+      "filename": "StampscomInc_20001114_10-Q_EX-10.47_2631630_EX-10.47_Co-Branding Agreement.txt",
+      "sentences": 444,
+      "chunks": 56
+    },
+    {
+      "filename": "STARTECGLOBALCOMMUNICATIONSCORP_11_16_1998-EX-10.30-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 317,
+      "chunks": 40
+    },
+    {
+      "filename": "SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate Agreement.txt",
+      "sentences": 124,
+      "chunks": 16
+    },
+    {
+      "filename": "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.txt",
+      "sentences": 163,
+      "chunks": 21
+    },
+    {
+      "filename": "SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 210,
+      "chunks": 27
+    },
+    {
+      "filename": "SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 570,
+      "chunks": 72
+    },
+    {
+      "filename": "SUNTRONCORP_05_17_2006-EX-10.22-MAINTENANCE AGREEMENT.txt",
+      "sentences": 101,
+      "chunks": 13
+    },
+    {
+      "filename": "SYKESHEALTHPLANSERVICESINC_04_24_1998-EX-10.14-OUTSOURCING AGREEMENT.txt",
+      "sentences": 70,
+      "chunks": 9
+    },
+    {
+      "filename": "TALCOTTRESOLUTIONLIFEINSURANCECO-SEPARATEACCOUNTTWELVE_04_30_2020-EX-99.8(L)-SERVICE AGREEMENT.txt",
+      "sentences": 149,
+      "chunks": 19
+    },
+    {
+      "filename": "TALLGRASSENERGY,LP_02_20_2020-EX-99.26-JOINT FILING AGREEMENT.txt",
+      "sentences": 11,
+      "chunks": 2
+    },
+    {
+      "filename": "TcPipelinesLp_20160226_10-K_EX-99.12_9454048_EX-99.12_Transportation Agreement.txt",
+      "sentences": 32,
+      "chunks": 4
+    },
+    {
+      "filename": "TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT.txt",
+      "sentences": 151,
+      "chunks": 19
+    },
+    {
+      "filename": "TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 364,
+      "chunks": 46
+    },
+    {
+      "filename": "TELKOMSALTD_01_30_2003-EX-10-LICENCE AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 1025,
+      "chunks": 129
+    },
+    {
+      "filename": "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.txt",
+      "sentences": 279,
+      "chunks": 35
+    },
+    {
+      "filename": "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.txt",
+      "sentences": 132,
+      "chunks": 17
+    },
+    {
+      "filename": "ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement.txt",
+      "sentences": 50,
+      "chunks": 7
+    },
+    {
+      "filename": "TICKETSCOMINC_06_22_1999-EX-10.22-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 55,
+      "chunks": 7
+    },
+    {
+      "filename": "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.txt",
+      "sentences": 169,
+      "chunks": 22
+    },
+    {
+      "filename": "TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+      "sentences": 342,
+      "chunks": 43
+    },
+    {
+      "filename": "TRANSMONTAIGNEPARTNERSLLC_03_13_2020-EX-10.9-SERVICES AGREEMENT.txt",
+      "sentences": 36,
+      "chunks": 5
+    },
+    {
+      "filename": "TRANSPHORM,INC_02_14_2020-EX-10.12(1)-JOINT VENTURE AGREEMENT.txt",
+      "sentences": 348,
+      "chunks": 44
+    },
+    {
+      "filename": "TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT.txt",
+      "sentences": 628,
+      "chunks": 79
+    },
+    {
+      "filename": "TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT.txt",
+      "sentences": 103,
+      "chunks": 13
+    },
+    {
+      "filename": "TRUENORTHENERGYCORP_02_08_2007-EX-10.1-DEVELOPMENT AGREEMENT.txt",
+      "sentences": 158,
+      "chunks": 20
+    },
+    {
+      "filename": "TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate Agreement.txt",
+      "sentences": 252,
+      "chunks": 32
+    },
+    {
+      "filename": "TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT.txt",
+      "sentences": 81,
+      "chunks": 11
+    },
+    {
+      "filename": "TURNKEYCAPITAL,INC_07_20_2017-EX-1.1-Strategic Alliance Agreement.txt",
+      "sentences": 66,
+      "chunks": 9
+    },
+    {
+      "filename": "UAGHINC_04_14_2004-EX-10.18-MAINTENANCE AGREEMENT.txt",
+      "sentences": 101,
+      "chunks": 13
+    },
+    {
+      "filename": "ULTRAGENYXPHARMACEUTICALINC_12_23_2013-EX-10.9-SUPPLY AGREEMENT.txt",
+      "sentences": 88,
+      "chunks": 11
+    },
+    {
+      "filename": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement.txt",
+      "sentences": 62,
+      "chunks": 8
+    },
+    {
+      "filename": "UNITEDNATIONALBANCORP_03_03_1999-EX-99-Outsourcing Agreement with the BISYS Group, Inc..txt",
+      "sentences": 10,
+      "chunks": 2
+    },
+    {
+      "filename": "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.txt",
+      "sentences": 801,
+      "chunks": 101
+    },
+    {
+      "filename": "URSCORPNEW_03_17_2014-EX-99-COOPERATION AGREEMENT.txt",
+      "sentences": 145,
+      "chunks": 19
+    },
+    {
+      "filename": "USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 276,
+      "chunks": 35
+    },
+    {
+      "filename": "UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2.txt",
+      "sentences": 132,
+      "chunks": 17
+    },
+    {
+      "filename": "VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT.txt",
+      "sentences": 288,
+      "chunks": 36
+    },
+    {
+      "filename": "VAPOTHERM, INC. - Manufacturing and Supply Agreement.txt",
+      "sentences": 311,
+      "chunks": 39
+    },
+    {
+      "filename": "VARIABLESEPARATEACCOUNT_04_30_2014-EX-13.C-UNCONDITIONAL CAPITAL MAINTENANCE AGREEMENT.txt",
+      "sentences": 61,
+      "chunks": 8
+    },
+    {
+      "filename": "VAXCYTE,INC_05_22_2020-EX-10.19-SUPPLY AGREEMENT.txt",
+      "sentences": 367,
+      "chunks": 46
+    },
+    {
+      "filename": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT.txt",
+      "sentences": 14,
+      "chunks": 2
+    },
+    {
+      "filename": "VERICELCORP_08_06_2019-EX-10.10-SUPPLY AGREEMENT.txt",
+      "sentences": 423,
+      "chunks": 53
+    },
+    {
+      "filename": "VerizonAbsLlc_20200123_8-K_EX-10.4_11952335_EX-10.4_Service Agreement.txt",
+      "sentences": 1025,
+      "chunks": 129
+    },
+    {
+      "filename": "VERSOTECHNOLOGIESINC_12_28_2007-EX-99.3-INTELLECTUAL PROPERTY AGREEMENT.txt",
+      "sentences": 13,
+      "chunks": 2
+    },
+    {
+      "filename": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 249,
+      "chunks": 32
+    },
+    {
+      "filename": "VertexEnergyInc_20200113_8-K_EX-10.1_11943624_EX-10.1_Marketing Agreement.txt",
+      "sentences": 258,
+      "chunks": 33
+    },
+    {
+      "filename": "VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt",
+      "sentences": 348,
+      "chunks": 44
+    },
+    {
+      "filename": "VgrabCommunicationsInc_20200129_10-K_EX-10.33_11958828_EX-10.33_Development Agreement.txt",
+      "sentences": 104,
+      "chunks": 13
+    },
+    {
+      "filename": "VIOLINMEMORYINC_12_12_2012-EX-10.14-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 395,
+      "chunks": 50
+    },
+    {
+      "filename": "VIRGINGALACTICHOLDINGS,INC_04_08_2020-EX-99.1-JOINT FILING STATEMENT.txt",
+      "sentences": 4,
+      "chunks": 1
+    },
+    {
+      "filename": "VIRTUALSCOPICS,INC_11_12_2010-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 223,
+      "chunks": 28
+    },
+    {
+      "filename": "VirtuosoSurgicalInc_20191227_1-A_EX1A-6 MAT CTRCT_11933379_EX1A-6 MAT CTRCT_License Agreement.txt",
+      "sentences": 148,
+      "chunks": 19
+    },
+    {
+      "filename": "VISIUMTECHNOLOGIES,INC_10_20_2004-EX-10.20-DISTRIBUTOR AGREEMENT.txt",
+      "sentences": 342,
+      "chunks": 43
+    },
+    {
+      "filename": "VitalibisInc_20180316_8-K_EX-10.2_11100168_EX-10.2_Hosting Agreement.txt",
+      "sentences": 275,
+      "chunks": 35
+    },
+    {
+      "filename": "VITAMINSHOPPECOMINC_09_13_1999-EX-10.26-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 286,
+      "chunks": 36
+    },
+    {
+      "filename": "VIVINT SOLAR, INC. - NON-COMPETITION AGREEMENT.txt",
+      "sentences": 28,
+      "chunks": 4
+    },
+    {
+      "filename": "VNUE,INC_07_10_2015-EX-10.1-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 144,
+      "chunks": 18
+    },
+    {
+      "filename": "VnueInc_20150914_8-K_EX-10.1_9259571_EX-10.1_Promotion Agreement.txt",
+      "sentences": 81,
+      "chunks": 11
+    },
+    {
+      "filename": "WARNERCHILCOTTPLC_12_31_2003-EX-4.36-DEVELOPMENT AGREEMENT.txt",
+      "sentences": 83,
+      "chunks": 11
+    },
+    {
+      "filename": "WARNINGMANAGEMENTSERVICESINC_12_10_1999-EX-10-ENDORSEMENT AGREEMENT.txt",
+      "sentences": 158,
+      "chunks": 20
+    },
+    {
+      "filename": "WASTE2ENERGYHOLDINGS,INC_06_03_2010-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 124,
+      "chunks": 16
+    },
+    {
+      "filename": "WatchitMediaInc_20061201_8-K_EX-10.1_4148672_EX-10.1_Content License Agreement.txt",
+      "sentences": 12,
+      "chunks": 2
+    },
+    {
+      "filename": "WaterNowInc_20191120_10-Q_EX-10.12_11900227_EX-10.12_Distributor Agreement.txt",
+      "sentences": 241,
+      "chunks": 31
+    },
+    {
+      "filename": "WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt",
+      "sentences": 99,
+      "chunks": 13
+    },
+    {
+      "filename": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement.txt",
+      "sentences": 108,
+      "chunks": 14
+    },
+    {
+      "filename": "WELLSFARGOMORTGAGEBACKEDSECURITIES2006-6TRUST_05_11_2006-EX-10.3-Yield Maintenance Agreement.txt",
+      "sentences": 108,
+      "chunks": 14
+    },
+    {
+      "filename": "WESTERN COPPER - NON-COMPETITION AGREEMENT.txt",
+      "sentences": 37,
+      "chunks": 5
+    },
+    {
+      "filename": "WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement.txt",
+      "sentences": 347,
+      "chunks": 44
+    },
+    {
+      "filename": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT.txt",
+      "sentences": 320,
+      "chunks": 40
+    },
+    {
+      "filename": "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT - Intellectual Property Rights                 Confidentiality and Non-Use Obligations Agreement.txt",
+      "sentences": 22,
+      "chunks": 3
+    },
+    {
+      "filename": "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT.txt",
+      "sentences": 139,
+      "chunks": 18
+    },
+    {
+      "filename": "WORLDWIDESTRATEGIESINC_11_02_2005-EX-10-RESELLER AGREEMENT.txt",
+      "sentences": 337,
+      "chunks": 43
+    },
+    {
+      "filename": "WPPPLC_04_30_2020-EX-4.28-SERVICE AGREEMENT.txt",
+      "sentences": 233,
+      "chunks": 30
+    },
+    {
+      "filename": "XACCT Technologies, Inc.SUPPORT AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 56,
+      "chunks": 7
+    },
+    {
+      "filename": "XENCORINC_10_25_2013-EX-10.24-COLLABORATION AGREEMENT (3).txt",
+      "sentences": 451,
+      "chunks": 57
+    },
+    {
+      "filename": "XinhuaSportsEntertainmentLtd_20070221_F-1_EX-99.4_645553_EX-99.4_Content License Agreement.txt",
+      "sentences": 82,
+      "chunks": 11
+    },
+    {
+      "filename": "XLITECHNOLOGIES,INC_12_02_2015-EX-10.02-STRATEGIC ALLIANCE AGREEMENT.txt",
+      "sentences": 38,
+      "chunks": 5
+    },
+    {
+      "filename": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",
+      "sentences": 122,
+      "chunks": 16
+    },
+    {
+      "filename": "XpresspaGroupInc_20190401_10-K_EX-10.28_11599457_EX-10.28_Marketing Agreement.txt",
+      "sentences": 237,
+      "chunks": 30
+    },
+    {
+      "filename": "XYBERNAUTCORP_07_12_2002-EX-4-SPONSORSHIP AGREEMENT.txt",
+      "sentences": 176,
+      "chunks": 22
+    },
+    {
+      "filename": "ZEBRATECHNOLOGIESCORP_04_16_2014-EX-10.1-INTELLECTUAL PROPERTY AGREEMENT.txt",
+      "sentences": 353,
+      "chunks": 45
+    },
+    {
+      "filename": "ZogenixInc_20190509_10-Q_EX-10.2_11663313_EX-10.2_Distributor Agreement.txt",
+      "sentences": 735,
+      "chunks": 92
+    },
+    {
+      "filename": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT.txt",
+      "sentences": 28,
+      "chunks": 4
+    },
+    {
+      "filename": "Zounds Hearing, Inc. - MANUFACTURING DESIGN MARKETING AGREEMENT.txt",
+      "sentences": 246,
+      "chunks": 31
+    },
+    {
+      "filename": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement.txt",
+      "sentences": 78,
+      "chunks": 10
+    }
+  ]
+}
