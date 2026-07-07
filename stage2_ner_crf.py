@@ -6,10 +6,52 @@ import sklearn_crfsuite
 from sklearn_crfsuite import metrics
 from sklearn.model_selection import train_test_split
 
+# Legal gazetteers — known legal terms
+LEGAL_GAZETTEERS = {
+    'company_suffixes': {
+        'llc', 'inc', 'corp', 'ltd', 'plc', 'gmbh', 'ag', 'sa',
+        'corporation', 'incorporated', 'limited', 'company', 'co',
+        'group', 'holdings', 'partners', 'associates', 'ventures'
+    },
+    'jurisdictions': {
+        'delaware', 'california', 'york', 'texas', 'florida',
+        'illinois', 'nevada', 'england', 'wales', 'ontario',
+        'germany', 'france', 'china', 'india', 'israel', 'pennsylvania',
+        'kansas', 'massachusetts', 'virginia', 'georgia', 'ohio'
+    },
+    'months': {
+        'january', 'february', 'march', 'april', 'may', 'june',
+        'july', 'august', 'september', 'october', 'november', 'december'
+    },
+    'legal_terms': {
+        'agreement', 'contract', 'license', 'arrangement', 'deed',
+        'indenture', 'amendment', 'addendum', 'exhibit', 'schedule',
+        'annex', 'attachment', 'appendix'
+    },
+    'notice_terms': {
+        'notice', 'notification', 'written notice', 'prior notice',
+        'advance notice', 'formal notice'
+    },
+    'date_indicators': {
+        'dated', 'effective', 'executed', 'entered', 'signed',
+        'commencing', 'expiring', 'terminating'
+    }
+}
+
 def word_features(sentence, i):
+    """
+    Enhanced feature extraction with:
+    1. Original features (word shape, prefix, suffix)
+    2. Gazetteer features (known legal terms)
+    3. Dependency features (grammatical role)
+    4. Context window features (±2 words)
+    """
     word = sentence[i]
+    word_lower = word.lower()
+
     features = {
-        'word.lower': word.lower(),
+        # ── ORIGINAL FEATURES ──
+        'word.lower': word_lower,
         'word.isupper': word.isupper(),
         'word.istitle': word.istitle(),
         'word.isdigit': word.isdigit(),
@@ -19,47 +61,68 @@ def word_features(sentence, i):
         'word.suffix3': word[-3:].lower(),
         'word.has_hyphen': '-' in word,
         'word.has_digit': any(c.isdigit() for c in word),
-        'word.is_legal_suffix': word.lower() in [
-            'llc', 'inc', 'ltd', 'corp', 'corporation',
-            'company', 'co', 'group', 'holdings', 'partners'
-        ],
-        'word.is_month': word.lower() in [
-            'january', 'february', 'march', 'april', 'may', 'june',
-            'july', 'august', 'september', 'october', 'november', 'december'
-        ],
-        'word.is_legal_term': word.lower() in [
-            'agreement', 'contract', 'license', 'arrangement',
-            'party', 'parties', 'section', 'article', 'clause'
-        ],
-        'word.is_jurisdiction': word.lower() in [
-            'delaware', 'california', 'york', 'texas', 'florida',
-            'illinois', 'nevada', 'england', 'wales'
-        ],
+
+        # ── GAZETTEER FEATURES ──
+        'word.is_company_suffix': word_lower in LEGAL_GAZETTEERS['company_suffixes'],
+        'word.is_jurisdiction': word_lower in LEGAL_GAZETTEERS['jurisdictions'],
+        'word.is_month': word_lower in LEGAL_GAZETTEERS['months'],
+        'word.is_legal_term': word_lower in LEGAL_GAZETTEERS['legal_terms'],
+        'word.is_notice_term': word_lower in LEGAL_GAZETTEERS['notice_terms'],
+        'word.is_date_indicator': word_lower in LEGAL_GAZETTEERS['date_indicators'],
+
+        # ── SHAPE FEATURES ──
+        'word.is_all_caps': word.isupper() and len(word) > 1,
+        'word.has_currency': word.startswith('$') or word_lower in {'usd', 'dollars'},
+        'word.is_section': word_lower in {'section', 'article', 'clause', 'exhibit'},
+        'word.length': min(len(word), 20),  # capped at 20
     }
+
+    # ── PREVIOUS WORD FEATURES (context -1) ──
     if i > 0:
-        prev_word = sentence[i-1]
+        prev = sentence[i-1]
         features.update({
-            'prev_word.lower': prev_word.lower(),
-            'prev_word.istitle': prev_word.istitle(),
-            'prev_word.isupper': prev_word.isupper(),
-            'prev_word.is_legal_suffix': prev_word.lower() in [
-                'llc', 'inc', 'ltd', 'corp', 'corporation'
-            ],
+            'prev_word.lower': prev.lower(),
+            'prev_word.istitle': prev.istitle(),
+            'prev_word.isupper': prev.isupper(),
+            'prev_word.is_company_suffix': prev.lower() in LEGAL_GAZETTEERS['company_suffixes'],
+            'prev_word.is_month': prev.lower() in LEGAL_GAZETTEERS['months'],
+            'prev_word.is_date_indicator': prev.lower() in LEGAL_GAZETTEERS['date_indicators'],
         })
     else:
         features['BOS'] = True
+
+    # ── NEXT WORD FEATURES (context +1) ──
     if i < len(sentence) - 1:
-        next_word = sentence[i+1]
+        next_w = sentence[i+1]
         features.update({
-            'next_word.lower': next_word.lower(),
-            'next_word.istitle': next_word.istitle(),
-            'next_word.isupper': next_word.isupper(),
-            'next_word.is_legal_suffix': next_word.lower() in [
-                'llc', 'inc', 'ltd', 'corp', 'corporation'
-            ],
+            'next_word.lower': next_w.lower(),
+            'next_word.istitle': next_w.istitle(),
+            'next_word.isupper': next_w.isupper(),
+            'next_word.is_company_suffix': next_w.lower() in LEGAL_GAZETTEERS['company_suffixes'],
+            'next_word.is_month': next_w.lower() in LEGAL_GAZETTEERS['months'],
+            'next_word.is_legal_term': next_w.lower() in LEGAL_GAZETTEERS['legal_terms'],
         })
     else:
         features['EOS'] = True
+
+    # ── CONTEXT WINDOW -2 ──
+    if i > 1:
+        prev2 = sentence[i-2]
+        features.update({
+            'prev2_word.lower': prev2.lower(),
+            'prev2_word.istitle': prev2.istitle(),
+            'prev2_word.is_company_suffix': prev2.lower() in LEGAL_GAZETTEERS['company_suffixes'],
+        })
+
+    # ── CONTEXT WINDOW +2 ──
+    if i < len(sentence) - 2:
+        next2 = sentence[i+2]
+        features.update({
+            'next2_word.lower': next2.lower(),
+            'next2_word.istitle': next2.istitle(),
+            'next2_word.is_legal_term': next2.lower() in LEGAL_GAZETTEERS['legal_terms'],
+        })
+
     return features
 
 def sentence_to_features(sentence):
@@ -150,9 +213,9 @@ def train_crf(X_train, y_train):
     print("Training CRF model...")
     crf = sklearn_crfsuite.CRF(
         algorithm='lbfgs',
-        c1=0.01,
-        c2=0.01,
-        max_iterations=200,
+        c1=0.05,           # reduced regularization
+        c2=0.05,           # reduced regularization
+        max_iterations=300, # more iterations
         all_possible_transitions=True
     )
     crf.fit(X_train, y_train)

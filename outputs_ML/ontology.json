@@ -1,0 +1,125 @@
+{
+  "entity_types": [
+    "EFFECTIVE_DATE",
+    "CONTRACT",
+    "JURISDICTION",
+    "NOTICE",
+    "DATE"
+  ],
+  "relation_categories": {
+    "REL_CLUSTER_0": {
+      "category": "INDICATED_BY",
+      "predicates": [
+        "indicated by"
+      ]
+    },
+    "REL_CLUSTER_1": {
+      "category": "IS_A",
+      "predicates": [
+        "is"
+      ]
+    },
+    "REL_CLUSTER_2": {
+      "category": "HAS",
+      "predicates": [
+        "have"
+      ]
+    },
+    "REL_CLUSTER_3": {
+      "category": "OTHER",
+      "predicates": [
+        "to",
+        "to time thereunder"
+      ]
+    },
+    "REL_CLUSTER_4": {
+      "category": "OTHER",
+      "predicates": [
+        "identified by",
+        "\u00a7",
+        "formed under",
+        "("
+      ]
+    },
+    "REL_CLUSTER_5": {
+      "category": "OTHER",
+      "predicates": [
+        "obtain"
+      ]
+    }
+  },
+  "domain_rules": [
+    {
+      "subject": "PARTY",
+      "relation": "EFFECTIVE_ON",
+      "object": "PARTY",
+      "frequency": 227,
+      "induced": true
+    },
+    {
+      "subject": "CONTRACT",
+      "relation": "EFFECTIVE_ON",
+      "object": "PARTY",
+      "frequency": 136,
+      "induced": true
+    },
+    {
+      "subject": "PARTY",
+      "relation": "HAS",
+      "object": "PARTY",
+      "frequency": 616,
+      "induced": true
+    },
+    {
+      "subject": "PARTY",
+      "relation": "HAS",
+      "object": "DATE",
+      "frequency": 14,
+      "induced": true
+    },
+    {
+      "subject": "PARTY",
+      "relation": "INDICATED_BY",
+      "object": "PARTY",
+      "frequency": 334,
+      "induced": true
+    },
+    {
+      "subject": "PARTY",
+      "relation": "INDICATED_BY",
+      "object": "CONTRACT",
+      "frequency": 26,
+      "induced": true
+    },
+    {
+      "subject": "PARTY",
+      "relation": "IS_A",
+      "object": "PARTY",
+      "frequency": 1346,
+      "induced": true
+    },
+    {
+      "subject": "CONTRACT",
+      "relation": "IS_A",
+      "object": "PARTY",
+      "frequency": 130,
+      "induced": true
+    },
+    {
+      "subject": "PARTY",
+      "relation": "REQUESTED_BY",
+      "object": "PARTY",
+      "frequency": 22,
+      "induced": true
+    }
+  ],
+  "metadata": {
+    "source": "Induced from CUAD legal contracts",
+    "method": "K-Means + HAC clustering + data-driven rule induction",
+    "entity_clusters_kmeans": 8,
+    "entity_clusters_hac": 8,
+    "relation_clusters_kmeans": 6,
+    "relation_clusters_hac": 6,
+    "domain_rules_induced": true
+  }
+}
