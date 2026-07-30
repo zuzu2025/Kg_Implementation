@@ -98,7 +98,7 @@ The completed knowledge graph from the classical pipeline feeds into **Docket**,
 
 Full methodology, failure analysis (feature leakage, sampling truncation bugs, cascading errors across stages), and the comparative discussion are in the accompanying internship report.
 
-## RAG System — Docket
+## RAG System - Docket
 
 A local, offline-capable RAG interface built on top of the classical pipeline's completed KG:
 
