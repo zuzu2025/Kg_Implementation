@@ -1,0 +1,569 @@
+[
+  {
+    "mention_id": "m_cfdefb28000b",
+    "text": " Co-Branding Agreement Agency Agreement",
+    "label": "CONTRACT",
+    "doc_id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement",
+    "sentence": "2ThemartComInc 19990826 10-12G EX-10.10 6700288 EX-10.10 Co-Branding Agreement Agency Agreement.txt",
+    "start": 0,
+    "end": 0
+  },
+  {
+    "mention_id": "m_3afd3e304dcb",
+    "text": "June 21, 1999",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement",
+    "sentence": "THIS CO-BRANDING AND ADVERTISING AGREEMENT (the \"Agreement\") is made as of June 21, 1999 (the \"Effective Date\") by and between I-ESCROW, INC",
+    "start": 114,
+    "end": 127
+  },
+  {
+    "mention_id": "m_f3d70048af81",
+    "text": "CO-BRANDING AND ADVERTISING AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement",
+    "sentence": "CO-BRANDING AND ADVERTISING AGREEMENT",
+    "start": 0,
+    "end": 37
+  },
+  {
+    "mention_id": "m_285007a198f5",
+    "text": "THIS CO-BRANDING AND ADVERTISING AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement",
+    "sentence": "THIS CO-BRANDING AND ADVERTISING AGREEMENT (the \"Agreement\") is made as of June 21, 1999 (the \"Effective Date\") by and between I-ESCROW, INC",
+    "start": 39,
+    "end": 81
+  },
+  {
+    "mention_id": "m_d5e1d621a8a5",
+    "text": "-SERVICES AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT",
+    "sentence": "ABILITYINC 06 15 2020-EX-4.25-SERVICES AGREEMENT.txt",
+    "start": 0,
+    "end": 0
+  },
+  {
+    "mention_id": "m_28653866201f",
+    "text": "October 1, 2019",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT",
+    "sentence": "SERVICES AGREEMENT This Services Agreement (this \"Agreement\") is entered into on October 1, 2019 and is made effective as of November 1, 2019 (the \"Effective Date\"), by and between [ * * * ] (the \"Provider\"), and TELCOSTAR PTE, LTD",
+    "start": 306,
+    "end": 321
+  },
+  {
+    "mention_id": "m_b815cae42ecc",
+    "text": "November 1, 2019",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT",
+    "sentence": "SERVICES AGREEMENT This Services Agreement (this \"Agreement\") is entered into on October 1, 2019 and is made effective as of November 1, 2019 (the \"Effective Date\"), by and between [ * * * ] (the \"Provider\"), and TELCOSTAR PTE, LTD",
+    "start": 350,
+    "end": 366
+  },
+  {
+    "mention_id": "m_4cc1f60489a3",
+    "text": "December 31, 2021",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT",
+    "sentence": "c) Provider shall allow the Recipient to use [ * * * ] at no cost, until December 31, 2021",
+    "start": 8698,
+    "end": 8715
+  },
+  {
+    "mention_id": "m_f8cf3e8521bb",
+    "text": "December 31, 2020",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT",
+    "sentence": "This Agreement be deemed effective as of the Effective Date, Agreement and shall terminate on December 31, 2020, unless terminated earlier in accordance with Section 3",
+    "start": 9786,
+    "end": 9803
+  },
+  {
+    "mention_id": "m_87228804b449",
+    "text": "Software Industries Ltd",
+    "label": "PARTY",
+    "doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT",
+    "sentence": "a company organized and existing under the laws of Singapore and Ability Computer & Software Industries Ltd, a company organized and existing under the laws of the State of Israel (each and both of them \"Recipient",
+    "start": 543,
+    "end": 566
+  },
+  {
+    "mention_id": "m_f585e70cac93",
+    "text": "SERVICES AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT",
+    "sentence": "SERVICES AGREEMENT This Services Agreement (this \"Agreement\") is entered into on October 1, 2019 and is made effective as of November 1, 2019 (the \"Effective Date\"), by and between [ * * * ] (the \"Provider\"), and TELCOSTAR PTE, LTD",
+    "start": 225,
+    "end": 243
+  },
+  {
+    "mention_id": "m_3f0d5ec1d6b8",
+    "text": "Singapore",
+    "label": "JURISDICTION",
+    "doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT",
+    "sentence": "a company organized and existing under the laws of Singapore and Ability Computer & Software Industries Ltd, a company organized and existing under the laws of the State of Israel (each and both of them \"Recipient",
+    "start": 510,
+    "end": 520
+  },
+  {
+    "mention_id": "m_58796786f1ea",
+    "text": "-JOINT VENTURE AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT",
+    "sentence": "ACCELERATEDTECHNOLOGIESHOLDINGCORP 04 24 2003-EX-10.13-JOINT VENTURE AGREEMENT.txt",
+    "start": 0,
+    "end": 0
+  },
+  {
+    "mention_id": "m_b06da5444031",
+    "text": "February 28, 2004",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT",
+    "sentence": "The Joint Venture shall commence on the 1st of March, 2003, and shall be effective until February 28, 2004 unless extended by written agreement of the Joint Venturers not less than thirty (30) days prior to scheduled termination",
+    "start": 6113,
+    "end": 6130
+  },
+  {
+    "mention_id": "m_6c7b4c476f3f",
+    "text": "JOINT VENTURE AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT",
+    "sentence": "JOINT VENTURE AGREEMENT",
+    "start": 44,
+    "end": 67
+  },
+  {
+    "mention_id": "m_f018c0217685",
+    "text": "the Commonwealth of Pennsylvania",
+    "label": "JURISDICTION",
+    "doc_id": "ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT",
+    "sentence": "The Joint Venturers declare that in entering into this Agreement, they have contracted with reference to the laws of the Commonwealth of Pennsylvania, and the construction and interpretation of the terms and provisions of this Agreement shall be interpreted and construed under the laws of the Commonwealth of Pennsylvania, except in such cases and to such extent as the laws of another jurisdiction shall necessarily control",
+    "start": 10437,
+    "end": 10474
+  },
+  {
+    "mention_id": "m_ec83db5a25c4",
+    "text": "the Commonwealth of Pennsylvania",
+    "label": "JURISDICTION",
+    "doc_id": "ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT",
+    "sentence": "The Joint Venturers declare that in entering into this Agreement, they have contracted with reference to the laws of the Commonwealth of Pennsylvania, and the construction and interpretation of the terms and provisions of this Agreement shall be interpreted and construed under the laws of the Commonwealth of Pennsylvania, except in such cases and to such extent as the laws of another jurisdiction shall necessarily control",
+    "start": 10625,
+    "end": 10657
+  },
+  {
+    "mention_id": "m_ffec4d57dee0",
+    "text": "-DISTRIBUTOR AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+    "sentence": "ACCURAYINC 09 01 2010-EX-10.31-DISTRIBUTOR AGREEMENT.txt",
+    "start": 0,
+    "end": 0
+  },
+  {
+    "mention_id": "m_31bae92febd6",
+    "text": "June 8, 2010",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+    "sentence": "24B-2, CONFIDENTIAL INFORMATION (INDICATED BY {*****}) HAS BEEN OMITTED FROM THIS DOCUMENT AND HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO A CONFIDENTIAL TREATMENT APPLICATION FILED WITH THE COMMISSION ACCURAY INCORPORATED MULTIPLE LINAC AND MULTI-MODALITY DISTRIBUTOR AGREEMENT This Multiple LINAC and Multi-Modality Distributor Agreement (\"Agreement\") is entered into by and between ACCURAY INCORPORATED, a Delaware corporation with its executive offices located at 1310 Chesapeake Terrace, Sunnyvale, California 94089, USA (\"Accuray\"), and SIEMENS AKTIENGESELLSCHAFT, a corporation formed under the laws of the Federal Republic of Germany, with its registered offices located at Berlin and Munich (\"Siemens\"), as of June 8, 2010 (\"Effective Date",
+    "start": 818,
+    "end": 830
+  },
+  {
+    "mention_id": "m_b4333fe325f2",
+    "text": "Accuray Incorporated",
+    "label": "PARTY",
+    "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+    "sentence": "The Purchase Order shall be delivered to Accuray via fax, electronic mail, or mail at the following address: Accuray Incorporated ATTN: Contracts Administration 1310 Chesapeake Terrace Sunnyvale, CA 94089 Main: (408) 716-4600 Fax: (408) 789-4205 Email: Orders@accuray",
+    "start": 10018,
+    "end": 10038
+  },
+  {
+    "mention_id": "m_61a55741ded1",
+    "text": "THE COMMISSION ACCURAY INCORPORATED MULTIPLE LINAC AND MULTI-MODALITY DISTRIBUTOR AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+    "sentence": "24B-2, CONFIDENTIAL INFORMATION (INDICATED BY {*****}) HAS BEEN OMITTED FROM THIS DOCUMENT AND HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO A CONFIDENTIAL TREATMENT APPLICATION FILED WITH THE COMMISSION ACCURAY INCORPORATED MULTIPLE LINAC AND MULTI-MODALITY DISTRIBUTOR AGREEMENT This Multiple LINAC and Multi-Modality Distributor Agreement (\"Agreement\") is entered into by and between ACCURAY INCORPORATED, a Delaware corporation with its executive offices located at 1310 Chesapeake Terrace, Sunnyvale, California 94089, USA (\"Accuray\"), and SIEMENS AKTIENGESELLSCHAFT, a corporation formed under the laws of the Federal Republic of Germany, with its registered offices located at Berlin and Munich (\"Siemens\"), as of June 8, 2010 (\"Effective Date",
+    "start": 272,
+    "end": 370
+  },
+  {
+    "mention_id": "m_0761e43eca09",
+    "text": "Berlin",
+    "label": "JURISDICTION",
+    "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+    "sentence": "24B-2, CONFIDENTIAL INFORMATION (INDICATED BY {*****}) HAS BEEN OMITTED FROM THIS DOCUMENT AND HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO A CONFIDENTIAL TREATMENT APPLICATION FILED WITH THE COMMISSION ACCURAY INCORPORATED MULTIPLE LINAC AND MULTI-MODALITY DISTRIBUTOR AGREEMENT This Multiple LINAC and Multi-Modality Distributor Agreement (\"Agreement\") is entered into by and between ACCURAY INCORPORATED, a Delaware corporation with its executive offices located at 1310 Chesapeake Terrace, Sunnyvale, California 94089, USA (\"Accuray\"), and SIEMENS AKTIENGESELLSCHAFT, a corporation formed under the laws of the Federal Republic of Germany, with its registered offices located at Berlin and Munich (\"Siemens\"), as of June 8, 2010 (\"Effective Date",
+    "start": 781,
+    "end": 788
+  },
+  {
+    "mention_id": "m_f334f452a16f",
+    "text": "-ENDORSEMENT AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT",
+    "sentence": "ADAMSGOLFINC 03 21 2005-EX-10.17-ENDORSEMENT AGREEMENT.txt",
+    "start": 0,
+    "end": 0
+  },
+  {
+    "mention_id": "m_954cb01733a2",
+    "text": "January 13, 2005",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT",
+    "sentence": "This Agreement is entered into on January 13, 2005 between professional golfer, TOM WATSON, (hereinafter referred to as \"CONSULTANT\") and ADAMS GOLF, LTD",
+    "start": 228,
+    "end": 244
+  },
+  {
+    "mention_id": "m_4bf029d62e1d",
+    "text": "January 31, 2006",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT",
+    "sentence": "For example, if in the calendar year 2005 CONSULTANT achieves a satisfactory record of play in [*****] events, he shall repay ADAMS GOLF [*****] dollars no later than January 31, 2006",
+    "start": 7503,
+    "end": 7519
+  },
+  {
+    "mention_id": "m_3cfc1eb47f82",
+    "text": "September 1, 2004",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT",
+    "sentence": "For the entire term of this Agreement, from September 1, 2004 through [*****] ADAMS GOLF shall pay CONSULTANT a base compensation of [*****] dollars",
+    "start": 13732,
+    "end": 13749
+  },
+  {
+    "mention_id": "m_8d9ae280497f",
+    "text": "ENDORSEMENT AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT",
+    "sentence": "ENDORSEMENT AGREEMENT",
+    "start": 171,
+    "end": 192
+  },
+  {
+    "mention_id": "m_d7cbf75dc303",
+    "text": "TERM OF CONTRACT",
+    "label": "CONTRACT",
+    "doc_id": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT",
+    "sentence": "TERM OF CONTRACT",
+    "start": 816,
+    "end": 832
+  },
+  {
+    "mention_id": "m_1f15232b0598",
+    "text": "FREEDOM TO CONTRACT",
+    "label": "CONTRACT",
+    "doc_id": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT",
+    "sentence": "FREEDOM TO CONTRACT",
+    "start": 11450,
+    "end": 11469
+  },
+  {
+    "mention_id": "m_8eeee868331a",
+    "text": "-STRATEGIC ALLIANCE AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT",
+    "sentence": "ADAPTIMMUNETHERAPEUTICSPLC 04 06 2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT.txt",
+    "start": 0,
+    "end": 0
+  },
+  {
+    "mention_id": "m_90e8ac934ccd",
+    "text": "Adaptimmune LLC",
+    "label": "PARTY",
+    "doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT",
+    "sentence": "Houston, TX 77030, USA (\"MD Anderson\"), a member institution of The University of Texas System (\"System\") and Adaptimmune LLC, with a place of business located at 2001 Market Street, Philadelphia, PA 1903, USA (\"Adaptimmune\"); and Adaptimmune Limited, with a place of business at 101 Milton Park, Abingdon, Oxfordshire, OX14 4RY (\"Adaptimmune Limited\") (MD Anderson and Adaptimmune each a \"Party\" and collectively the \"Parties",
+    "start": 697,
+    "end": 712
+  },
+  {
+    "mention_id": "m_7e10424ab444",
+    "text": "Adaptimmune Limited",
+    "label": "PARTY",
+    "doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT",
+    "sentence": "Houston, TX 77030, USA (\"MD Anderson\"), a member institution of The University of Texas System (\"System\") and Adaptimmune LLC, with a place of business located at 2001 Market Street, Philadelphia, PA 1903, USA (\"Adaptimmune\"); and Adaptimmune Limited, with a place of business at 101 Milton Park, Abingdon, Oxfordshire, OX14 4RY (\"Adaptimmune Limited\") (MD Anderson and Adaptimmune each a \"Party\" and collectively the \"Parties",
+    "start": 818,
+    "end": 837
+  },
+  {
+    "mention_id": "m_496497b58f96",
+    "text": "Adaptimmune Limited",
+    "label": "PARTY",
+    "doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT",
+    "sentence": "Houston, TX 77030, USA (\"MD Anderson\"), a member institution of The University of Texas System (\"System\") and Adaptimmune LLC, with a place of business located at 2001 Market Street, Philadelphia, PA 1903, USA (\"Adaptimmune\"); and Adaptimmune Limited, with a place of business at 101 Milton Park, Abingdon, Oxfordshire, OX14 4RY (\"Adaptimmune Limited\") (MD Anderson and Adaptimmune each a \"Party\" and collectively the \"Parties",
+    "start": 918,
+    "end": 937
+  },
+  {
+    "mention_id": "m_ec649b3fb95d",
+    "text": "Adaptimmune Limited",
+    "label": "PARTY",
+    "doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT",
+    "sentence": "WITNESSETH Whereas Adaptimmune and Adaptimmune Limited are biotechnology companies involved in the field of research, development and marketing of pharmaceutical products and therapies, including the sponsorship of clinical trials",
+    "start": 1056,
+    "end": 1075
+  },
+  {
+    "mention_id": "m_1acc3040cefb",
+    "text": "STRATEGIC ALLIANCE AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT",
+    "sentence": "STRATEGIC ALLIANCE AGREEMENT This Strategic Collaboration Agreement (\"Agreement\"), effective as of the 23rd day of September, 2016 (\"Effective Date\"), is entered into by and between The University of Texas M",
+    "start": 289,
+    "end": 317
+  },
+  {
+    "mention_id": "m_15dbbb5ed4aa",
+    "text": "Texas",
+    "label": "JURISDICTION",
+    "doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT",
+    "sentence": "Adaptimmune acknowledges and agrees that MD Anderson is an agency of the State of Texas, and its investigator, employees, and officers do constitute a Public Official, as used in this paragraph, for purposes of this Section",
+    "start": 14268,
+    "end": 14273
+  },
+  {
+    "mention_id": "m_00405349030b",
+    "text": "Texas",
+    "label": "JURISDICTION",
+    "doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT",
+    "sentence": "9, nothing in this Section shall constitute a limitation on MD Anderson's ability to operate within its legal capacity as an agency of the State of Texas, nor shall anything in this Agreement require MD Anderson to violate any law or to refrain from complying with any law applicable to MD Anderson",
+    "start": 14602,
+    "end": 14607
+  },
+  {
+    "mention_id": "m_1561d0a37711",
+    "text": "-RESELLER AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT",
+    "sentence": "ADIANUTRITION,INC 04 01 2005-EX-10.D2-RESELLER AGREEMENT.txt",
+    "start": 0,
+    "end": 0
+  },
+  {
+    "mention_id": "m_619246874937",
+    "text": "PivX Corporation",
+    "label": "PARTY",
+    "doc_id": "ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT",
+    "sentence": "This Reseller Agreement is entered as of this ___ day of _________, 2004 (\"Effective Date\") by and between PivX Corporation, a California corporation, having its principal place of business at 23 Corporate Plaza Drive, Newport Beach, California, 92661 (\"PivX\") and Detto Technologies, a Washington corporation, having its principal place of business at 14320 NE 21st Street, Suite 11, Bellevue, Washington, 98007 (\"Detto",
+    "start": 367,
+    "end": 383
+  },
+  {
+    "mention_id": "m_50138f124019",
+    "text": "RESELLER AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT",
+    "sentence": "RESELLER AGREEMENT",
+    "start": 46,
+    "end": 64
+  },
+  {
+    "mention_id": "m_f24ae0bbf8ae",
+    "text": " to Manufacturing Agreement",
+    "label": "CONTRACT",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement ",
+    "sentence": "ADMA BioManufacturing, LLC - Amendment #3 to Manufacturing Agreement .txt",
+    "start": 0,
+    "end": 0
+  },
+  {
+    "mention_id": "m_dac504000225",
+    "text": "December 21, 2017",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement ",
+    "sentence": "Amendment #3 to the Manufacturing Agreement This Amendment #3 to the Manufacturing Agreement (this \"Amendment #3\") is made effective as of December 21, 2017 (\"Amendment Effective Date\"), by and between ADMA BioManufacturing, LLC, a Delaware limited liability company, having a place of business at 5800 Park of Commerce Boulevard NW, Boca Raton, Florida 33487 USA (\"ADMA\") and Sanofi Pasteur S",
+    "start": 437,
+    "end": 454
+  },
+  {
+    "mention_id": "m_48af91b2e31a",
+    "text": "September 30, 2011",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement ",
+    "sentence": "WHEREAS, ADMA (as successor-in-interest to Biotest Pharmaceuticals Corporation (\"BPC\") and Sanofi Pasteur are parties to that certain Manufacturing Agreement, effective September 30, 2011, as previously amended (including by that certain Amendment #2 to the Manufacturing Agreement, effective as of August 1, 2016, by and between BPC and Sanofi Pasteur (\"Amendment #2\")) (the \"Agreement\") for the production of Rabies Fraction II Paste (the \"Product,\" as further defined in the Agreement) for Sanofi Pasteur from human plasma containing rabies antibodies; WHEREAS, BPC and Sanofi Pasteur are Parties to that certain Plasma Supply Agreement, effective January 20, 2009, as amended (the \"Plasma Supply Agreement\"), for the production of human Rabies Hyperimmune Plasma (\"Rabies Plasma\") by BPC for Sanofi Pasteur to be used in the manufacturing of Rabies Immunoglobulin; WHEREAS, the Rabies Plasma manufactured by BPC under the Plasma Supply Agreement may be transferred to ADMA to be fractionated into Product under the Agreement; WHEREAS, ADMA and Sanofi Pasteur desire to further amend the Agreement in order to memorialize the amendment of certain provisions in the Agreement; NOW, THEREFORE, in consideration of the respective promises contained herein and other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound hereby, the Parties hereto agree as follows: 1",
+    "start": 1026,
+    "end": 1044
+  },
+  {
+    "mention_id": "m_c412291e3486",
+    "text": "August 1, 2016",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement ",
+    "sentence": "WHEREAS, ADMA (as successor-in-interest to Biotest Pharmaceuticals Corporation (\"BPC\") and Sanofi Pasteur are parties to that certain Manufacturing Agreement, effective September 30, 2011, as previously amended (including by that certain Amendment #2 to the Manufacturing Agreement, effective as of August 1, 2016, by and between BPC and Sanofi Pasteur (\"Amendment #2\")) (the \"Agreement\") for the production of Rabies Fraction II Paste (the \"Product,\" as further defined in the Agreement) for Sanofi Pasteur from human plasma containing rabies antibodies; WHEREAS, BPC and Sanofi Pasteur are Parties to that certain Plasma Supply Agreement, effective January 20, 2009, as amended (the \"Plasma Supply Agreement\"), for the production of human Rabies Hyperimmune Plasma (\"Rabies Plasma\") by BPC for Sanofi Pasteur to be used in the manufacturing of Rabies Immunoglobulin; WHEREAS, the Rabies Plasma manufactured by BPC under the Plasma Supply Agreement may be transferred to ADMA to be fractionated into Product under the Agreement; WHEREAS, ADMA and Sanofi Pasteur desire to further amend the Agreement in order to memorialize the amendment of certain provisions in the Agreement; NOW, THEREFORE, in consideration of the respective promises contained herein and other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound hereby, the Parties hereto agree as follows: 1",
+    "start": 1156,
+    "end": 1170
+  },
+  {
+    "mention_id": "m_1b96a3f62ab8",
+    "text": "January 20, 2009",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement ",
+    "sentence": "WHEREAS, ADMA (as successor-in-interest to Biotest Pharmaceuticals Corporation (\"BPC\") and Sanofi Pasteur are parties to that certain Manufacturing Agreement, effective September 30, 2011, as previously amended (including by that certain Amendment #2 to the Manufacturing Agreement, effective as of August 1, 2016, by and between BPC and Sanofi Pasteur (\"Amendment #2\")) (the \"Agreement\") for the production of Rabies Fraction II Paste (the \"Product,\" as further defined in the Agreement) for Sanofi Pasteur from human plasma containing rabies antibodies; WHEREAS, BPC and Sanofi Pasteur are Parties to that certain Plasma Supply Agreement, effective January 20, 2009, as amended (the \"Plasma Supply Agreement\"), for the production of human Rabies Hyperimmune Plasma (\"Rabies Plasma\") by BPC for Sanofi Pasteur to be used in the manufacturing of Rabies Immunoglobulin; WHEREAS, the Rabies Plasma manufactured by BPC under the Plasma Supply Agreement may be transferred to ADMA to be fractionated into Product under the Agreement; WHEREAS, ADMA and Sanofi Pasteur desire to further amend the Agreement in order to memorialize the amendment of certain provisions in the Agreement; NOW, THEREFORE, in consideration of the respective promises contained herein and other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound hereby, the Parties hereto agree as follows: 1",
+    "start": 1508,
+    "end": 1524
+  },
+  {
+    "mention_id": "m_6dae2f6530cf",
+    "text": "March 1, 2018",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement ",
+    "sentence": "In consideration for certain quantities of Product that ADMA would have been contractually obligated to supply, and that Sanofi Pasteur would have been contractually obligated to purchase, under the Agreement, but that will now not be supplied and purchased as a result of the Parties' agreement in Section 2 above, Sanofi Pasteur agrees to pay ADMA an amount of seven million (7,000,000 USD) (the \"Compensation Fee\") in five installments and will be invoiced as follows: (a) [***] USD upon execution of this Amendment #3 (b) [***] USD on March 1, 2018 (c) [***] USD on June 1, 2018 (d) [***] USD on September 1, 2018 (e) [***] USD on December 1, 2018 Such payments shall be made in accordance with Section 3",
+    "start": 7702,
+    "end": 7715
+  },
+  {
+    "mention_id": "m_d8e484d9e635",
+    "text": "June 1, 2018",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement ",
+    "sentence": "In consideration for certain quantities of Product that ADMA would have been contractually obligated to supply, and that Sanofi Pasteur would have been contractually obligated to purchase, under the Agreement, but that will now not be supplied and purchased as a result of the Parties' agreement in Section 2 above, Sanofi Pasteur agrees to pay ADMA an amount of seven million (7,000,000 USD) (the \"Compensation Fee\") in five installments and will be invoiced as follows: (a) [***] USD upon execution of this Amendment #3 (b) [***] USD on March 1, 2018 (c) [***] USD on June 1, 2018 (d) [***] USD on September 1, 2018 (e) [***] USD on December 1, 2018 Such payments shall be made in accordance with Section 3",
+    "start": 7733,
+    "end": 7745
+  },
+  {
+    "mention_id": "m_c7fb11077a27",
+    "text": "September 1, 2018",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement ",
+    "sentence": "In consideration for certain quantities of Product that ADMA would have been contractually obligated to supply, and that Sanofi Pasteur would have been contractually obligated to purchase, under the Agreement, but that will now not be supplied and purchased as a result of the Parties' agreement in Section 2 above, Sanofi Pasteur agrees to pay ADMA an amount of seven million (7,000,000 USD) (the \"Compensation Fee\") in five installments and will be invoiced as follows: (a) [***] USD upon execution of this Amendment #3 (b) [***] USD on March 1, 2018 (c) [***] USD on June 1, 2018 (d) [***] USD on September 1, 2018 (e) [***] USD on December 1, 2018 Such payments shall be made in accordance with Section 3",
+    "start": 7763,
+    "end": 7780
+  },
+  {
+    "mention_id": "m_891d65474d05",
+    "text": "December 1, 2018",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement ",
+    "sentence": "In consideration for certain quantities of Product that ADMA would have been contractually obligated to supply, and that Sanofi Pasteur would have been contractually obligated to purchase, under the Agreement, but that will now not be supplied and purchased as a result of the Parties' agreement in Section 2 above, Sanofi Pasteur agrees to pay ADMA an amount of seven million (7,000,000 USD) (the \"Compensation Fee\") in five installments and will be invoiced as follows: (a) [***] USD upon execution of this Amendment #3 (b) [***] USD on March 1, 2018 (c) [***] USD on June 1, 2018 (d) [***] USD on September 1, 2018 (e) [***] USD on December 1, 2018 Such payments shall be made in accordance with Section 3",
+    "start": 7798,
+    "end": 7814
+  },
+  {
+    "mention_id": "m_a7d13e0be19c",
+    "text": "September 15, 2015",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement ",
+    "sentence": "The Parties further agree to amend that certain Quality and Technical Agreement between Sanofi Pasteur and ADMA (as successor to BPC) effective as of September 15, 2015 (the \"Quality Agreement\") to modify the address where the Source Plasma shall be stocked and the conditions associated therewith, as well as to ensure consistency with the other terms of this Amendment",
+    "start": 13901,
+    "end": 13919
+  },
+  {
+    "mention_id": "m_4f964d33918c",
+    "text": "Biotest Pharmaceuticals Corporation",
+    "label": "PARTY",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement ",
+    "sentence": "WHEREAS, ADMA (as successor-in-interest to Biotest Pharmaceuticals Corporation (\"BPC\") and Sanofi Pasteur are parties to that certain Manufacturing Agreement, effective September 30, 2011, as previously amended (including by that certain Amendment #2 to the Manufacturing Agreement, effective as of August 1, 2016, by and between BPC and Sanofi Pasteur (\"Amendment #2\")) (the \"Agreement\") for the production of Rabies Fraction II Paste (the \"Product,\" as further defined in the Agreement) for Sanofi Pasteur from human plasma containing rabies antibodies; WHEREAS, BPC and Sanofi Pasteur are Parties to that certain Plasma Supply Agreement, effective January 20, 2009, as amended (the \"Plasma Supply Agreement\"), for the production of human Rabies Hyperimmune Plasma (\"Rabies Plasma\") by BPC for Sanofi Pasteur to be used in the manufacturing of Rabies Immunoglobulin; WHEREAS, the Rabies Plasma manufactured by BPC under the Plasma Supply Agreement may be transferred to ADMA to be fractionated into Product under the Agreement; WHEREAS, ADMA and Sanofi Pasteur desire to further amend the Agreement in order to memorialize the amendment of certain provisions in the Agreement; NOW, THEREFORE, in consideration of the respective promises contained herein and other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound hereby, the Parties hereto agree as follows: 1",
+    "start": 900,
+    "end": 935
+  },
+  {
+    "mention_id": "m_46300fb3fe03",
+    "text": "-CONSULTING AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT(1)",
+    "sentence": "ADUROBIOTECH,INC 06 02 2020-EX-10.7-CONSULTING AGREEMENT(1).txt",
+    "start": 0,
+    "end": 0
+  },
+  {
+    "mention_id": "m_7eb97de0c15f",
+    "text": "June 1, 2020",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT(1)",
+    "sentence": "V having an address at Staalwijkstraat 16, 2313 XR Leiden, the Netherlands, represented by Andrea van Elsas, (\"Consultant\") agree to all terms and conditions of this Consulting Agreement (\"Agreement\") dated June 1, 2020, effective as of July 1, 2020 (\"Effective Date",
+    "start": 351,
+    "end": 363
+  },
+  {
+    "mention_id": "m_7b73fea1f9f3",
+    "text": "July 1, 2020",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT(1)",
+    "sentence": "V having an address at Staalwijkstraat 16, 2313 XR Leiden, the Netherlands, represented by Andrea van Elsas, (\"Consultant\") agree to all terms and conditions of this Consulting Agreement (\"Agreement\") dated June 1, 2020, effective as of July 1, 2020 (\"Effective Date",
+    "start": 381,
+    "end": 393
+  },
+  {
+    "mention_id": "m_e95a1be7741d",
+    "text": "December 31, 2020",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT(1)",
+    "sentence": "This Agreement shall begin on the Effective Date and shall continue until December 31, 2020, unless extended or earlier terminated",
+    "start": 1694,
+    "end": 1711
+  },
+  {
+    "mention_id": "m_31a7dc7bea7e",
+    "text": "CONSULTING AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT(1)",
+    "sentence": "CONSULTING AGREEMENT",
+    "start": 14,
+    "end": 34
+  },
+  {
+    "mention_id": "m_fbca51bf936a",
+    "text": "the State of California",
+    "label": "JURISDICTION",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT(1)",
+    "sentence": "This Agreement shall be construed and enforced in accordance with the laws of the State of California, without regard to the conflict of law principles of California or any other jurisdiction",
+    "start": 10540,
+    "end": 10563
+  },
+  {
+    "mention_id": "m_4342bed05446",
+    "text": "-CONSULTING AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT",
+    "sentence": "ADUROBIOTECH,INC 06 02 2020-EX-10.7-CONSULTING AGREEMENT.txt",
+    "start": 0,
+    "end": 0
+  },
+  {
+    "mention_id": "m_24d4a58c37fc",
+    "text": "June 1, 2020",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT",
+    "sentence": "V having an address at Staalwijkstraat 16, 2313 XR Leiden, the Netherlands, represented by Andrea van Elsas, (\"Consultant\") agree to all terms and conditions of this Consulting Agreement (\"Agreement\") dated June 1, 2020, effective as of July 1, 2020 (\"Effective Date",
+    "start": 351,
+    "end": 363
+  },
+  {
+    "mention_id": "m_3904cb2b9e49",
+    "text": "July 1, 2020",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT",
+    "sentence": "V having an address at Staalwijkstraat 16, 2313 XR Leiden, the Netherlands, represented by Andrea van Elsas, (\"Consultant\") agree to all terms and conditions of this Consulting Agreement (\"Agreement\") dated June 1, 2020, effective as of July 1, 2020 (\"Effective Date",
+    "start": 381,
+    "end": 393
+  },
+  {
+    "mention_id": "m_b4c1f31fa49b",
+    "text": "December 31, 2020",
+    "label": "EFFECTIVE_DATE",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT",
+    "sentence": "This Agreement shall begin on the Effective Date and shall continue until December 31, 2020, unless extended or earlier terminated",
+    "start": 1694,
+    "end": 1711
+  },
+  {
+    "mention_id": "m_a04ca3769ced",
+    "text": "CONSULTING AGREEMENT",
+    "label": "CONTRACT",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT",
+    "sentence": "CONSULTING AGREEMENT",
+    "start": 14,
+    "end": 34
+  },
+  {
+    "mention_id": "m_62cd4e874852",
+    "text": "the State of California",
+    "label": "JURISDICTION",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT",
+    "sentence": "This Agreement shall be construed and enforced in accordance with the laws of the State of California, without regard to the conflict of law principles of California or any other jurisdiction",
+    "start": 10540,
+    "end": 10563
+  }
+]

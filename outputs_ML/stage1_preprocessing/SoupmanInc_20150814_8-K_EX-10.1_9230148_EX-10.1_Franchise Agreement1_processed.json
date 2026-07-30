@@ -1,5 +1,7 @@
 {
   "filename": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.txt",
+  "source_path": "data\\SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.txt",
+  "sha256": "9009d53b3f1c416872fa6d70cdc98940f7c62f25523b76b3fe231f0e11b3d0dc",
   "num_sentences": 499,
   "num_chunks": 63,
   "chunks": [

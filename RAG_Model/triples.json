@@ -1,0 +1,74 @@
+[
+  {
+    "subject": "Company A",
+    "predicate": "acquired",
+    "object": "Company B",
+    "validated": false,
+    "confidence": 0.42,
+    "source": "stage6_candidate.txt"
+  },
+  {
+    "subject": "Company B",
+    "predicate": "headquartered_in",
+    "object": "Berlin",
+    "validated": false,
+    "confidence": 0.51,
+    "source": "stage6_candidate.txt"
+  },
+  {
+    "subject": "Company B",
+    "predicate": "founded_by",
+    "object": "Person C",
+    "validated": false,
+    "confidence": 0.39,
+    "source": "stage6_candidate.txt"
+  },
+  {
+    "subject": "Company A",
+    "predicate": "ceo",
+    "object": "Person D",
+    "validated": false,
+    "confidence": 0.44,
+    "source": "stage6_candidate.txt"
+  },
+  {
+    "subject": "Person D",
+    "predicate": "previously_worked_at",
+    "object": "Company E",
+    "validated": false,
+    "confidence": 0.55,
+    "source": "stage6_candidate.txt"
+  },
+  {
+    "subject": "Company E",
+    "predicate": "competitor_of",
+    "object": "Company A",
+    "validated": false,
+    "confidence": 0.38,
+    "source": "stage6_candidate.txt"
+  },
+  {
+    "subject": "Company A",
+    "predicate": "acquired",
+    "object": "Company B",
+    "validated": true,
+    "confidence": 0.95,
+    "source": "stage7_validation.txt"
+  },
+  {
+    "subject": "Company B",
+    "predicate": "headquartered_in",
+    "object": "Berlin",
+    "validated": true,
+    "confidence": 0.91,
+    "source": "stage7_validation.txt"
+  },
+  {
+    "subject": "Company A",
+    "predicate": "ceo",
+    "object": "Person D",
+    "validated": true,
+    "confidence": 0.88,
+    "source": "stage7_validation.txt"
+  }
+]

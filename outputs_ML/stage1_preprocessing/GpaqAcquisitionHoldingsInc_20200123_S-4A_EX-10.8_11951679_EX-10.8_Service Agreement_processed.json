@@ -1,5 +1,7 @@
 {
   "filename": "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.txt",
+  "source_path": "data\\GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.txt",
+  "sha256": "9d8942925e1900a35876bf5398d788b28095ea16e207899b0e7d60afb9e44857",
   "num_sentences": 198,
   "num_chunks": 25,
   "chunks": [

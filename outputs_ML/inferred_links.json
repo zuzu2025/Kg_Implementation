@@ -1,0 +1,122 @@
+[
+  {
+    "subject": "distributor agreement",
+    "object": "march 13",
+    "predicted_probability": 0.998,
+    "features": {
+      "common_neighbors": 1,
+      "jaccard": 0.0769,
+      "preferential_attachment": 33,
+      "adamic_adar": 0.7213,
+      "resource_allocation": 0.25
+    }
+  },
+  {
+    "subject": "co-branding agreement",
+    "object": "verticalnet, inc",
+    "predicted_probability": 0.998,
+    "features": {
+      "common_neighbors": 2,
+      "jaccard": 0.1818,
+      "preferential_attachment": 22,
+      "adamic_adar": 2.164,
+      "resource_allocation": 0.75
+    }
+  },
+  {
+    "subject": "distributor agreement",
+    "object": "david a",
+    "predicted_probability": 0.998,
+    "features": {
+      "common_neighbors": 1,
+      "jaccard": 0.0833,
+      "preferential_attachment": 22,
+      "adamic_adar": 0.7213,
+      "resource_allocation": 0.25
+    }
+  },
+  {
+    "subject": "distributor agreement",
+    "object": "smith",
+    "predicted_probability": 0.998,
+    "features": {
+      "common_neighbors": 1,
+      "jaccard": 0.0833,
+      "preferential_attachment": 22,
+      "adamic_adar": 0.7213,
+      "resource_allocation": 0.25
+    }
+  },
+  {
+    "subject": "to 17 c",
+    "object": "endorsement agreement",
+    "predicted_probability": 0.998,
+    "features": {
+      "common_neighbors": 1,
+      "jaccard": 0.0588,
+      "preferential_attachment": 17,
+      "adamic_adar": 0.5139,
+      "resource_allocation": 0.1429
+    }
+  },
+  {
+    "subject": "endorsement agreement",
+    "object": "term",
+    "predicted_probability": 0.998,
+    "features": {
+      "common_neighbors": 1,
+      "jaccard": 0.0556,
+      "preferential_attachment": 34,
+      "adamic_adar": 0.5139,
+      "resource_allocation": 0.1429
+    }
+  },
+  {
+    "subject": "endorsement agreement",
+    "object": "cytodyn inc",
+    "predicted_probability": 0.998,
+    "features": {
+      "common_neighbors": 1,
+      "jaccard": 0.0556,
+      "preferential_attachment": 34,
+      "adamic_adar": 0.6213,
+      "resource_allocation": 0.2
+    }
+  },
+  {
+    "subject": "endorsement agreement",
+    "object": "group, inc",
+    "predicted_probability": 0.998,
+    "features": {
+      "common_neighbors": 1,
+      "jaccard": 0.0588,
+      "preferential_attachment": 17,
+      "adamic_adar": 1.4427,
+      "resource_allocation": 0.5
+    }
+  },
+  {
+    "subject": "endorsement agreement",
+    "object": "California",
+    "predicted_probability": 0.998,
+    "features": {
+      "common_neighbors": 1,
+      "jaccard": 0.0588,
+      "preferential_attachment": 17,
+      "adamic_adar": 1.4427,
+      "resource_allocation": 0.5
+    }
+  },
+  {
+    "subject": "agreement",
+    "object": "term",
+    "predicted_probability": 0.997,
+    "features": {
+      "common_neighbors": 1,
+      "jaccard": 0.0435,
+      "preferential_attachment": 44,
+      "adamic_adar": 0.5139,
+      "resource_allocation": 0.1429
+    }
+  }
+]

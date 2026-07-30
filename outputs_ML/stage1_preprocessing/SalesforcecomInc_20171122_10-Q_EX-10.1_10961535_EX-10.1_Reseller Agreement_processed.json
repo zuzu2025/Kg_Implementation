@@ -1,5 +1,7 @@
 {
   "filename": "SalesforcecomInc_20171122_10-Q_EX-10.1_10961535_EX-10.1_Reseller Agreement.txt",
+  "source_path": "data\\SalesforcecomInc_20171122_10-Q_EX-10.1_10961535_EX-10.1_Reseller Agreement.txt",
+  "sha256": "8157870fe900e2e550ed1bfbdc9050a82727f3dccf5da57243a1b5149a25863d",
   "num_sentences": 20,
   "num_chunks": 3,
   "chunks": [

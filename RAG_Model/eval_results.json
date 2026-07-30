@@ -1,0 +1,98 @@
+[
+  {
+    "pipeline": "A_stage_6_ontology_design",
+    "question": "Who acquired Company B?",
+    "query_type": "single_hop",
+    "expected_answer": "Company A",
+    "retrieved_facts": [
+      "Company A acquired Company B. [UNVERIFIED]",
+      "Company E competitor of Company A. [UNVERIFIED]",
+      "Company B headquartered in Berlin. [UNVERIFIED]",
+      "Company A ceo Person D. [UNVERIFIED]",
+      "Company B founded by Person C. [UNVERIFIED]"
+    ],
+    "num_validated_retrieved": 0,
+    "num_unvalidated_retrieved": 5,
+    "answer": "[ERROR] ANTHROPIC_API_KEY environment variable not set.",
+    "heuristic_score": 0
+  },
+  {
+    "pipeline": "B_stage_7_validated_triples",
+    "question": "Who acquired Company B?",
+    "query_type": "single_hop",
+    "expected_answer": "Company A",
+    "retrieved_facts": [
+      "Company A acquired Company B.",
+      "Company B headquartered in Berlin.",
+      "Company A ceo Person D."
+    ],
+    "num_validated_retrieved": 3,
+    "num_unvalidated_retrieved": 0,
+    "answer": "[ERROR] ANTHROPIC_API_KEY environment variable not set.",
+    "heuristic_score": 0
+  },
+  {
+    "pipeline": "A_stage_6_ontology_design",
+    "question": "Where is the company that Company A acquired headquartered?",
+    "query_type": "multi_hop",
+    "expected_answer": "Berlin",
+    "retrieved_facts": [
+      "Company A acquired Company B. [UNVERIFIED]",
+      "Company A ceo Person D. [UNVERIFIED]",
+      "Company E competitor of Company A. [UNVERIFIED]",
+      "Company B headquartered in Berlin. [UNVERIFIED]",
+      "Company B founded by Person C. [UNVERIFIED]"
+    ],
+    "num_validated_retrieved": 0,
+    "num_unvalidated_retrieved": 5,
+    "answer": "[ERROR] ANTHROPIC_API_KEY environment variable not set.",
+    "heuristic_score": 0
+  },
+  {
+    "pipeline": "B_stage_7_validated_triples",
+    "question": "Where is the company that Company A acquired headquartered?",
+    "query_type": "multi_hop",
+    "expected_answer": "Berlin",
+    "retrieved_facts": [
+      "Company A acquired Company B.",
+      "Company A ceo Person D.",
+      "Company B headquartered in Berlin."
+    ],
+    "num_validated_retrieved": 3,
+    "num_unvalidated_retrieved": 0,
+    "answer": "[ERROR] ANTHROPIC_API_KEY environment variable not set.",
+    "heuristic_score": 0
+  },
+  {
+    "pipeline": "A_stage_6_ontology_design",
+    "question": "Where did the CEO of Company A previously work?",
+    "query_type": "multi_hop_unvalidated_dependency",
+    "expected_answer": "Company E (unverified)",
+    "retrieved_facts": [
+      "Company A ceo Person D. [UNVERIFIED]",
+      "Company E competitor of Company A. [UNVERIFIED]",
+      "Person D previously worked at Company E. [UNVERIFIED]",
+      "Company A acquired Company B. [UNVERIFIED]",
+      "Company B headquartered in Berlin. [UNVERIFIED]"
+    ],
+    "num_validated_retrieved": 0,
+    "num_unvalidated_retrieved": 5,
+    "answer": "[ERROR] ANTHROPIC_API_KEY environment variable not set.",
+    "heuristic_score": 0
+  },
+  {
+    "pipeline": "B_stage_7_validated_triples",
+    "question": "Where did the CEO of Company A previously work?",
+    "query_type": "multi_hop_unvalidated_dependency",
+    "expected_answer": "Company E (unverified)",
+    "retrieved_facts": [
+      "Company A ceo Person D.",
+      "Company A acquired Company B.",
+      "Company B headquartered in Berlin."
+    ],
+    "num_validated_retrieved": 3,
+    "num_unvalidated_retrieved": 0,
+    "answer": "[ERROR] ANTHROPIC_API_KEY environment variable not set.",
+    "heuristic_score": 0
+  }
+]

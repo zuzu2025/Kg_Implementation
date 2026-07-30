@@ -1,0 +1,7607 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "type": "CONTRACT",
+      "id": "co-branding agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "21, 1999"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "october 1, 2019"
+    },
+    {
+      "type": "PARTY",
+      "id": "ability computer & software industries"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "november 1, 2019"
+    },
+    {
+      "type": "PARTY",
+      "id": "pte ltd"
+    },
+    {
+      "type": "PARTY",
+      "id": "to 17 c"
+    },
+    {
+      "type": "PARTY",
+      "id": "and"
+    },
+    {
+      "type": "PARTY",
+      "id": "distributor"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "multiple linac and multi-modality distributor agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "endorsement agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "tom"
+    },
+    {
+      "type": "PARTY",
+      "id": "adams golf, ltd"
+    },
+    {
+      "type": "PARTY",
+      "id": "watson"
+    },
+    {
+      "type": "DATE",
+      "id": "january 13, 2005"
+    },
+    {
+      "type": "PARTY",
+      "id": "adaptimmune"
+    },
+    {
+      "type": "PARTY",
+      "id": "adaptimmune limited"
+    },
+    {
+      "type": "PARTY",
+      "id": "adaptimmune llc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "reseller agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "this ___ day of _________, 2004"
+    },
+    {
+      "type": "PARTY",
+      "id": "porex corporation"
+    },
+    {
+      "type": "PARTY",
+      "id": "detto technologies"
+    },
+    {
+      "type": "PARTY",
+      "id": "price $10"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "agency agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "airsopure international group, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "airsopure\" or by reference \"we\", \"us"
+    },
+    {
+      "type": "PARTY",
+      "id": "hereinafter \"you\" or by reference \"franchisee\", or \"your"
+    },
+    {
+      "type": "DATE",
+      "id": "november 9, 2005"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "agency"
+    },
+    {
+      "type": "PARTY",
+      "id": "alliance bancorp, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "common stock (par value $"
+    },
+    {
+      "type": "PARTY",
+      "id": "00 per share"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "___, 2006"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "cooperation agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "december 11, 2009"
+    },
+    {
+      "type": "PARTY",
+      "id": "persons and entities listed on schedule a"
+    },
+    {
+      "type": "DATE",
+      "id": "by and"
+    },
+    {
+      "type": "PARTY",
+      "id": "ireland, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "the sterling/winters co"
+    },
+    {
+      "type": "PARTY",
+      "id": "sterling/winters co"
+    },
+    {
+      "type": "PARTY",
+      "id": "inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "kubient, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "collaboration agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "april 14th, 2020"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "intellectual property agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "december 31, 2018"
+    },
+    {
+      "type": "PARTY",
+      "id": "armstrong flooring, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "armstrong"
+    },
+    {
+      "type": "PARTY",
+      "id": "nantz iii"
+    },
+    {
+      "type": "PARTY",
+      "id": "company\" or \"azul"
+    },
+    {
+      "type": "PARTY",
+      "id": "communications, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "695014 b"
+    },
+    {
+      "type": "PARTY",
+      "id": "ltd"
+    },
+    {
+      "type": "PARTY",
+      "id": "dba galaxy telecom"
+    },
+    {
+      "type": "PARTY",
+      "id": "natural gas co"
+    },
+    {
+      "type": "PARTY",
+      "id": "natural gas for that transporter transport shipper; and"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "strategic alliance agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "march 18, 2010"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "joint venture agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "february 1, 2018"
+    },
+    {
+      "type": "PARTY",
+      "id": "wpt enterprises, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "february 1, 2019"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "jacksonville jaguars sponsorship agreement"
+    },
+    {
+      "type": "DATE",
+      "id": "november 27, 2017"
+    },
+    {
+      "type": "PARTY",
+      "id": "term"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "network build and maintenance agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "1 definitions 1"
+    },
+    {
+      "type": "PARTY",
+      "id": "2 affiliate 1 2"
+    },
+    {
+      "type": "PARTY",
+      "id": "affiliate"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "2 of this agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "2, 2"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "and maintenance agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "30, 2000"
+    },
+    {
+      "type": "PARTY",
+      "id": "amazon"
+    },
+    {
+      "type": "PARTY",
+      "id": "com commerce services, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "audible inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "company"
+    },
+    {
+      "type": "PARTY",
+      "id": "azul linhas a\u00e9reas brasileiras s/a"
+    },
+    {
+      "type": "PARTY",
+      "id": "avions de transport regional, g"
+    },
+    {
+      "type": "PARTY",
+      "id": "deep@rrt"
+    },
+    {
+      "type": "PARTY",
+      "id": "com and spinrecords"
+    },
+    {
+      "type": "PARTY",
+      "id": "deep systems"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "premium managed hosting agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "is a managed hosting agreement between astronutrition"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "master supply agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "or \"pnc\"), and fonterra (usa) inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "fonterra (usa) inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "31 october 2019"
+    },
+    {
+      "type": "PARTY",
+      "id": "premier nutrition company, llc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "co-hosting agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "associates, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "net"
+    },
+    {
+      "type": "PARTY",
+      "id": "between"
+    },
+    {
+      "type": "PARTY",
+      "id": "2) nigel crockett of (the ''employee"
+    },
+    {
+      "type": "PARTY",
+      "id": "bicycletx limited"
+    },
+    {
+      "type": "PARTY",
+      "id": "under 17 c"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "15 , 2010"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "development agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "november 2, 2012"
+    },
+    {
+      "type": "PARTY",
+      "id": "29, 1999"
+    },
+    {
+      "type": "PARTY",
+      "id": "corporation, a"
+    },
+    {
+      "type": "PARTY",
+      "id": "snotarator llc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "services and hosting agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "26, 1999"
+    },
+    {
+      "type": "PARTY",
+      "id": "logic"
+    },
+    {
+      "type": "PARTY",
+      "id": "com, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "visp web site building and hosting agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "12th day of may 2003"
+    },
+    {
+      "type": "PARTY",
+      "id": "yournetplus"
+    },
+    {
+      "type": "PARTY",
+      "id": "com"
+    },
+    {
+      "type": "PARTY",
+      "id": "associated chapter 11 debtors in possession"
+    },
+    {
+      "type": "PARTY",
+      "id": "chapter"
+    },
+    {
+      "type": "DATE",
+      "id": "april 18, 2018"
+    },
+    {
+      "type": "PARTY",
+      "id": "retail, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "with ga, the \"agent"
+    },
+    {
+      "type": "PARTY",
+      "id": "agent"
+    },
+    {
+      "type": "PARTY",
+      "id": "joseph"
+    },
+    {
+      "type": "PARTY",
+      "id": "collectively the \"parties"
+    },
+    {
+      "type": "PARTY",
+      "id": "system service warranty claims 13 section 2"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "7 efficiency warranty 14 section 2"
+    },
+    {
+      "type": "PARTY",
+      "id": "7 efficiency warranty"
+    },
+    {
+      "type": "PARTY",
+      "id": "article 5 grant of rights"
+    },
+    {
+      "type": "PARTY",
+      "id": "access to data and meters 21 i"
+    },
+    {
+      "type": "PARTY",
+      "id": "access to data and meters"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "18t h day of august 2014"
+    },
+    {
+      "type": "PARTY",
+      "id": "karakudukmunay"
+    },
+    {
+      "type": "PARTY",
+      "id": "principal"
+    },
+    {
+      "type": "PARTY",
+      "id": "klinchev"
+    },
+    {
+      "type": "PARTY",
+      "id": "for reference only"
+    },
+    {
+      "type": "DATE",
+      "id": "11th day of december, 2015"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "26t h day of may, 2017"
+    },
+    {
+      "type": "PARTY",
+      "id": "technologies inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "consulting agreement"
+    },
+    {
+      "type": "DATE",
+      "id": "1st day of february, 2020"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "hosting agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "sponsorship agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "may 2004"
+    },
+    {
+      "type": "PARTY",
+      "id": "outpost, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "customization schedule"
+    },
+    {
+      "type": "PARTY",
+      "id": "bank of america, n"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "web hosting agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "24t h day of august"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "30, 2019"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "intellectual property"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "september 30, 2019"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "domain name and content license agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "beijing"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "alliance agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "march 20"
+    },
+    {
+      "type": "PARTY",
+      "id": "conformis, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "osteonics corp"
+    },
+    {
+      "type": "PARTY",
+      "id": "also known as stryker orthopaedics"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "1, 2019"
+    },
+    {
+      "type": "PARTY",
+      "id": "achaogen inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "cytodyn inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "pharmaceuticals"
+    },
+    {
+      "type": "DATE",
+      "id": "of march, 1999 by and between drkoop"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "15 april, 2009"
+    },
+    {
+      "type": "PARTY",
+      "id": "systems, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "online hosting agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "1st day of june, 1999"
+    },
+    {
+      "type": "PARTY",
+      "id": "diplomat direct marketing"
+    },
+    {
+      "type": "PARTY",
+      "id": "tadeo e-commerce corp"
+    },
+    {
+      "type": "PARTY",
+      "id": "diplomat direct marketing corporation"
+    },
+    {
+      "type": "PARTY",
+      "id": "diplomat direct marketing corp"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "content license agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "licensor"
+    },
+    {
+      "type": "PARTY",
+      "id": "data call technologies, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "plan_b media ag"
+    },
+    {
+      "type": "PARTY",
+      "id": "cinema destinations corp"
+    },
+    {
+      "type": "DATE",
+      "id": "day of , 201"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "affiliate agreement"
+    },
+    {
+      "type": "DATE",
+      "id": "june 1"
+    },
+    {
+      "type": "PARTY",
+      "id": "emerald health naturals, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "1v3"
+    },
+    {
+      "type": "PARTY",
+      "id": "energous"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "6, 2016"
+    },
+    {
+      "type": "PARTY",
+      "id": "semiconductor (uk) ltd"
+    },
+    {
+      "type": "PARTY",
+      "id": "enterprise transportation company"
+    },
+    {
+      "type": "PARTY",
+      "id": "enterprise products operating l"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "distributor agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "21, 2005"
+    },
+    {
+      "type": "PARTY",
+      "id": "vendingdata"
+    },
+    {
+      "type": "PARTY",
+      "id": "vendingdata corporation, a nevada corporation"
+    },
+    {
+      "type": "DATE",
+      "id": "31 december"
+    },
+    {
+      "type": "PARTY",
+      "id": "watchguard technologies, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "5, 1997"
+    },
+    {
+      "type": "PARTY",
+      "id": "between watchguard technologies, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "19th day of january, 2001"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "14th day of november 2017"
+    },
+    {
+      "type": "PARTY",
+      "id": "the"
+    },
+    {
+      "type": "PARTY",
+      "id": "com networks, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "women"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "october 30, 2018"
+    },
+    {
+      "type": "PARTY",
+      "id": "ehave, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "6 local programming and marketing agreement (wqht hd2"
+    },
+    {
+      "type": "DATE",
+      "id": "november 25, 2019"
+    },
+    {
+      "type": "PARTY",
+      "id": "mediaco holding inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "to services outsourcing agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "march 30, 2009"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "amendment to exhibit a to services agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "federated investment management"
+    },
+    {
+      "type": "PARTY",
+      "id": "trading and transaction settlement"
+    },
+    {
+      "type": "PARTY",
+      "id": "analysis"
+    },
+    {
+      "type": "PARTY",
+      "id": "hoffmann-la roche ltd"
+    },
+    {
+      "type": "PARTY",
+      "id": "hoffmann-la roche"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "outsourcing agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "1st day of january, 2009"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "website design, development and hosting agreement"
+    },
+    {
+      "type": "DATE",
+      "id": "january 11, 2018"
+    },
+    {
+      "type": "PARTY",
+      "id": "jan"
+    },
+    {
+      "type": "DATE",
+      "id": "11, 2018"
+    },
+    {
+      "type": "PARTY",
+      "id": "mitchell's web advance, plc"
+    },
+    {
+      "type": "PARTY",
+      "id": "freecook"
+    },
+    {
+      "type": "PARTY",
+      "id": "2nd day of january"
+    },
+    {
+      "type": "DATE",
+      "id": "5th day of december 2008"
+    },
+    {
+      "type": "PARTY",
+      "id": "mining holdings limited"
+    },
+    {
+      "type": "PARTY",
+      "id": "goosehead insurance agency, llc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "31st day of march, 1998"
+    },
+    {
+      "type": "PARTY",
+      "id": "david a"
+    },
+    {
+      "type": "PARTY",
+      "id": "south medical supply, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "corp"
+    },
+    {
+      "type": "PARTY",
+      "id": "smith"
+    },
+    {
+      "type": "PARTY",
+      "id": "3 execution version gwg holdings, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "december 27, 2018"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "marketing affiliate agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "marketing"
+    },
+    {
+      "type": "PARTY",
+      "id": "trust advisors to the seller trusts"
+    },
+    {
+      "type": "PARTY",
+      "id": "gwg holdings, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "august"
+    },
+    {
+      "type": "PARTY",
+      "id": "b & c general warehouse corporation llc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "agreement number 12965"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "december 31, 2004"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "wireless content license agreement number 12965"
+    },
+    {
+      "type": "PARTY",
+      "id": "twentieth century fox licensing &"
+    },
+    {
+      "type": "PARTY",
+      "id": "fox entertainment group, inc"
+    },
+    {
+      "type": "DATE",
+      "id": "november 11, 2005"
+    },
+    {
+      "type": "DATE",
+      "id": "march 27, 2006"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "february 19, 2007"
+    },
+    {
+      "type": "PARTY",
+      "id": "10, 2"
+    },
+    {
+      "type": "PARTY",
+      "id": "corporation"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "software development agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "6, 2004 (the"
+    },
+    {
+      "type": "PARTY",
+      "id": "digital arts inc"
+    },
+    {
+      "type": "DATE",
+      "id": "may 3, 2016"
+    },
+    {
+      "type": "PARTY",
+      "id": "mg capital management ltd"
+    },
+    {
+      "type": "PARTY",
+      "id": "percy rockdale"
+    },
+    {
+      "type": "PARTY",
+      "id": "percy rockdale llc"
+    },
+    {
+      "type": "PARTY",
+      "id": "20th day of march"
+    },
+    {
+      "type": "PARTY",
+      "id": "holiday rv superstores, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "d/b/a recreation usa (the \"company"
+    },
+    {
+      "type": "PARTY",
+      "id": "resources, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "group, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "hpil energytech inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "group"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "31 day of july 2019"
+    },
+    {
+      "type": "PARTY",
+      "id": "avraham giron st"
+    },
+    {
+      "type": "PARTY",
+      "id": "imaging ltd"
+    },
+    {
+      "type": "PARTY",
+      "id": "pob"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "software maintenance agreement"
+    },
+    {
+      "type": "DATE",
+      "id": "october 13"
+    },
+    {
+      "type": "PARTY",
+      "id": "leader act ltd"
+    },
+    {
+      "type": "PARTY",
+      "id": "ezjr, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "form of trademark license agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "___, 2019"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "trademark license agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "1s t day of march, 2018"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "15 th day of july, 2010"
+    },
+    {
+      "type": "PARTY",
+      "id": "imedicor"
+    },
+    {
+      "type": "PARTY",
+      "id": "i-escrow, inc"
+    },
+    {
+      "type": "DATE",
+      "id": "18th day of may, 2001"
+    },
+    {
+      "type": "PARTY",
+      "id": "westrock"
+    },
+    {
+      "type": "PARTY",
+      "id": "ingevity"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "17, 2017"
+    },
+    {
+      "type": "PARTY",
+      "id": "anderson cancer center"
+    },
+    {
+      "type": "PARTY",
+      "id": "biotechnologies, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "ivillage, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "media, a division of j"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "december 21, 2015"
+    },
+    {
+      "type": "PARTY",
+      "id": "beijing sun seven stars culture development limited"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "none ceres-iger collaboration agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "19th day of july"
+    },
+    {
+      "type": "PARTY",
+      "id": "sunwai"
+    },
+    {
+      "type": "PARTY",
+      "id": "imine"
+    },
+    {
+      "type": "PARTY",
+      "id": "huang jia country club and recreation inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "chen- bin architects office"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "march 3, 2000"
+    },
+    {
+      "type": "PARTY",
+      "id": "verticalnet, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "verticalnet"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "distributorship agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "integrity short term government"
+    },
+    {
+      "type": "DATE",
+      "id": "january 18, 2020"
+    },
+    {
+      "type": "PARTY",
+      "id": "pareteum"
+    },
+    {
+      "type": "PARTY",
+      "id": "partner"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "february 08, 2007"
+    },
+    {
+      "type": "PARTY",
+      "id": "shenzhen"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "promotion agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "june 27, 2006"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "the 5th day of february, 2020"
+    },
+    {
+      "type": "PARTY",
+      "id": "electric"
+    },
+    {
+      "type": "DATE",
+      "id": "day of ______________ 2013"
+    },
+    {
+      "type": "PARTY",
+      "id": "tel-online limited"
+    },
+    {
+      "type": "PARTY",
+      "id": "seminars, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "12-23-2019"
+    },
+    {
+      "type": "PARTY",
+      "id": "alliance holdings, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "beijing sina internet information service co"
+    },
+    {
+      "type": "PARTY",
+      "id": "content"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "license agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "mutual termination agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "day of"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "14th day of march, 2016"
+    },
+    {
+      "type": "PARTY",
+      "id": "corporation and axiometric, llc"
+    },
+    {
+      "type": "PARTY",
+      "id": "liquidmetal technologies, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "eutectix"
+    },
+    {
+      "type": "PARTY",
+      "id": "14 day of june"
+    },
+    {
+      "type": "PARTY",
+      "id": "utek corporation"
+    },
+    {
+      "type": "PARTY",
+      "id": "jenner"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "transportation services agreement"
+    },
+    {
+      "type": "DATE",
+      "id": "20th day of december"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "maintenance agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "gunston consulting, llc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "1st day of march 2020"
+    },
+    {
+      "type": "PARTY",
+      "id": "medalist diversified reit, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "july 12, 1999"
+    },
+    {
+      "type": "PARTY",
+      "id": "football northwest"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "february 3, 2010"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "promotion"
+    },
+    {
+      "type": "PARTY",
+      "id": "marathon petroleum company lp"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "june 11, 2015"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "november 20, 2007"
+    },
+    {
+      "type": "PARTY",
+      "id": "confidential treatment requested by achaogen, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "26, 2016"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "collaborative development and commercialization agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "2nd day of june, 2008"
+    },
+    {
+      "type": "PARTY",
+      "id": "digicorp, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "4 resolution of disputes arising under article 3"
+    },
+    {
+      "type": "PARTY",
+      "id": "fixed contribution to expenses"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "\u00b7] day of [\u00b7], 2019"
+    },
+    {
+      "type": "PARTY",
+      "id": "21st day of january 2003"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "july 26, 2013"
+    },
+    {
+      "type": "DATE",
+      "id": "october 24, 2005"
+    },
+    {
+      "type": "PARTY",
+      "id": "recitals"
+    },
+    {
+      "type": "PARTY",
+      "id": "01 (the \"rfp"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "service agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "fidelity investments institutional operations company, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "\u00b7], 2019"
+    },
+    {
+      "type": "PARTY",
+      "id": "oaktree capital management (international) limited"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "25 september 2018"
+    },
+    {
+      "type": "PARTY",
+      "id": "piphany"
+    },
+    {
+      "type": "PARTY",
+      "id": "piphany, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "31 day of july, 2000"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "26 day of january, 2007"
+    },
+    {
+      "type": "PARTY",
+      "id": "customer"
+    },
+    {
+      "type": "PARTY",
+      "id": "oriental financial group inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "metavante"
+    },
+    {
+      "type": "PARTY",
+      "id": "metavante corporation"
+    },
+    {
+      "type": "PARTY",
+      "id": "smbc nikko securities inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "bloom burton & co"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "__, 2005 (the"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "joint filing agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "9th day of september"
+    },
+    {
+      "type": "PARTY",
+      "id": "alan r"
+    },
+    {
+      "type": "PARTY",
+      "id": "alan carley"
+    },
+    {
+      "type": "PARTY",
+      "id": "purinix pharmaceuticals llc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "services agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "june 24"
+    },
+    {
+      "type": "PARTY",
+      "id": "statement"
+    },
+    {
+      "type": "PARTY",
+      "id": "terms"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "december 14, 2016"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "supply agreement"
+    },
+    {
+      "type": "DATE",
+      "id": "july 31, 2017"
+    },
+    {
+      "type": "PARTY",
+      "id": "profound medical inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "philips medical systems nederland b"
+    },
+    {
+      "type": "PARTY",
+      "id": "medical inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "day of [ ], 2020"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "september 30, 1999"
+    },
+    {
+      "type": "PARTY",
+      "id": "11, 1996"
+    },
+    {
+      "type": "PARTY",
+      "id": "quote, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "watley, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "development of custom software"
+    },
+    {
+      "type": "PARTY",
+      "id": "dot com llc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "gas transportation agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "14t h day of april, 2015"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "16t h day of may, 2017"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "4 entire agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "1st day of june, 2017"
+    },
+    {
+      "type": "PARTY",
+      "id": "prudential bank"
+    },
+    {
+      "type": "PARTY",
+      "id": "jeffrey b"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "17t h day of october, 2007"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "license and development agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "september 24, 2013"
+    },
+    {
+      "type": "PARTY",
+      "id": "yaskawa electric corporation"
+    },
+    {
+      "type": "PARTY",
+      "id": "rise education group"
+    },
+    {
+      "type": "DATE",
+      "id": "date"
+    },
+    {
+      "type": "PARTY",
+      "id": "penntex north louisiana operating, llc"
+    },
+    {
+      "type": "PARTY",
+      "id": "reed's, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "b c marketing concepts inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "dba full sail brewing"
+    },
+    {
+      "type": "PARTY",
+      "id": "dba full sail brewing company"
+    },
+    {
+      "type": "PARTY",
+      "id": "dba full sail"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "collaborative research, development and commercialization agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "medicines, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "reynolds consumer products llc"
+    },
+    {
+      "type": "PARTY",
+      "id": "reynolds consumer products inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "the \"company\" or \"rcp"
+    },
+    {
+      "type": "PARTY",
+      "id": "sekisui diagnostics, llc and its affiliates"
+    },
+    {
+      "type": "PARTY",
+      "id": "services"
+    },
+    {
+      "type": "PARTY",
+      "id": "sunset st"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "15th day of may, 2013"
+    },
+    {
+      "type": "PARTY",
+      "id": "inventec appliances corporation"
+    },
+    {
+      "type": "PARTY",
+      "id": "pactiv llc"
+    },
+    {
+      "type": "PARTY",
+      "id": "american general life insurance company of delaware"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "march 30"
+    },
+    {
+      "type": "PARTY",
+      "id": "ib associates llc"
+    },
+    {
+      "type": "PARTY",
+      "id": "30th day of november, 2017"
+    },
+    {
+      "type": "PARTY",
+      "id": "bravatek solutions, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "contract"
+    },
+    {
+      "type": "DATE",
+      "id": "october 2000"
+    },
+    {
+      "type": "DATE",
+      "id": "march 13"
+    },
+    {
+      "type": "PARTY",
+      "id": "healthcare capital corp"
+    },
+    {
+      "type": "PARTY",
+      "id": "water group limited (\"sparkling"
+    },
+    {
+      "type": "PARTY",
+      "id": "support"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "12 entire agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "july 1, 2020"
+    },
+    {
+      "type": "PARTY",
+      "id": "groupe parameus corp"
+    },
+    {
+      "type": "PARTY",
+      "id": "source: remark holdings, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "holdings, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "day of ___________________, 19__"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "14th day of may, 1999"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "4, 1997 (the"
+    },
+    {
+      "type": "PARTY",
+      "id": "licensed technology"
+    },
+    {
+      "type": "PARTY",
+      "id": "by m&i"
+    },
+    {
+      "type": "PARTY",
+      "id": "thayer equity investors iv, l"
+    },
+    {
+      "type": "PARTY",
+      "id": "surgical, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "ste"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "20t h day of november, 2018"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "1s t day of october"
+    },
+    {
+      "type": "PARTY",
+      "id": "equidata, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "applications products (africa) (pty) limited"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "9 services agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "august __, 2019"
+    },
+    {
+      "type": "PARTY",
+      "id": "delivery of financial statements; inspection rights"
+    },
+    {
+      "type": "PARTY",
+      "id": "fsl 15 6"
+    },
+    {
+      "type": "PARTY",
+      "id": "tph 15 6"
+    },
+    {
+      "type": "PARTY",
+      "id": "3 or 15"
+    },
+    {
+      "type": "PARTY",
+      "id": "tph's stockholder approval"
+    },
+    {
+      "type": "PARTY",
+      "id": "1 termination prior to the effective date 15"
+    },
+    {
+      "type": "PARTY",
+      "id": "termination"
+    },
+    {
+      "type": "PARTY",
+      "id": "1 termination prior to the effective date"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "january 24, 2014"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "2014 amendment"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "cooperation agreement (2014 amendment"
+    },
+    {
+      "type": "PARTY",
+      "id": "nanjing tuniu technology co"
+    },
+    {
+      "type": "PARTY",
+      "id": "6, southeast university science park"
+    },
+    {
+      "type": "PARTY",
+      "id": "beijing tuniu technology co"
+    },
+    {
+      "type": "PARTY",
+      "id": "4, and 10"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "30th day of june"
+    },
+    {
+      "type": "PARTY",
+      "id": "turnkey capital inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "transportation service agreement contract identification ft18150"
+    },
+    {
+      "type": "PARTY",
+      "id": "great lakes gas transmission limited partnership"
+    },
+    {
+      "type": "PARTY",
+      "id": "anr pipeline company"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "___, 1999 (the"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "20t h day of december 2018"
+    },
+    {
+      "type": "PARTY",
+      "id": "todos medical ltd"
+    },
+    {
+      "type": "PARTY",
+      "id": "medical technologies ltd"
+    },
+    {
+      "type": "PARTY",
+      "id": "cremer oleo gmbh & co"
+    },
+    {
+      "type": "PARTY",
+      "id": "ultragenyx pharmaceutical"
+    },
+    {
+      "type": "PARTY",
+      "id": "ultragenyx pharmaceutical inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "cremer"
+    },
+    {
+      "type": "DATE",
+      "id": "march 13, 2014"
+    },
+    {
+      "type": "PARTY",
+      "id": "jana partners llc"
+    },
+    {
+      "type": "PARTY",
+      "id": "jana"
+    },
+    {
+      "type": "PARTY",
+      "id": "urs corporation"
+    },
+    {
+      "type": "PARTY",
+      "id": "urs"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "october 15"
+    },
+    {
+      "type": "PARTY",
+      "id": "george d"
+    },
+    {
+      "type": "PARTY",
+      "id": "green (the \"business affiliate\") and union dental corp"
+    },
+    {
+      "type": "PARTY",
+      "id": "1 financial corporation"
+    },
+    {
+      "type": "PARTY",
+      "id": "financial, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "amendment and termination of joint venture agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "october 30, 2019"
+    },
+    {
+      "type": "DATE",
+      "id": "december 13"
+    },
+    {
+      "type": "PARTY",
+      "id": "nms communications corp"
+    },
+    {
+      "type": "PARTY",
+      "id": "verso backhaul solutions, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "solutions, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "operation and maintenance agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "november 3, 2010"
+    },
+    {
+      "type": "DATE",
+      "id": "7th day of april, 2003"
+    },
+    {
+      "type": "PARTY",
+      "id": "this non-competition agreement amendment no"
+    },
+    {
+      "type": "PARTY",
+      "id": "solar, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "june 23, 2015"
+    },
+    {
+      "type": "DATE",
+      "id": "23, 2015"
+    },
+    {
+      "type": "PARTY",
+      "id": "9 regulation rr risk retention"
+    },
+    {
+      "type": "PARTY",
+      "id": "10 cap collateral account"
+    },
+    {
+      "type": "PARTY",
+      "id": "miscellaneous"
+    },
+    {
+      "type": "PARTY",
+      "id": "vitalibis inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "bookingentertainment"
+    },
+    {
+      "type": "PARTY",
+      "id": "leo pharma a/s"
+    },
+    {
+      "type": "PARTY",
+      "id": "galen (chemicals) limited"
+    },
+    {
+      "type": "PARTY",
+      "id": "shbv (hong kong) ltd"
+    },
+    {
+      "type": "PARTY",
+      "id": "group holdings plc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "of may , 2010"
+    },
+    {
+      "type": "PARTY",
+      "id": "execution copy"
+    },
+    {
+      "type": "PARTY",
+      "id": "13th day of october, 1999"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "day of september, 200_"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "exclusive distributor agreement"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "12th day of november, 2019"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "day of _______________2000 (the"
+    },
+    {
+      "type": "PARTY",
+      "id": "1st day of december, 2015"
+    },
+    {
+      "type": "PARTY",
+      "id": "bosch international"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "12th day of november, 2018"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "2nd st"
+    },
+    {
+      "type": "PARTY",
+      "id": "xpresspa group, inc"
+    },
+    {
+      "type": "EFFECTIVE_DATE",
+      "id": "april 14, 2014"
+    },
+    {
+      "type": "DATE",
+      "id": "1, 1990 by"
+    },
+    {
+      "type": "PARTY",
+      "id": "partners"
+    },
+    {
+      "type": "PARTY",
+      "id": "zogenix, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "and innerscope hearing technologies, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "manufacturer"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "ee to all terms and conditions of this Consulting Agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "direct, inc"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "new jersey"
+    },
+    {
+      "type": "PARTY",
+      "id": "arconic inc"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "delaware"
+    },
+    {
+      "type": "PARTY",
+      "id": "commnet wireless, llc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "Execution Version Network Build and Maintenance Agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "at&t mobility llc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "rsion Network Build and Maintenance Agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "source: atn international, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "and Maintenance Agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "Scope of Agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "1 scope"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "Mobility Network General Agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "3 supply agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "at&t competitor"
+    },
+    {
+      "type": "PARTY",
+      "id": "the babcock & wilcox company"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "california"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "AGENCY AGREEMENT"
+    },
+    {
+      "type": "PARTY",
+      "id": "bluefly, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "e-business hosting agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "VISP WEB SITE BUILDING AND HOSTING AGREEMENT"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "2 operation and maintenance services"
+    },
+    {
+      "type": "DATE",
+      "id": "april 13, 2012"
+    },
+    {
+      "type": "DATE",
+      "id": "april 13"
+    },
+    {
+      "type": "PARTY",
+      "id": "curo receivables finance ii"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "servicing agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "and CURO MANAGEMENT, LLC, as Servicer Dated as of April 8, 2020 This SERVICING AGREEMENT"
+    },
+    {
+      "type": "DATE",
+      "id": "april 8, 2020"
+    },
+    {
+      "type": "PARTY",
+      "id": "nuance communications, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "birch first global investments inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "diversinet corp"
+    },
+    {
+      "type": "PARTY",
+      "id": "limited"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "canada"
+    },
+    {
+      "type": "DATE",
+      "id": "February 4, 2005"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "DATED EFFECTIVE AS OF March 11, 2015 TRANSPORTATION AGREEMENT"
+    },
+    {
+      "type": "DATE",
+      "id": "march 11, 2015"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "ING AGREEMENT"
+    },
+    {
+      "type": "PARTY",
+      "id": "rogers cable communications inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "video-on-demand content license agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "communications inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "K SERVICES AGREEMENT"
+    },
+    {
+      "type": "DATE",
+      "id": "january 1, 2004"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "This SECOND AMENDMENT"
+    },
+    {
+      "type": "DATE",
+      "id": "march 1"
+    },
+    {
+      "type": "PARTY",
+      "id": "energy, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "joint development agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "This Consulting Agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "This Promotion Agreement"
+    },
+    {
+      "type": "DATE",
+      "id": "march 12,1999"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "the laws of the State"
+    },
+    {
+      "type": "PARTY",
+      "id": "resource corporation"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "the laws of the State of Colorado"
+    },
+    {
+      "type": "DATE",
+      "id": "November 11, 2005"
+    },
+    {
+      "type": "DATE",
+      "id": "March 27, 2006"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "cooperation"
+    },
+    {
+      "type": "DATE",
+      "id": "May 13"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "ENDORSEMENT AGREEMENT"
+    },
+    {
+      "type": "DATE",
+      "id": "April 15, 1994"
+    },
+    {
+      "type": "PARTY",
+      "id": "15, 1994 by"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "OR AGREEMENT"
+    },
+    {
+      "type": "PARTY",
+      "id": "theravance, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "10th day of january, 2018"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "Strategic Alliance Agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "fazync"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "the laws of the State of Color"
+    },
+    {
+      "type": "DATE",
+      "id": "January 29, 2007"
+    },
+    {
+      "type": "PARTY",
+      "id": "data merchant services corporation"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "Execution Copy SPONSORSHIP AGREEMENT"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "ive Distributor Agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "depomed, inc"
+    },
+    {
+      "type": "DATE",
+      "id": "June 16, 2004"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "L TERMINATION AGREEMENT"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "This Agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "ANCE AGREEMENT"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "California"
+    },
+    {
+      "type": "PARTY",
+      "id": "1st day of january, 2000"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "NDORSEMENT AGREEMENT"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "VICES AGREEMENT"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "CO-BRANDING AGREEMENT"
+    },
+    {
+      "type": "PARTY",
+      "id": "johnson matthey catalog company, inc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "DISTRIBUTOR AGREEMENT"
+    },
+    {
+      "type": "PARTY",
+      "id": "company actions"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "is made"
+    },
+    {
+      "type": "PARTY",
+      "id": "nls-1 pharma ag"
+    },
+    {
+      "type": "PARTY",
+      "id": "19 day of march, 2004"
+    },
+    {
+      "type": "PARTY",
+      "id": "may 25th, 2018"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "Service Agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "cro consulting (pty"
+    },
+    {
+      "type": "PARTY",
+      "id": "marv enterprises"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "the laws of the Commonwealth"
+    },
+    {
+      "type": "PARTY",
+      "id": "prime"
+    },
+    {
+      "type": "PARTY",
+      "id": "source: performance sports brands, inc"
+    },
+    {
+      "type": "PARTY",
+      "id": "phoenix satellite television company limited"
+    },
+    {
+      "type": "PARTY",
+      "id": "19t h day of march, 2020"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "Page 1 of 3 DISTRIBUTOR AGREEMENT"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "plit-Dollar Endorsement Agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "lubricants ltd"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "pennsylvania"
+    },
+    {
+      "type": "PARTY",
+      "id": "gulf"
+    },
+    {
+      "type": "PARTY",
+      "id": "copy"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT"
+    },
+    {
+      "type": "PARTY",
+      "id": "research"
+    },
+    {
+      "type": "PARTY",
+      "id": "development"
+    },
+    {
+      "type": "DATE",
+      "id": "November 1, 2019"
+    },
+    {
+      "type": "PARTY",
+      "id": "gathering company, llc"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "operations and maintenance agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "30th day of april (the \"effective"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "CONSULTING AGREEMENT"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "PPB, VCA and OTA dated 10 October 2000 This contract"
+    },
+    {
+      "type": "DATE",
+      "id": "March 13, 1996"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "REEMENT THIS ENDORSEMENT AGREEMENT"
+    },
+    {
+      "type": "PARTY",
+      "id": "intuit inc"
+    },
+    {
+      "type": "DATE",
+      "id": "August 26, 2015"
+    },
+    {
+      "type": "PARTY",
+      "id": "17t h day of may, 2017"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "This Distributor Agreement"
+    },
+    {
+      "type": "PARTY",
+      "id": "rue adolphe fischer l-1520 luxembourg luxembourg"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "rue Adolphe Fischer L-1520 Luxembourg Luxembourg CO-BRANDING AGREEMENT"
+    },
+    {
+      "type": "PARTY",
+      "id": "22nd day of august 2005"
+    },
+    {
+      "type": "DATE",
+      "id": "July 23, 2003"
+    },
+    {
+      "type": "DATE",
+      "id": "March 13, 2014"
+    },
+    {
+      "type": "PARTY",
+      "id": "1999, by"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "S ENDORSEMENT AGREEMENT"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "the laws of the Province of B"
+    },
+    {
+      "type": "PARTY",
+      "id": "glamis gold ltd"
+    },
+    {
+      "type": "JURISDICTION",
+      "id": "British Columbia"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "This Endorsement Agreement"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "CORPORATION RESELLER AGREEMENT"
+    },
+    {
+      "type": "DATE",
+      "id": "september 14, 2005"
+    },
+    {
+      "type": "CONTRACT",
+      "id": "STRATEGIC ALLIANCE AGREEMENT"
+    }
+  ],
+  "links": [
+    {
+      "relation": "IS_A",
+      "confidence": "0.376",
+      "inferred": "False",
+      "source": "co-branding agreement",
+      "target": "21, 1999",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.371",
+      "inferred": "False",
+      "source": "co-branding agreement",
+      "target": "19th day of january, 2001",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.371",
+      "inferred": "False",
+      "source": "co-branding agreement",
+      "target": "march 3, 2000",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.372",
+      "inferred": "False",
+      "source": "co-branding agreement",
+      "target": "21st day of january 2003",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.552",
+      "inferred": "False",
+      "source": "co-branding agreement",
+      "target": "technologies inc",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.371",
+      "inferred": "False",
+      "source": "co-branding agreement",
+      "target": "september 30, 1999",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.426",
+      "inferred": "False",
+      "source": "co-branding agreement",
+      "target": "quote, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.372",
+      "inferred": "False",
+      "source": "co-branding agreement",
+      "target": "11, 1996",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.378",
+      "inferred": "False",
+      "source": "co-branding agreement",
+      "target": "inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.376",
+      "inferred": "False",
+      "source": "co-branding agreement",
+      "target": "___, 1999 (the",
+      "key": 0
+    },
+    {
+      "relation": "INFERRED_LINK",
+      "confidence": "0.998",
+      "inferred": "True",
+      "source": "co-branding agreement",
+      "target": "verticalnet, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.603",
+      "inferred": "False",
+      "source": "october 1, 2019",
+      "target": "ability computer & software industries",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.603",
+      "inferred": "False",
+      "source": "november 1, 2019",
+      "target": "ability computer & software industries",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.602",
+      "inferred": "False",
+      "source": "pte ltd",
+      "target": "ability computer & software industries",
+      "key": 0
+    },
+    {
+      "relation": "INDICATED_BY",
+      "confidence": "0.63",
+      "inferred": "False",
+      "source": "to 17 c",
+      "target": "and",
+      "key": 0
+    },
+    {
+      "relation": "INFERRED_LINK",
+      "confidence": "0.998",
+      "inferred": "True",
+      "source": "to 17 c",
+      "target": "endorsement agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.495",
+      "inferred": "False",
+      "source": "and",
+      "target": "agreement",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.448",
+      "inferred": "False",
+      "source": "and",
+      "target": "ENDORSEMENT AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.501",
+      "inferred": "False",
+      "source": "distributor",
+      "target": "multiple linac and multi-modality distributor agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.371",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "multiple linac and multi-modality distributor agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.439",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "snotarator llc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.439",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "resources, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.428",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "beijing sina internet information service co",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.368",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "1, 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.472",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "11, 1996",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.588",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "quote, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.432",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "inc",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.396",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "inc",
+      "key": 1
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.428",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "yaskawa electric corporation",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.472",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "23, 2015",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.367",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "February 4, 2005",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.486",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "January 29, 2007",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.553",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "source: performance sports brands, inc",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.445",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "medicines, inc",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.521",
+      "inferred": "False",
+      "source": "agreement",
+      "target": "November 1, 2019",
+      "key": 0
+    },
+    {
+      "relation": "INFERRED_LINK",
+      "confidence": "0.997",
+      "inferred": "True",
+      "source": "agreement",
+      "target": "term",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.372",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "tom",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.42",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "adams golf, ltd",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.409",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "watson",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.366",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "by and",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.37",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "february 1, 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.435",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "14th day of november 2017",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.37",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "20th day of march",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.42",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "holiday rv superstores, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.42",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "d/b/a recreation usa (the \"company",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.42",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "resources, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.37",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "14th day of march, 2016",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.474",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "jenner",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.521",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "july 26, 2013",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.37",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "1, 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.37",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "day of ___________________, 19__",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.474",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "porex corporation",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.372",
+      "inferred": "False",
+      "source": "endorsement agreement",
+      "target": "and",
+      "key": 0
+    },
+    {
+      "relation": "INFERRED_LINK",
+      "confidence": "0.998",
+      "inferred": "True",
+      "source": "endorsement agreement",
+      "target": "term",
+      "key": 0
+    },
+    {
+      "relation": "INFERRED_LINK",
+      "confidence": "0.998",
+      "inferred": "True",
+      "source": "endorsement agreement",
+      "target": "cytodyn inc",
+      "key": 0
+    },
+    {
+      "relation": "INFERRED_LINK",
+      "confidence": "0.998",
+      "inferred": "True",
+      "source": "endorsement agreement",
+      "target": "group, inc",
+      "key": 0
+    },
+    {
+      "relation": "INFERRED_LINK",
+      "confidence": "0.998",
+      "inferred": "True",
+      "source": "endorsement agreement",
+      "target": "California",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.362",
+      "inferred": "False",
+      "source": "january 13, 2005",
+      "target": "tom",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.402",
+      "inferred": "False",
+      "source": "january 13, 2005",
+      "target": "adams golf, ltd",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.495",
+      "inferred": "False",
+      "source": "january 13, 2005",
+      "target": "watson",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.72",
+      "inferred": "False",
+      "source": "adaptimmune",
+      "target": "adaptimmune limited",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.628",
+      "inferred": "False",
+      "source": "adaptimmune llc",
+      "target": "adaptimmune limited",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.391",
+      "inferred": "False",
+      "source": "adaptimmune llc",
+      "target": "june 23, 2015",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.39",
+      "inferred": "False",
+      "source": "adaptimmune llc",
+      "target": "23, 2015",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.385",
+      "inferred": "False",
+      "source": "reseller agreement",
+      "target": "this ___ day of _________, 2004",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.503",
+      "inferred": "False",
+      "source": "reseller agreement",
+      "target": "695014 b",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.466",
+      "inferred": "False",
+      "source": "reseller agreement",
+      "target": "ltd",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.424",
+      "inferred": "False",
+      "source": "reseller agreement",
+      "target": "dba galaxy telecom",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.379",
+      "inferred": "False",
+      "source": "reseller agreement",
+      "target": "day of september, 200_",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.526",
+      "inferred": "False",
+      "source": "porex corporation",
+      "target": "this ___ day of _________, 2004",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.526",
+      "inferred": "False",
+      "source": "detto technologies",
+      "target": "this ___ day of _________, 2004",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.626",
+      "inferred": "False",
+      "source": "price $10",
+      "target": "agency agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.662",
+      "inferred": "False",
+      "source": "price $10",
+      "target": "agreement",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.384",
+      "inferred": "False",
+      "source": "agency agreement",
+      "target": "november 9, 2005",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.392",
+      "inferred": "False",
+      "source": "agency agreement",
+      "target": "29, 1999",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.431",
+      "inferred": "False",
+      "source": "agency agreement",
+      "target": "corporation, a",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.431",
+      "inferred": "False",
+      "source": "agency agreement",
+      "target": "associated chapter 11 debtors in possession",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.518",
+      "inferred": "False",
+      "source": "agency agreement",
+      "target": "chapter",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.602",
+      "inferred": "False",
+      "source": "airsopure international group, inc",
+      "target": "airsopure\" or by reference \"we\", \"us",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "airsopure\" or by reference \"we\", \"us",
+      "target": "hereinafter \"you\" or by reference \"franchisee\", or \"your",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.525",
+      "inferred": "False",
+      "source": "agency",
+      "target": "november 9, 2005",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.472",
+      "inferred": "False",
+      "source": "alliance bancorp, inc",
+      "target": "common stock (par value $",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.472",
+      "inferred": "False",
+      "source": "alliance bancorp, inc",
+      "target": "00 per share",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.41",
+      "inferred": "False",
+      "source": "alliance bancorp, inc",
+      "target": "agency agreement",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.399",
+      "inferred": "False",
+      "source": "alliance bancorp, inc",
+      "target": "___, 2006",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.534",
+      "inferred": "False",
+      "source": "common stock (par value $",
+      "target": "agency agreement",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.368",
+      "inferred": "False",
+      "source": "cooperation agreement",
+      "target": "december 11, 2009",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.582",
+      "inferred": "False",
+      "source": "cooperation agreement",
+      "target": "june 1",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.492",
+      "inferred": "False",
+      "source": "cooperation agreement",
+      "target": "source: remark holdings, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.584",
+      "inferred": "False",
+      "source": "cooperation agreement",
+      "target": "holdings, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.374",
+      "inferred": "False",
+      "source": "cooperation agreement",
+      "target": "january 24, 2014",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.493",
+      "inferred": "False",
+      "source": "cooperation agreement",
+      "target": "March 13, 2014",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.603",
+      "inferred": "False",
+      "source": "december 11, 2009",
+      "target": "persons and entities listed on schedule a",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.61",
+      "inferred": "False",
+      "source": "ireland, inc",
+      "target": "the sterling/winters co",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.61",
+      "inferred": "False",
+      "source": "ireland, inc",
+      "target": "sterling/winters co",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.612",
+      "inferred": "False",
+      "source": "inc",
+      "target": "the sterling/winters co",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.49",
+      "inferred": "False",
+      "source": "inc",
+      "target": "sterling/winters co",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "confidence": "0.422",
+      "inferred": "False",
+      "source": "inc",
+      "target": "california",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.482",
+      "inferred": "False",
+      "source": "kubient, inc",
+      "target": "the sterling/winters co",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.482",
+      "inferred": "False",
+      "source": "kubient, inc",
+      "target": "sterling/winters co",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.372",
+      "inferred": "False",
+      "source": "collaboration agreement",
+      "target": "april 14th, 2020",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.438",
+      "inferred": "False",
+      "source": "collaboration agreement",
+      "target": "november 2, 2012",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.372",
+      "inferred": "False",
+      "source": "collaboration agreement",
+      "target": "18t h day of august 2014",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.577",
+      "inferred": "False",
+      "source": "collaboration agreement",
+      "target": "hoffmann-la roche ltd",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.621",
+      "inferred": "False",
+      "source": "collaboration agreement",
+      "target": "hoffmann-la roche",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.589",
+      "inferred": "False",
+      "source": "intellectual property agreement",
+      "target": "december 31, 2018",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.363",
+      "inferred": "False",
+      "source": "intellectual property agreement",
+      "target": "30, 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.369",
+      "inferred": "False",
+      "source": "intellectual property agreement",
+      "target": "february 08, 2007",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.554",
+      "inferred": "False",
+      "source": "intellectual property agreement",
+      "target": "shenzhen",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.369",
+      "inferred": "False",
+      "source": "intellectual property agreement",
+      "target": "november 20, 2007",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.424",
+      "inferred": "False",
+      "source": "intellectual property agreement",
+      "target": "december 13",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.432",
+      "inferred": "False",
+      "source": "intellectual property agreement",
+      "target": "april 14, 2014",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.368",
+      "inferred": "False",
+      "source": "intellectual property agreement",
+      "target": "June 16, 2004",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.758",
+      "inferred": "False",
+      "source": "december 31, 2018",
+      "target": "armstrong flooring, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.504",
+      "inferred": "False",
+      "source": "december 31, 2018",
+      "target": "armstrong",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.435",
+      "inferred": "False",
+      "source": "december 31, 2018",
+      "target": "development of custom software",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.444",
+      "inferred": "False",
+      "source": "december 31, 2018",
+      "target": "dot com llc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.602",
+      "inferred": "False",
+      "source": "nantz iii",
+      "target": "company\" or \"azul",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.439",
+      "inferred": "False",
+      "source": "communications, inc",
+      "target": "company\" or \"azul",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.337",
+      "inferred": "False",
+      "source": "ltd",
+      "target": "10, 2",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.68",
+      "inferred": "False",
+      "source": "ltd",
+      "target": "bloom burton & co",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.405",
+      "inferred": "False",
+      "source": "ltd",
+      "target": "6, southeast university science park",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.599",
+      "inferred": "False",
+      "source": "natural gas co",
+      "target": "natural gas for that transporter transport shipper; and",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.367",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "march 18, 2010",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.425",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "11th day of december, 2015",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.406",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "energous",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.425",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "31 december",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.367",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "may 2004",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.359",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "5th day of december 2008",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.367",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "15 th day of july, 2010",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.406",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "imedicor",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.418",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "i-escrow, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.363",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "14 day of june",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.521",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "utek corporation",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.363",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "9th day of september",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.406",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "statement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.367",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "december 14, 2016",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.367",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "september 24, 2013",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.406",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "electric",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.406",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "yaskawa electric corporation",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.363",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "30th day of november, 2017",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.418",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "bravatek solutions, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.367",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "30th day of june",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.479",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "turnkey capital inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.367",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "of may , 2010",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.363",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "1st day of december, 2015",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.406",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "bosch international",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.581",
+      "inferred": "False",
+      "source": "strategic alliance agreement",
+      "target": "August 26, 2015",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.465",
+      "inferred": "False",
+      "source": "joint venture agreement",
+      "target": "february 1, 2018",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.383",
+      "inferred": "False",
+      "source": "joint venture agreement",
+      "target": "18th day of may, 2001",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.539",
+      "inferred": "False",
+      "source": "joint venture agreement",
+      "target": "amendment and termination of joint venture agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.388",
+      "inferred": "False",
+      "source": "joint venture agreement",
+      "target": "october 30, 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.669",
+      "inferred": "False",
+      "source": "february 1, 2018",
+      "target": "wpt enterprises, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.538",
+      "inferred": "False",
+      "source": "jacksonville jaguars sponsorship agreement",
+      "target": "november 27, 2017",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.619",
+      "inferred": "False",
+      "source": "term",
+      "target": "and",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.447",
+      "inferred": "False",
+      "source": "network build and maintenance agreement",
+      "target": "1 definitions 1",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.447",
+      "inferred": "False",
+      "source": "network build and maintenance agreement",
+      "target": "2 affiliate 1 2",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.684",
+      "inferred": "False",
+      "source": "network build and maintenance agreement",
+      "target": "affiliate",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.405",
+      "inferred": "False",
+      "source": "1 definitions 1",
+      "target": "2, 2",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.405",
+      "inferred": "False",
+      "source": "2 affiliate 1 2",
+      "target": "2, 2",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.775",
+      "inferred": "False",
+      "source": "affiliate",
+      "target": "Scope of Agreement",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.454",
+      "inferred": "False",
+      "source": "2 of this agreement",
+      "target": "1 definitions 1",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.454",
+      "inferred": "False",
+      "source": "2 of this agreement",
+      "target": "2 affiliate 1 2",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.612",
+      "inferred": "False",
+      "source": "2 of this agreement",
+      "target": "affiliate",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.389",
+      "inferred": "False",
+      "source": "2, 2",
+      "target": "3 supply agreement",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.369",
+      "inferred": "False",
+      "source": "and maintenance agreement",
+      "target": "30, 2000",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.67",
+      "inferred": "False",
+      "source": "and maintenance agreement",
+      "target": "piphany, inc",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.438",
+      "inferred": "False",
+      "source": "and maintenance agreement",
+      "target": "__, 2005 (the",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.436",
+      "inferred": "False",
+      "source": "and maintenance agreement",
+      "target": "applications products (africa) (pty) limited",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.443",
+      "inferred": "False",
+      "source": "and maintenance agreement",
+      "target": "day of _______________2000 (the",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.57",
+      "inferred": "False",
+      "source": "30, 2000",
+      "target": "amazon",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.579",
+      "inferred": "False",
+      "source": "30, 2000",
+      "target": "com commerce services, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.613",
+      "inferred": "False",
+      "source": "audible inc",
+      "target": "company",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.659",
+      "inferred": "False",
+      "source": "company",
+      "target": "mining holdings limited",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.52",
+      "inferred": "False",
+      "source": "company",
+      "target": "is made",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.65",
+      "inferred": "False",
+      "source": "azul linhas a\u00e9reas brasileiras s/a",
+      "target": "avions de transport regional, g",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "deep@rrt",
+      "target": "com and spinrecords",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "deep systems",
+      "target": "com and spinrecords",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.503",
+      "inferred": "False",
+      "source": "premium managed hosting agreement",
+      "target": "is a managed hosting agreement between astronutrition",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.491",
+      "inferred": "False",
+      "source": "premium managed hosting agreement",
+      "target": "com and spinrecords",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.495",
+      "inferred": "False",
+      "source": "master supply agreement",
+      "target": "or \"pnc\"), and fonterra (usa) inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.591",
+      "inferred": "False",
+      "source": "master supply agreement",
+      "target": "fonterra (usa) inc",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.448",
+      "inferred": "False",
+      "source": "master supply agreement",
+      "target": "purinix pharmaceuticals llc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.375",
+      "inferred": "False",
+      "source": "master supply agreement",
+      "target": "20t h day of november, 2018",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.612",
+      "inferred": "False",
+      "source": "master supply agreement",
+      "target": "November 1, 2019",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "confidence": "0.613",
+      "inferred": "False",
+      "source": "or \"pnc\"), and fonterra (usa) inc",
+      "target": "california",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.492",
+      "inferred": "False",
+      "source": "31 october 2019",
+      "target": "or \"pnc\"), and fonterra (usa) inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.609",
+      "inferred": "False",
+      "source": "31 october 2019",
+      "target": "fonterra (usa) inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.478",
+      "inferred": "False",
+      "source": "premier nutrition company, llc",
+      "target": "or \"pnc\"), and fonterra (usa) inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.666",
+      "inferred": "False",
+      "source": "premier nutrition company, llc",
+      "target": "fonterra (usa) inc",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.674",
+      "inferred": "False",
+      "source": "premier nutrition company, llc",
+      "target": "operations and maintenance agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.589",
+      "inferred": "False",
+      "source": "co-hosting agreement",
+      "target": "associates, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.424",
+      "inferred": "False",
+      "source": "co-hosting agreement",
+      "target": "net",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.458",
+      "inferred": "False",
+      "source": "between",
+      "target": "2) nigel crockett of (the ''employee",
+      "key": 0
+    },
+    {
+      "relation": "ORGANIZED_UNDER",
+      "confidence": "0.571",
+      "inferred": "False",
+      "source": "between",
+      "target": "the laws of the State",
+      "key": 0
+    },
+    {
+      "relation": "ORGANIZED_UNDER",
+      "confidence": "0.469",
+      "inferred": "False",
+      "source": "between",
+      "target": "the laws of the Province of B",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "bicycletx limited",
+      "target": "2) nigel crockett of (the ''employee",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.526",
+      "inferred": "False",
+      "source": "under 17 c",
+      "target": "15 , 2010",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.422",
+      "inferred": "False",
+      "source": "development agreement",
+      "target": "15 , 2010",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.604",
+      "inferred": "False",
+      "source": "29, 1999",
+      "target": "AGENCY AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.385",
+      "inferred": "False",
+      "source": "services and hosting agreement",
+      "target": "26, 1999",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.424",
+      "inferred": "False",
+      "source": "services and hosting agreement",
+      "target": "logic",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.514",
+      "inferred": "False",
+      "source": "services and hosting agreement",
+      "target": "com, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.578",
+      "inferred": "False",
+      "source": "services and hosting agreement",
+      "target": "vitalibis inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.387",
+      "inferred": "False",
+      "source": "services and hosting agreement",
+      "target": "inc",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "confidence": "0.776",
+      "inferred": "False",
+      "source": "com, inc",
+      "target": "delaware",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.403",
+      "inferred": "False",
+      "source": "visp web site building and hosting agreement",
+      "target": "12th day of may 2003",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.446",
+      "inferred": "False",
+      "source": "visp web site building and hosting agreement",
+      "target": "yournetplus",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.458",
+      "inferred": "False",
+      "source": "visp web site building and hosting agreement",
+      "target": "com, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.409",
+      "inferred": "False",
+      "source": "visp web site building and hosting agreement",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.484",
+      "inferred": "False",
+      "source": "12th day of may 2003",
+      "target": "VISP WEB SITE BUILDING AND HOSTING AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.493",
+      "inferred": "False",
+      "source": "12th day of may 2003",
+      "target": "VISP WEB SITE BUILDING AND HOSTING AGREEMENT",
+      "key": 1
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.453",
+      "inferred": "False",
+      "source": "12th day of may 2003",
+      "target": "VISP WEB SITE BUILDING AND HOSTING AGREEMENT",
+      "key": 2
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.408",
+      "inferred": "False",
+      "source": "april 18, 2018",
+      "target": "associated chapter 11 debtors in possession",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.525",
+      "inferred": "False",
+      "source": "april 18, 2018",
+      "target": "chapter",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.512",
+      "inferred": "False",
+      "source": "retail, inc",
+      "target": "with ga, the \"agent",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.512",
+      "inferred": "False",
+      "source": "retail, inc",
+      "target": "agent",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "joseph",
+      "target": "collectively the \"parties",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.435",
+      "inferred": "False",
+      "source": "system service warranty claims 13 section 2",
+      "target": "7 efficiency warranty 14 section 2",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.503",
+      "inferred": "False",
+      "source": "system service warranty claims 13 section 2",
+      "target": "7 efficiency warranty",
+      "key": 0
+    },
+    {
+      "relation": "APPOINTED_AS",
+      "confidence": "0.484",
+      "inferred": "False",
+      "source": "article 5 grant of rights",
+      "target": "access to data and meters 21 i",
+      "key": 0
+    },
+    {
+      "relation": "APPOINTED_AS",
+      "confidence": "0.622",
+      "inferred": "False",
+      "source": "article 5 grant of rights",
+      "target": "access to data and meters",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.468",
+      "inferred": "False",
+      "source": "karakudukmunay",
+      "target": "principal",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.585",
+      "inferred": "False",
+      "source": "karakudukmunay",
+      "target": "klinchev",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.525",
+      "inferred": "False",
+      "source": "for reference only",
+      "target": "11th day of december, 2015",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.669",
+      "inferred": "False",
+      "source": "26t h day of may, 2017",
+      "target": "technologies inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.403",
+      "inferred": "False",
+      "source": "consulting agreement",
+      "target": "1st day of february, 2020",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.407",
+      "inferred": "False",
+      "source": "consulting agreement",
+      "target": "2nd day of january",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.559",
+      "inferred": "False",
+      "source": "consulting agreement",
+      "target": "gunston consulting, llc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.407",
+      "inferred": "False",
+      "source": "hosting agreement",
+      "target": "29, 1999",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.407",
+      "inferred": "False",
+      "source": "hosting agreement",
+      "target": "17t h day of october, 2007",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.372",
+      "inferred": "False",
+      "source": "sponsorship agreement",
+      "target": "may 2004",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.368",
+      "inferred": "False",
+      "source": "sponsorship agreement",
+      "target": "of march, 1999 by and between drkoop",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.372",
+      "inferred": "False",
+      "source": "sponsorship agreement",
+      "target": "31st day of march, 1998",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.489",
+      "inferred": "False",
+      "source": "sponsorship agreement",
+      "target": "ivillage, inc",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.367",
+      "inferred": "False",
+      "source": "sponsorship agreement",
+      "target": "july 12, 1999",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.372",
+      "inferred": "False",
+      "source": "sponsorship agreement",
+      "target": "14th day of may, 1999",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.649",
+      "inferred": "False",
+      "source": "sponsorship agreement",
+      "target": "January 29, 2007",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.449",
+      "inferred": "False",
+      "source": "sponsorship agreement",
+      "target": "March 13, 1996",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.697",
+      "inferred": "False",
+      "source": "outpost, inc",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.629",
+      "inferred": "False",
+      "source": "customization schedule",
+      "target": "bank of america, n",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.452",
+      "inferred": "False",
+      "source": "web hosting agreement",
+      "target": "24t h day of august",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.503",
+      "inferred": "False",
+      "source": "web hosting agreement",
+      "target": "associates, inc",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.438",
+      "inferred": "False",
+      "source": "intellectual property",
+      "target": "september 30, 2019",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.435",
+      "inferred": "False",
+      "source": "intellectual property",
+      "target": "may 3, 2016",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.669",
+      "inferred": "False",
+      "source": "september 30, 2019",
+      "target": "conformis, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.571",
+      "inferred": "False",
+      "source": "domain name and content license agreement",
+      "target": "beijing",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.648",
+      "inferred": "False",
+      "source": "domain name and content license agreement",
+      "target": "beijing sina internet information service co",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.392",
+      "inferred": "False",
+      "source": "alliance agreement",
+      "target": "march 20",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.431",
+      "inferred": "False",
+      "source": "alliance agreement",
+      "target": "energous",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.589",
+      "inferred": "False",
+      "source": "alliance agreement",
+      "target": "anderson cancer center",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.392",
+      "inferred": "False",
+      "source": "alliance agreement",
+      "target": "december 14, 2016",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.711",
+      "inferred": "False",
+      "source": "osteonics corp",
+      "target": "conformis, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.659",
+      "inferred": "False",
+      "source": "also known as stryker orthopaedics",
+      "target": "conformis, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.492",
+      "inferred": "False",
+      "source": "1, 2019",
+      "target": "achaogen inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.609",
+      "inferred": "False",
+      "source": "1, 2019",
+      "target": "cytodyn inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.482",
+      "inferred": "False",
+      "source": "pharmaceuticals",
+      "target": "achaogen inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.599",
+      "inferred": "False",
+      "source": "pharmaceuticals",
+      "target": "cytodyn inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.522",
+      "inferred": "False",
+      "source": "15 april, 2009",
+      "target": "systems, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.522",
+      "inferred": "False",
+      "source": "15 april, 2009",
+      "target": "associates, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.599",
+      "inferred": "False",
+      "source": "online hosting agreement",
+      "target": "1st day of june, 1999",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.453",
+      "inferred": "False",
+      "source": "1st day of june, 1999",
+      "target": "diplomat direct marketing",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.62",
+      "inferred": "False",
+      "source": "1st day of june, 1999",
+      "target": "tadeo e-commerce corp",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.453",
+      "inferred": "False",
+      "source": "1st day of june, 1999",
+      "target": "diplomat direct marketing corporation",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.462",
+      "inferred": "False",
+      "source": "1st day of june, 1999",
+      "target": "diplomat direct marketing corp",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.452",
+      "inferred": "False",
+      "source": "content license agreement",
+      "target": "licensor",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.375",
+      "inferred": "False",
+      "source": "content license agreement",
+      "target": "10, 2",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.375",
+      "inferred": "False",
+      "source": "content license agreement",
+      "target": "december 21, 2015",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.38",
+      "inferred": "False",
+      "source": "content license agreement",
+      "target": "2nd day of june, 2008",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.505",
+      "inferred": "False",
+      "source": "content license agreement",
+      "target": "digicorp, inc",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.594",
+      "inferred": "False",
+      "source": "data call technologies, inc",
+      "target": "licensor",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.477",
+      "inferred": "False",
+      "source": "data call technologies, inc",
+      "target": "plan_b media ag",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.459",
+      "inferred": "False",
+      "source": "data call technologies, inc",
+      "target": "content license agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.534",
+      "inferred": "False",
+      "source": "cinema destinations corp",
+      "target": "day of , 201",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.403",
+      "inferred": "False",
+      "source": "affiliate agreement",
+      "target": "day of , 201",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.409",
+      "inferred": "False",
+      "source": "affiliate agreement",
+      "target": "and",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.48",
+      "inferred": "False",
+      "source": "affiliate agreement",
+      "target": "corporation and axiometric, llc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.458",
+      "inferred": "False",
+      "source": "affiliate agreement",
+      "target": "financial, inc",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.57",
+      "inferred": "False",
+      "source": "emerald health naturals, inc",
+      "target": "1v3",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.603",
+      "inferred": "False",
+      "source": "6, 2016",
+      "target": "energous",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.602",
+      "inferred": "False",
+      "source": "semiconductor (uk) ltd",
+      "target": "energous",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.602",
+      "inferred": "False",
+      "source": "enterprise transportation company",
+      "target": "enterprise products operating l",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.374",
+      "inferred": "False",
+      "source": "distributor agreement",
+      "target": "21, 2005",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.413",
+      "inferred": "False",
+      "source": "distributor agreement",
+      "target": "vendingdata",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.413",
+      "inferred": "False",
+      "source": "distributor agreement",
+      "target": "vendingdata corporation, a nevada corporation",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.374",
+      "inferred": "False",
+      "source": "distributor agreement",
+      "target": "5, 1997",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.493",
+      "inferred": "False",
+      "source": "distributor agreement",
+      "target": "between watchguard technologies, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.374",
+      "inferred": "False",
+      "source": "distributor agreement",
+      "target": "august",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.425",
+      "inferred": "False",
+      "source": "distributor agreement",
+      "target": "b & c general warehouse corporation llc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.482",
+      "inferred": "False",
+      "source": "distributor agreement",
+      "target": "electric",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.493",
+      "inferred": "False",
+      "source": "distributor agreement",
+      "target": "corp",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.366",
+      "inferred": "False",
+      "source": "distributor agreement",
+      "target": "october 24, 2005",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.37",
+      "inferred": "False",
+      "source": "distributor agreement",
+      "target": "7th day of april, 2003",
+      "key": 0
+    },
+    {
+      "relation": "INFERRED_LINK",
+      "confidence": "0.998",
+      "inferred": "True",
+      "source": "distributor agreement",
+      "target": "march 13",
+      "key": 0
+    },
+    {
+      "relation": "INFERRED_LINK",
+      "confidence": "0.998",
+      "inferred": "True",
+      "source": "distributor agreement",
+      "target": "david a",
+      "key": 0
+    },
+    {
+      "relation": "INFERRED_LINK",
+      "confidence": "0.998",
+      "inferred": "True",
+      "source": "distributor agreement",
+      "target": "smith",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.535",
+      "inferred": "False",
+      "source": "watchguard technologies, inc",
+      "target": "5, 1997",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.703",
+      "inferred": "False",
+      "source": "19th day of january, 2001",
+      "target": "com, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.428",
+      "inferred": "False",
+      "source": "19th day of january, 2001",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.471",
+      "inferred": "False",
+      "source": "the",
+      "target": "com networks, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.69",
+      "inferred": "False",
+      "source": "the",
+      "target": "women",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.598",
+      "inferred": "False",
+      "source": "the",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.669",
+      "inferred": "False",
+      "source": "october 30, 2018",
+      "target": "ehave, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.414",
+      "inferred": "False",
+      "source": "6 local programming and marketing agreement (wqht hd2",
+      "target": "november 25, 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.61",
+      "inferred": "False",
+      "source": "6 local programming and marketing agreement (wqht hd2",
+      "target": "mediaco holding inc",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.67",
+      "inferred": "False",
+      "source": "mediaco holding inc",
+      "target": "ING AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.447",
+      "inferred": "False",
+      "source": "to services outsourcing agreement",
+      "target": "march 30, 2009",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.452",
+      "inferred": "False",
+      "source": "to services outsourcing agreement",
+      "target": "26 day of january, 2007",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.513",
+      "inferred": "False",
+      "source": "march 30, 2009",
+      "target": "federated investment management",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.522",
+      "inferred": "False",
+      "source": "march 30, 2009",
+      "target": "company",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.537",
+      "inferred": "False",
+      "source": "amendment to exhibit a to services agreement",
+      "target": "march 30, 2009",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.65",
+      "inferred": "False",
+      "source": "trading and transaction settlement",
+      "target": "analysis",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.376",
+      "inferred": "False",
+      "source": "outsourcing agreement",
+      "target": "1st day of january, 2009",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.376",
+      "inferred": "False",
+      "source": "outsourcing agreement",
+      "target": "1s t day of march, 2018",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.683",
+      "inferred": "False",
+      "source": "outsourcing agreement",
+      "target": "piphany, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.447",
+      "inferred": "False",
+      "source": "outsourcing agreement",
+      "target": "14t h day of april, 2015",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.447",
+      "inferred": "False",
+      "source": "outsourcing agreement",
+      "target": "16t h day of may, 2017",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.451",
+      "inferred": "False",
+      "source": "website design, development and hosting agreement",
+      "target": "january 11, 2018",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.563",
+      "inferred": "False",
+      "source": "website design, development and hosting agreement",
+      "target": "jan",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.557",
+      "inferred": "False",
+      "source": "website design, development and hosting agreement",
+      "target": "11, 2018",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.53",
+      "inferred": "False",
+      "source": "january 11, 2018",
+      "target": "mitchell's web advance, plc",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.588",
+      "inferred": "False",
+      "source": "freecook",
+      "target": "mitchell's web advance, plc",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.613",
+      "inferred": "False",
+      "source": "2nd day of january",
+      "target": "This Consulting Agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.602",
+      "inferred": "False",
+      "source": "goosehead insurance agency, llc",
+      "target": "agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.512",
+      "inferred": "False",
+      "source": "david a",
+      "target": "south medical supply, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.512",
+      "inferred": "False",
+      "source": "david a",
+      "target": "corp",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.512",
+      "inferred": "False",
+      "source": "smith",
+      "target": "south medical supply, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.512",
+      "inferred": "False",
+      "source": "smith",
+      "target": "corp",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.502",
+      "inferred": "False",
+      "source": "3 execution version gwg holdings, inc",
+      "target": "december 27, 2018",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.41",
+      "inferred": "False",
+      "source": "3 execution version gwg holdings, inc",
+      "target": "marketing affiliate agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.467",
+      "inferred": "False",
+      "source": "3 execution version gwg holdings, inc",
+      "target": "marketing",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.398",
+      "inferred": "False",
+      "source": "marketing affiliate agreement",
+      "target": "1s t day of october",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.541",
+      "inferred": "False",
+      "source": "marketing affiliate agreement",
+      "target": "equidata, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.493",
+      "inferred": "False",
+      "source": "trust advisors to the seller trusts",
+      "target": "december 27, 2018",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.399",
+      "inferred": "False",
+      "source": "trust advisors to the seller trusts",
+      "target": "marketing affiliate agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.458",
+      "inferred": "False",
+      "source": "trust advisors to the seller trusts",
+      "target": "marketing",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.602",
+      "inferred": "False",
+      "source": "gwg holdings, inc",
+      "target": "marketing",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.542",
+      "inferred": "False",
+      "source": "agreement number 12965",
+      "target": "december 31, 2004",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.407",
+      "inferred": "False",
+      "source": "wireless content license agreement number 12965",
+      "target": "december 31, 2004",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.417",
+      "inferred": "False",
+      "source": "wireless content license agreement number 12965",
+      "target": "November 11, 2005",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.519",
+      "inferred": "False",
+      "source": "wireless content license agreement number 12965",
+      "target": "March 27, 2006",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.659",
+      "inferred": "False",
+      "source": "twentieth century fox licensing &",
+      "target": "fox entertainment group, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.533",
+      "inferred": "False",
+      "source": "november 11, 2005",
+      "target": "wireless content license agreement number 12965",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.533",
+      "inferred": "False",
+      "source": "march 27, 2006",
+      "target": "wireless content license agreement number 12965",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.533",
+      "inferred": "False",
+      "source": "february 19, 2007",
+      "target": "wireless content license agreement number 12965",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.603",
+      "inferred": "False",
+      "source": "10, 2",
+      "target": "corporation",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.377",
+      "inferred": "False",
+      "source": "10, 2",
+      "target": "network build and maintenance agreement",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.385",
+      "inferred": "False",
+      "source": "10, 2",
+      "target": "2 of this agreement",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.664",
+      "inferred": "False",
+      "source": "corporation",
+      "target": "achaogen inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.422",
+      "inferred": "False",
+      "source": "software development agreement",
+      "target": "6, 2004 (the",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.589",
+      "inferred": "False",
+      "source": "software development agreement",
+      "target": "digital arts inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.504",
+      "inferred": "False",
+      "source": "may 3, 2016",
+      "target": "mg capital management ltd",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.365",
+      "inferred": "False",
+      "source": "may 3, 2016",
+      "target": "percy rockdale",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.464",
+      "inferred": "False",
+      "source": "may 3, 2016",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.374",
+      "inferred": "False",
+      "source": "may 3, 2016",
+      "target": "percy rockdale llc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.365",
+      "inferred": "False",
+      "source": "may 3, 2016",
+      "target": "westrock",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.365",
+      "inferred": "False",
+      "source": "may 3, 2016",
+      "target": "ingevity",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.739",
+      "inferred": "False",
+      "source": "mg capital management ltd",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.613",
+      "inferred": "False",
+      "source": "20th day of march",
+      "target": "ENDORSEMENT AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.675",
+      "inferred": "False",
+      "source": "d/b/a recreation usa (the \"company",
+      "target": "group, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.602",
+      "inferred": "False",
+      "source": "hpil energytech inc",
+      "target": "group",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.585",
+      "inferred": "False",
+      "source": "31 day of july 2019",
+      "target": "avraham giron st",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.615",
+      "inferred": "False",
+      "source": "imaging ltd",
+      "target": "avraham giron st",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.578",
+      "inferred": "False",
+      "source": "imaging ltd",
+      "target": "pob",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.475",
+      "inferred": "False",
+      "source": "software maintenance agreement",
+      "target": "october 13",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.659",
+      "inferred": "False",
+      "source": "software maintenance agreement",
+      "target": "leader act ltd",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.665",
+      "inferred": "False",
+      "source": "leader act ltd",
+      "target": "ezjr, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.542",
+      "inferred": "False",
+      "source": "form of trademark license agreement",
+      "target": "___, 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.407",
+      "inferred": "False",
+      "source": "trademark license agreement",
+      "target": "___, 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.407",
+      "inferred": "False",
+      "source": "trademark license agreement",
+      "target": "\u00b7] day of [\u00b7], 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.407",
+      "inferred": "False",
+      "source": "trademark license agreement",
+      "target": "\u00b7], 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.407",
+      "inferred": "False",
+      "source": "trademark license agreement",
+      "target": "day of [ ], 2020",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.701",
+      "inferred": "False",
+      "source": "17, 2017",
+      "target": "anderson cancer center",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.729",
+      "inferred": "False",
+      "source": "biotechnologies, inc",
+      "target": "anderson cancer center",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.659",
+      "inferred": "False",
+      "source": "media, a division of j",
+      "target": "ivillage, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.603",
+      "inferred": "False",
+      "source": "december 21, 2015",
+      "target": "beijing sun seven stars culture development limited",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.538",
+      "inferred": "False",
+      "source": "none ceres-iger collaboration agreement",
+      "target": "19th day of july",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.44",
+      "inferred": "False",
+      "source": "19th day of july",
+      "target": "sunwai",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.514",
+      "inferred": "False",
+      "source": "19th day of july",
+      "target": "ive Distributor Agreement",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.588",
+      "inferred": "False",
+      "source": "imine",
+      "target": "sunwai",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.597",
+      "inferred": "False",
+      "source": "huang jia country club and recreation inc",
+      "target": "chen- bin architects office",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.579",
+      "inferred": "False",
+      "source": "march 3, 2000",
+      "target": "verticalnet, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.468",
+      "inferred": "False",
+      "source": "march 3, 2000",
+      "target": "verticalnet",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.437",
+      "inferred": "False",
+      "source": "march 3, 2000",
+      "target": "inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.491",
+      "inferred": "False",
+      "source": "distributorship agreement",
+      "target": "integrity short term government",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.454",
+      "inferred": "False",
+      "source": "distributorship agreement",
+      "target": "and",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.528",
+      "inferred": "False",
+      "source": "january 18, 2020",
+      "target": "integrity short term government",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "pareteum",
+      "target": "partner",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.365",
+      "inferred": "False",
+      "source": "promotion agreement",
+      "target": "june 27, 2006",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.549",
+      "inferred": "False",
+      "source": "promotion agreement",
+      "target": "february 3, 2010",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.409",
+      "inferred": "False",
+      "source": "promotion agreement",
+      "target": "bookingentertainment",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.437",
+      "inferred": "False",
+      "source": "promotion agreement",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.612",
+      "inferred": "False",
+      "source": "the 5th day of february, 2020",
+      "target": "kubient, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.528",
+      "inferred": "False",
+      "source": "day of ______________ 2013",
+      "target": "tel-online limited",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.661",
+      "inferred": "False",
+      "source": "seminars, inc",
+      "target": "12-23-2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.697",
+      "inferred": "False",
+      "source": "alliance holdings, inc",
+      "target": "12-23-2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "content",
+      "target": "beijing sina internet information service co",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.581",
+      "inferred": "False",
+      "source": "license agreement",
+      "target": "beijing sina internet information service co",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.418",
+      "inferred": "False",
+      "source": "mutual termination agreement",
+      "target": "day of",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.578",
+      "inferred": "False",
+      "source": "mutual termination agreement",
+      "target": "beijing sina internet information service co",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.661",
+      "inferred": "False",
+      "source": "day of",
+      "target": "L TERMINATION AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.535",
+      "inferred": "False",
+      "source": "corporation and axiometric, llc",
+      "target": "This Agreement",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.607",
+      "inferred": "False",
+      "source": "liquidmetal technologies, inc",
+      "target": "eutectix",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.604",
+      "inferred": "False",
+      "source": "14 day of june",
+      "target": "ANCE AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "confidence": "0.604",
+      "inferred": "False",
+      "source": "jenner",
+      "target": "California",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.367",
+      "inferred": "False",
+      "source": "transportation services agreement",
+      "target": "20th day of december",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.756",
+      "inferred": "False",
+      "source": "transportation services agreement",
+      "target": "marathon petroleum company lp",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.437",
+      "inferred": "False",
+      "source": "transportation services agreement",
+      "target": "june 11, 2015",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.371",
+      "inferred": "False",
+      "source": "transportation services agreement",
+      "target": "14t h day of april, 2015",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.438",
+      "inferred": "False",
+      "source": "20th day of december",
+      "target": "alan r",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.438",
+      "inferred": "False",
+      "source": "20th day of december",
+      "target": "alan carley",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.562",
+      "inferred": "False",
+      "source": "maintenance agreement",
+      "target": "20th day of december",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.38",
+      "inferred": "False",
+      "source": "maintenance agreement",
+      "target": "4, 1997 (the",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.6",
+      "inferred": "False",
+      "source": "maintenance agreement",
+      "target": "thayer equity investors iv, l",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.465",
+      "inferred": "False",
+      "source": "maintenance agreement",
+      "target": "July 23, 2003",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.609",
+      "inferred": "False",
+      "source": "1st day of march 2020",
+      "target": "gunston consulting, llc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.492",
+      "inferred": "False",
+      "source": "1st day of march 2020",
+      "target": "medalist diversified reit, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.453",
+      "inferred": "False",
+      "source": "july 12, 1999",
+      "target": "football northwest",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.69",
+      "inferred": "False",
+      "source": "july 12, 1999",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.66",
+      "inferred": "False",
+      "source": "promotion",
+      "target": "february 3, 2010",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.786",
+      "inferred": "False",
+      "source": "marathon petroleum company lp",
+      "target": "VICES AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.535",
+      "inferred": "False",
+      "source": "confidential treatment requested by achaogen, inc",
+      "target": "26, 2016",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.542",
+      "inferred": "False",
+      "source": "collaborative development and commercialization agreement",
+      "target": "26, 2016",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "4 resolution of disputes arising under article 3",
+      "target": "fixed contribution to expenses",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.71",
+      "inferred": "False",
+      "source": "21st day of january 2003",
+      "target": "CO-BRANDING AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.473",
+      "inferred": "False",
+      "source": "recitals",
+      "target": "01 (the \"rfp",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.473",
+      "inferred": "False",
+      "source": "recitals",
+      "target": "terms",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.473",
+      "inferred": "False",
+      "source": "recitals",
+      "target": "term",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.503",
+      "inferred": "False",
+      "source": "service agreement",
+      "target": "fidelity investments institutional operations company, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.459",
+      "inferred": "False",
+      "source": "service agreement",
+      "target": "date",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.436",
+      "inferred": "False",
+      "source": "oaktree capital management (international) limited",
+      "target": "25 september 2018",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.503",
+      "inferred": "False",
+      "source": "oaktree capital management (international) limited",
+      "target": "between",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.803",
+      "inferred": "False",
+      "source": "piphany",
+      "target": "piphany, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.786",
+      "inferred": "False",
+      "source": "31 day of july, 2000",
+      "target": "piphany, inc",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.529",
+      "inferred": "False",
+      "source": "26 day of january, 2007",
+      "target": "customer",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.598",
+      "inferred": "False",
+      "source": "oriental financial group inc",
+      "target": "metavante",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.781",
+      "inferred": "False",
+      "source": "oriental financial group inc",
+      "target": "metavante corporation",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.432",
+      "inferred": "False",
+      "source": "oriental financial group inc",
+      "target": "customer",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.729",
+      "inferred": "False",
+      "source": "smbc nikko securities inc",
+      "target": "bloom burton & co",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.597",
+      "inferred": "False",
+      "source": "joint filing agreement",
+      "target": "inc",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.604",
+      "inferred": "False",
+      "source": "9th day of september",
+      "target": "ANCE AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.537",
+      "inferred": "False",
+      "source": "services agreement",
+      "target": "june 24",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.373",
+      "inferred": "False",
+      "source": "supply agreement",
+      "target": "july 31, 2017",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.588",
+      "inferred": "False",
+      "source": "supply agreement",
+      "target": "sunset st",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.591",
+      "inferred": "False",
+      "source": "profound medical inc",
+      "target": "july 31, 2017",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.528",
+      "inferred": "False",
+      "source": "profound medical inc",
+      "target": "supply agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.623",
+      "inferred": "False",
+      "source": "philips medical systems nederland b",
+      "target": "july 31, 2017",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.534",
+      "inferred": "False",
+      "source": "medical inc",
+      "target": "july 31, 2017",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.456",
+      "inferred": "False",
+      "source": "medical inc",
+      "target": "supply agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.76",
+      "inferred": "False",
+      "source": "september 30, 1999",
+      "target": "verticalnet, inc",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.71",
+      "inferred": "False",
+      "source": "11, 1996",
+      "target": "CO-BRANDING AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.665",
+      "inferred": "False",
+      "source": "quote, inc",
+      "target": "watley, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.542",
+      "inferred": "False",
+      "source": "gas transportation agreement",
+      "target": "14t h day of april, 2015",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.422",
+      "inferred": "False",
+      "source": "4 entire agreement",
+      "target": "1st day of june, 2017",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.578",
+      "inferred": "False",
+      "source": "4 entire agreement",
+      "target": "prudential bank",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.407",
+      "inferred": "False",
+      "source": "1st day of june, 2017",
+      "target": "jeffrey b",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.601",
+      "inferred": "False",
+      "source": "1st day of june, 2017",
+      "target": "plit-Dollar Endorsement Agreement",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.588",
+      "inferred": "False",
+      "source": "prudential bank",
+      "target": "jeffrey b",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.369",
+      "inferred": "False",
+      "source": "license and development agreement",
+      "target": "17t h day of october, 2007",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.534",
+      "inferred": "False",
+      "source": "rise education group",
+      "target": "date",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.692",
+      "inferred": "False",
+      "source": "penntex north louisiana operating, llc",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.686",
+      "inferred": "False",
+      "source": "reed's, inc",
+      "target": "b c marketing concepts inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.437",
+      "inferred": "False",
+      "source": "reed's, inc",
+      "target": "dba full sail brewing",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.52",
+      "inferred": "False",
+      "source": "reed's, inc",
+      "target": "dba full sail brewing company",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.565",
+      "inferred": "False",
+      "source": "reed's, inc",
+      "target": "dba full sail",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.751",
+      "inferred": "False",
+      "source": "collaborative research, development and commercialization agreement",
+      "target": "medicines, inc",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.61",
+      "inferred": "False",
+      "source": "collaborative research, development and commercialization agreement",
+      "target": "inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.565",
+      "inferred": "False",
+      "source": "reynolds consumer products llc",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.613",
+      "inferred": "False",
+      "source": "reynolds consumer products inc",
+      "target": "the \"company\" or \"rcp",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.565",
+      "inferred": "False",
+      "source": "sekisui diagnostics, llc and its affiliates",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.449",
+      "inferred": "False",
+      "source": "sekisui diagnostics, llc and its affiliates",
+      "target": "agreement",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.393",
+      "inferred": "False",
+      "source": "services",
+      "target": "1, 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.427",
+      "inferred": "False",
+      "source": "services",
+      "target": "inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.467",
+      "inferred": "False",
+      "source": "services",
+      "target": "vitalibis inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.66",
+      "inferred": "False",
+      "source": "15th day of may, 2013",
+      "target": "sunset st",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.65",
+      "inferred": "False",
+      "source": "inventec appliances corporation",
+      "target": "sunset st",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.659",
+      "inferred": "False",
+      "source": "pactiv llc",
+      "target": "sunset st",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.535",
+      "inferred": "False",
+      "source": "american general life insurance company of delaware",
+      "target": "march 30",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.663",
+      "inferred": "False",
+      "source": "ib associates llc",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.613",
+      "inferred": "False",
+      "source": "30th day of november, 2017",
+      "target": "Strategic Alliance Agreement",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.534",
+      "inferred": "False",
+      "source": "contract",
+      "target": "october 2000",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.393",
+      "inferred": "False",
+      "source": "march 13",
+      "target": "between",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.504",
+      "inferred": "False",
+      "source": "march 13",
+      "target": "healthcare capital corp",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.402",
+      "inferred": "False",
+      "source": "march 13",
+      "target": "corp",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.599",
+      "inferred": "False",
+      "source": "water group limited (\"sparkling",
+      "target": "support",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.422",
+      "inferred": "False",
+      "source": "12 entire agreement",
+      "target": "july 1, 2020",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.589",
+      "inferred": "False",
+      "source": "12 entire agreement",
+      "target": "groupe parameus corp",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.562",
+      "inferred": "False",
+      "source": "holdings, inc",
+      "target": "agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.613",
+      "inferred": "False",
+      "source": "day of ___________________, 19__",
+      "target": "REEMENT THIS ENDORSEMENT AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "licensed technology",
+      "target": "by m&i",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.57",
+      "inferred": "False",
+      "source": "surgical, inc",
+      "target": "ste",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.542",
+      "inferred": "False",
+      "source": "9 services agreement",
+      "target": "august __, 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.473",
+      "inferred": "False",
+      "source": "delivery of financial statements; inspection rights",
+      "target": "fsl 15 6",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.473",
+      "inferred": "False",
+      "source": "delivery of financial statements; inspection rights",
+      "target": "tph 15 6",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.473",
+      "inferred": "False",
+      "source": "delivery of financial statements; inspection rights",
+      "target": "3 or 15",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.443",
+      "inferred": "False",
+      "source": "tph's stockholder approval",
+      "target": "fsl 15 6",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.443",
+      "inferred": "False",
+      "source": "tph's stockholder approval",
+      "target": "tph 15 6",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.443",
+      "inferred": "False",
+      "source": "tph's stockholder approval",
+      "target": "3 or 15",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.452",
+      "inferred": "False",
+      "source": "tph's stockholder approval",
+      "target": "1 termination prior to the effective date 15",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.443",
+      "inferred": "False",
+      "source": "tph's stockholder approval",
+      "target": "termination",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.452",
+      "inferred": "False",
+      "source": "tph's stockholder approval",
+      "target": "1 termination prior to the effective date",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.443",
+      "inferred": "False",
+      "source": "2014 amendment",
+      "target": "cooperation agreement (2014 amendment",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.444",
+      "inferred": "False",
+      "source": "2014 amendment",
+      "target": "january 24, 2014",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.407",
+      "inferred": "False",
+      "source": "cooperation agreement (2014 amendment",
+      "target": "january 24, 2014",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.634",
+      "inferred": "False",
+      "source": "cooperation agreement (2014 amendment",
+      "target": "nanjing tuniu technology co",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "nanjing tuniu technology co",
+      "target": "6, southeast university science park",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "beijing tuniu technology co",
+      "target": "4, and 10",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.53",
+      "inferred": "False",
+      "source": "transportation service agreement contract identification ft18150",
+      "target": "great lakes gas transmission limited partnership",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.618",
+      "inferred": "False",
+      "source": "transportation service agreement contract identification ft18150",
+      "target": "anr pipeline company",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.522",
+      "inferred": "False",
+      "source": "20t h day of december 2018",
+      "target": "todos medical ltd",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.522",
+      "inferred": "False",
+      "source": "20t h day of december 2018",
+      "target": "medical technologies ltd",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.498",
+      "inferred": "False",
+      "source": "cremer oleo gmbh & co",
+      "target": "ultragenyx pharmaceutical",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.507",
+      "inferred": "False",
+      "source": "cremer oleo gmbh & co",
+      "target": "ultragenyx pharmaceutical inc",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.573",
+      "inferred": "False",
+      "source": "cremer oleo gmbh & co",
+      "target": "supply agreement",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.498",
+      "inferred": "False",
+      "source": "cremer",
+      "target": "ultragenyx pharmaceutical",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.507",
+      "inferred": "False",
+      "source": "cremer",
+      "target": "ultragenyx pharmaceutical inc",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.445",
+      "inferred": "False",
+      "source": "cremer",
+      "target": "supply agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.45",
+      "inferred": "False",
+      "source": "march 13, 2014",
+      "target": "jana partners llc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.366",
+      "inferred": "False",
+      "source": "march 13, 2014",
+      "target": "jana",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.5",
+      "inferred": "False",
+      "source": "march 13, 2014",
+      "target": "urs corporation",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.41",
+      "inferred": "False",
+      "source": "march 13, 2014",
+      "target": "com",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.335",
+      "inferred": "False",
+      "source": "march 13, 2014",
+      "target": "the",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.335",
+      "inferred": "False",
+      "source": "march 13, 2014",
+      "target": "urs",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.656",
+      "inferred": "False",
+      "source": "october 15",
+      "target": "george d",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.477",
+      "inferred": "False",
+      "source": "october 15",
+      "target": "green (the \"business affiliate\") and union dental corp",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.602",
+      "inferred": "False",
+      "source": "1 financial corporation",
+      "target": "financial, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.542",
+      "inferred": "False",
+      "source": "amendment and termination of joint venture agreement",
+      "target": "october 30, 2019",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.504",
+      "inferred": "False",
+      "source": "december 13",
+      "target": "nms communications corp",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.402",
+      "inferred": "False",
+      "source": "december 13",
+      "target": "verso backhaul solutions, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.402",
+      "inferred": "False",
+      "source": "december 13",
+      "target": "solutions, inc",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.537",
+      "inferred": "False",
+      "source": "operation and maintenance agreement",
+      "target": "november 3, 2010",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.67",
+      "inferred": "False",
+      "source": "this non-competition agreement amendment no",
+      "target": "solar, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "9 regulation rr risk retention",
+      "target": "10 cap collateral account",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.593",
+      "inferred": "False",
+      "source": "10 cap collateral account",
+      "target": "miscellaneous",
+      "key": 0
+    },
+    {
+      "relation": "REFERRED_TO_AS",
+      "confidence": "0.645",
+      "inferred": "False",
+      "source": "leo pharma a/s",
+      "target": "galen (chemicals) limited",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.607",
+      "inferred": "False",
+      "source": "leo pharma a/s",
+      "target": "development agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.512",
+      "inferred": "False",
+      "source": "shbv (hong kong) ltd",
+      "target": "group holdings plc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.445",
+      "inferred": "False",
+      "source": "shbv (hong kong) ltd",
+      "target": "of may , 2010",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.526",
+      "inferred": "False",
+      "source": "group holdings plc",
+      "target": "of may , 2010",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.435",
+      "inferred": "False",
+      "source": "execution copy",
+      "target": "13th day of october, 1999",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.67",
+      "inferred": "False",
+      "source": "13th day of october, 1999",
+      "target": "This Endorsement Agreement",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.422",
+      "inferred": "False",
+      "source": "exclusive distributor agreement",
+      "target": "12th day of november, 2019",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.549",
+      "inferred": "False",
+      "source": "exclusive distributor agreement",
+      "target": "April 15, 1994",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.604",
+      "inferred": "False",
+      "source": "1st day of december, 2015",
+      "target": "STRATEGIC ALLIANCE AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.739",
+      "inferred": "False",
+      "source": "12th day of november, 2018",
+      "target": "com, inc",
+      "key": 0
+    },
+    {
+      "relation": "HAS",
+      "confidence": "0.537",
+      "inferred": "False",
+      "source": "2nd st",
+      "target": "xpresspa group, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.528",
+      "inferred": "False",
+      "source": "1, 1990 by",
+      "target": "partners",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.523",
+      "inferred": "False",
+      "source": "zogenix, inc",
+      "target": "and innerscope hearing technologies, inc",
+      "key": 0
+    },
+    {
+      "relation": "IS_A",
+      "confidence": "0.512",
+      "inferred": "False",
+      "source": "zogenix, inc",
+      "target": "manufacturer",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.473",
+      "inferred": "False",
+      "source": "ee to all terms and conditions of this Consulting Agreement",
+      "target": "june 1",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "confidence": "0.624",
+      "inferred": "False",
+      "source": "direct, inc",
+      "target": "new jersey",
+      "key": 0
+    },
+    {
+      "relation": "ORGANIZED_UNDER",
+      "confidence": "0.787",
+      "inferred": "False",
+      "source": "arconic inc",
+      "target": "delaware",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.386",
+      "inferred": "False",
+      "source": "commnet wireless, llc",
+      "target": "Execution Version Network Build and Maintenance Agreement",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.616",
+      "inferred": "False",
+      "source": "commnet wireless, llc",
+      "target": "Execution Version Network Build and Maintenance Agreement",
+      "key": 1
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.386",
+      "inferred": "False",
+      "source": "at&t mobility llc",
+      "target": "rsion Network Build and Maintenance Agreement",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.616",
+      "inferred": "False",
+      "source": "at&t mobility llc",
+      "target": "rsion Network Build and Maintenance Agreement",
+      "key": 1
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.364",
+      "inferred": "False",
+      "source": "source: atn international, inc",
+      "target": "and Maintenance Agreement",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.784",
+      "inferred": "False",
+      "source": "source: atn international, inc",
+      "target": "and Maintenance Agreement",
+      "key": 1
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.373",
+      "inferred": "False",
+      "source": "1 scope",
+      "target": "Mobility Network General Agreement",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.594",
+      "inferred": "False",
+      "source": "1 scope",
+      "target": "Mobility Network General Agreement",
+      "key": 1
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.466",
+      "inferred": "False",
+      "source": "at&t competitor",
+      "target": "3 supply agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.66",
+      "inferred": "False",
+      "source": "the babcock & wilcox company",
+      "target": "intellectual property agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.719",
+      "inferred": "False",
+      "source": "bluefly, inc",
+      "target": "e-business hosting agreement",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.581",
+      "inferred": "False",
+      "source": "2 operation and maintenance services",
+      "target": "april 13, 2012",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.581",
+      "inferred": "False",
+      "source": "2 operation and maintenance services",
+      "target": "april 13",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.737",
+      "inferred": "False",
+      "source": "curo receivables finance ii",
+      "target": "servicing agreement",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.526",
+      "inferred": "False",
+      "source": "and CURO MANAGEMENT, LLC, as Servicer Dated as of April 8, 2020 This SERVICING AGREEMENT",
+      "target": "april 8, 2020",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.526",
+      "inferred": "False",
+      "source": "and CURO MANAGEMENT, LLC, as Servicer Dated as of April 8, 2020 This SERVICING AGREEMENT",
+      "target": "april 8, 2020",
+      "key": 1
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.583",
+      "inferred": "False",
+      "source": "and CURO MANAGEMENT, LLC, as Servicer Dated as of April 8, 2020 This SERVICING AGREEMENT",
+      "target": "april 8, 2020",
+      "key": 2
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.448",
+      "inferred": "False",
+      "source": "nuance communications, inc",
+      "target": "intellectual property agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.57",
+      "inferred": "False",
+      "source": "birch first global investments inc",
+      "target": "marketing affiliate agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.665",
+      "inferred": "False",
+      "source": "diversinet corp",
+      "target": "agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.449",
+      "inferred": "False",
+      "source": "diversinet corp",
+      "target": "promotion agreement",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "confidence": "0.573",
+      "inferred": "False",
+      "source": "limited",
+      "target": "canada",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.534",
+      "inferred": "False",
+      "source": "DATED EFFECTIVE AS OF March 11, 2015 TRANSPORTATION AGREEMENT",
+      "target": "march 11, 2015",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.618",
+      "inferred": "False",
+      "source": "rogers cable communications inc",
+      "target": "video-on-demand content license agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.501",
+      "inferred": "False",
+      "source": "communications inc",
+      "target": "video-on-demand content license agreement",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.581",
+      "inferred": "False",
+      "source": "K SERVICES AGREEMENT",
+      "target": "january 1, 2004",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.524",
+      "inferred": "False",
+      "source": "This SECOND AMENDMENT",
+      "target": "march 1",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.769",
+      "inferred": "False",
+      "source": "energy, inc",
+      "target": "joint development agreement",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.534",
+      "inferred": "False",
+      "source": "This Promotion Agreement",
+      "target": "march 12,1999",
+      "key": 0
+    },
+    {
+      "relation": "ORGANIZED_UNDER",
+      "confidence": "0.731",
+      "inferred": "False",
+      "source": "resource corporation",
+      "target": "the laws of the State of Colorado",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.567",
+      "inferred": "False",
+      "source": "cooperation",
+      "target": "May 13",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.481",
+      "inferred": "False",
+      "source": "cooperation",
+      "target": "March 13, 2014",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.67",
+      "inferred": "False",
+      "source": "15, 1994 by",
+      "target": "OR AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.637",
+      "inferred": "False",
+      "source": "theravance, inc",
+      "target": "collaboration agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.613",
+      "inferred": "False",
+      "source": "10th day of january, 2018",
+      "target": "Strategic Alliance Agreement",
+      "key": 0
+    },
+    {
+      "relation": "ORGANIZED_UNDER",
+      "confidence": "0.604",
+      "inferred": "False",
+      "source": "fazync",
+      "target": "the laws of the State of Color",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.661",
+      "inferred": "False",
+      "source": "data merchant services corporation",
+      "target": "Execution Copy SPONSORSHIP AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.604",
+      "inferred": "False",
+      "source": "data merchant services corporation",
+      "target": "Execution Copy SPONSORSHIP AGREEMENT",
+      "key": 1
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.71",
+      "inferred": "False",
+      "source": "depomed, inc",
+      "target": "promotion agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.67",
+      "inferred": "False",
+      "source": "1st day of january, 2000",
+      "target": "NDORSEMENT AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.493",
+      "inferred": "False",
+      "source": "johnson matthey catalog company, inc",
+      "target": "DISTRIBUTOR AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.52",
+      "inferred": "False",
+      "source": "company actions",
+      "target": "is made",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.791",
+      "inferred": "False",
+      "source": "nls-1 pharma ag",
+      "target": "license and development agreement",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.377",
+      "inferred": "False",
+      "source": "19 day of march, 2004",
+      "target": "reseller agreement",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.535",
+      "inferred": "False",
+      "source": "may 25th, 2018",
+      "target": "Service Agreement",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.608",
+      "inferred": "False",
+      "source": "cro consulting (pty",
+      "target": "Service Agreement",
+      "key": 0
+    },
+    {
+      "relation": "ORGANIZED_UNDER",
+      "confidence": "0.613",
+      "inferred": "False",
+      "source": "marv enterprises",
+      "target": "the laws of the Commonwealth",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.604",
+      "inferred": "False",
+      "source": "prime",
+      "target": "agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.534",
+      "inferred": "False",
+      "source": "phoenix satellite television company limited",
+      "target": "content license agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.613",
+      "inferred": "False",
+      "source": "19t h day of march, 2020",
+      "target": "Page 1 of 3 DISTRIBUTOR AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "ORGANIZED_UNDER",
+      "confidence": "0.613",
+      "inferred": "False",
+      "source": "lubricants ltd",
+      "target": "pennsylvania",
+      "key": 0
+    },
+    {
+      "relation": "ORGANIZED_UNDER",
+      "confidence": "0.661",
+      "inferred": "False",
+      "source": "gulf",
+      "target": "pennsylvania",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.681",
+      "inferred": "False",
+      "source": "copy",
+      "target": "Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.53",
+      "inferred": "False",
+      "source": "copy",
+      "target": "Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+      "key": 1
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.688",
+      "inferred": "False",
+      "source": "research",
+      "target": "Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.553",
+      "inferred": "False",
+      "source": "research",
+      "target": "Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+      "key": 1
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.688",
+      "inferred": "False",
+      "source": "development",
+      "target": "Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.553",
+      "inferred": "False",
+      "source": "development",
+      "target": "Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+      "key": 1
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.486",
+      "inferred": "False",
+      "source": "gathering company, llc",
+      "target": "operations and maintenance agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.715",
+      "inferred": "False",
+      "source": "30th day of april (the \"effective",
+      "target": "CONSULTING AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.48",
+      "inferred": "False",
+      "source": "30th day of april (the \"effective",
+      "target": "CONSULTING AGREEMENT",
+      "key": 1
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.526",
+      "inferred": "False",
+      "source": "PPB, VCA and OTA dated 10 October 2000 This contract",
+      "target": "october 2000",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "confidence": "0.681",
+      "inferred": "False",
+      "source": "intuit inc",
+      "target": "california",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.592",
+      "inferred": "False",
+      "source": "17t h day of may, 2017",
+      "target": "This Distributor Agreement",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.527",
+      "inferred": "False",
+      "source": "rue adolphe fischer l-1520 luxembourg luxembourg",
+      "target": "rue Adolphe Fischer L-1520 Luxembourg Luxembourg CO-BRANDING AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED_INTO",
+      "confidence": "0.369",
+      "inferred": "False",
+      "source": "22nd day of august 2005",
+      "target": "co-branding agreement",
+      "key": 0
+    },
+    {
+      "relation": "PARTY_OF",
+      "confidence": "0.67",
+      "inferred": "False",
+      "source": "1999, by",
+      "target": "S ENDORSEMENT AGREEMENT",
+      "key": 0
+    },
+    {
+      "relation": "ORGANIZED_UNDER",
+      "confidence": "0.67",
+      "inferred": "False",
+      "source": "glamis gold ltd",
+      "target": "British Columbia",
+      "key": 0
+    },
+    {
+      "relation": "EFFECTIVE_ON",
+      "confidence": "0.524",
+      "inferred": "False",
+      "source": "CORPORATION RESELLER AGREEMENT",
+      "target": "september 14, 2005",
+      "key": 0
+    }
+  ],
+  "metadata": {
+    "link_prediction": {
+      "svm": {
+        "accuracy": 0.864,
+        "precision": 0.812,
+        "recall": 0.771,
+        "f1": 0.791,
+        "threshold": 0.35
+      },
+      "random_forest": {
+        "accuracy": 0.922,
+        "precision": 0.915,
+        "recall": 0.844,
+        "f1": 0.878,
+        "threshold": 0.55
+      },
+      "best_model": "Random Forest",
+      "best_threshold": 0.55,
+      "training_pairs": 1253,
+      "test_pairs": 538,
+      "negative_sampling_ratio": 2.0,
+      "best_metrics": {
+        "accuracy": 0.922,
+        "precision": 0.915,
+        "recall": 0.844,
+        "f1": 0.878,
+        "threshold": 0.55
+      }
+    }
+  }
+}

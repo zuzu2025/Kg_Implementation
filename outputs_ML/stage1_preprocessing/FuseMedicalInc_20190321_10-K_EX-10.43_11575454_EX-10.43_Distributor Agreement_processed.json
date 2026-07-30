@@ -1,5 +1,7 @@
 {
   "filename": "FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt",
+  "source_path": "data\\FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt",
+  "sha256": "2e36520ee703d5a5479fb7ce186228db4b29b01e4cdce386830c7705ba412cc4",
   "num_sentences": 131,
   "num_chunks": 17,
   "chunks": [

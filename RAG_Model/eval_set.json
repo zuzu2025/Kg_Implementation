@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Who acquired Company B?",
+    "expected_answer": "Company A",
+    "query_type": "single_hop"
+  },
+  {
+    "question": "Where is the company that Company A acquired headquartered?",
+    "expected_answer": "Berlin",
+    "query_type": "multi_hop"
+  },
+  {
+    "question": "Where did the CEO of Company A previously work?",
+    "expected_answer": "Company E (unverified)",
+    "query_type": "multi_hop_unvalidated_dependency"
+  }
+]

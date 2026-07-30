@@ -1,0 +1,5061 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="inferred" attr.type="string"/>
+<key id="d2" for="edge" attr.name="confidence" attr.type="string"/>
+<key id="d1" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="co-branding agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="21, 1999">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="october 1, 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="ability computer &amp; software industries">
+  <data key="d0">PARTY</data>
+</node>
+<node id="november 1, 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="pte ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="to 17 c">
+  <data key="d0">PARTY</data>
+</node>
+<node id="and">
+  <data key="d0">PARTY</data>
+</node>
+<node id="distributor">
+  <data key="d0">PARTY</data>
+</node>
+<node id="multiple linac and multi-modality distributor agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="endorsement agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="tom">
+  <data key="d0">PARTY</data>
+</node>
+<node id="adams golf, ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="watson">
+  <data key="d0">PARTY</data>
+</node>
+<node id="january 13, 2005">
+  <data key="d0">DATE</data>
+</node>
+<node id="adaptimmune">
+  <data key="d0">PARTY</data>
+</node>
+<node id="adaptimmune limited">
+  <data key="d0">PARTY</data>
+</node>
+<node id="adaptimmune llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="reseller agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="this ___ day of _________, 2004">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="porex corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="detto technologies">
+  <data key="d0">PARTY</data>
+</node>
+<node id="price $10">
+  <data key="d0">PARTY</data>
+</node>
+<node id="agency agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="airsopure international group, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="airsopure&quot; or by reference &quot;we&quot;, &quot;us">
+  <data key="d0">PARTY</data>
+</node>
+<node id="hereinafter &quot;you&quot; or by reference &quot;franchisee&quot;, or &quot;your">
+  <data key="d0">PARTY</data>
+</node>
+<node id="november 9, 2005">
+  <data key="d0">DATE</data>
+</node>
+<node id="agency">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="alliance bancorp, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="common stock (par value $">
+  <data key="d0">PARTY</data>
+</node>
+<node id="00 per share">
+  <data key="d0">PARTY</data>
+</node>
+<node id="___, 2006">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="cooperation agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="december 11, 2009">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="persons and entities listed on schedule a">
+  <data key="d0">PARTY</data>
+</node>
+<node id="by and">
+  <data key="d0">DATE</data>
+</node>
+<node id="ireland, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="the sterling/winters co">
+  <data key="d0">PARTY</data>
+</node>
+<node id="sterling/winters co">
+  <data key="d0">PARTY</data>
+</node>
+<node id="inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="kubient, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="collaboration agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="april 14th, 2020">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="intellectual property agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="december 31, 2018">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="armstrong flooring, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="armstrong">
+  <data key="d0">PARTY</data>
+</node>
+<node id="nantz iii">
+  <data key="d0">PARTY</data>
+</node>
+<node id="company&quot; or &quot;azul">
+  <data key="d0">PARTY</data>
+</node>
+<node id="communications, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="695014 b">
+  <data key="d0">PARTY</data>
+</node>
+<node id="ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="dba galaxy telecom">
+  <data key="d0">PARTY</data>
+</node>
+<node id="natural gas co">
+  <data key="d0">PARTY</data>
+</node>
+<node id="natural gas for that transporter transport shipper; and">
+  <data key="d0">PARTY</data>
+</node>
+<node id="strategic alliance agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="march 18, 2010">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="joint venture agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="february 1, 2018">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="wpt enterprises, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="february 1, 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="jacksonville jaguars sponsorship agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="november 27, 2017">
+  <data key="d0">DATE</data>
+</node>
+<node id="term">
+  <data key="d0">PARTY</data>
+</node>
+<node id="network build and maintenance agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="1 definitions 1">
+  <data key="d0">PARTY</data>
+</node>
+<node id="2 affiliate 1 2">
+  <data key="d0">PARTY</data>
+</node>
+<node id="affiliate">
+  <data key="d0">PARTY</data>
+</node>
+<node id="2 of this agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="2, 2">
+  <data key="d0">PARTY</data>
+</node>
+<node id="and maintenance agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="30, 2000">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="amazon">
+  <data key="d0">PARTY</data>
+</node>
+<node id="com commerce services, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="audible inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="company">
+  <data key="d0">PARTY</data>
+</node>
+<node id="azul linhas aéreas brasileiras s/a">
+  <data key="d0">PARTY</data>
+</node>
+<node id="avions de transport regional, g">
+  <data key="d0">PARTY</data>
+</node>
+<node id="deep@rrt">
+  <data key="d0">PARTY</data>
+</node>
+<node id="com and spinrecords">
+  <data key="d0">PARTY</data>
+</node>
+<node id="deep systems">
+  <data key="d0">PARTY</data>
+</node>
+<node id="premium managed hosting agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="is a managed hosting agreement between astronutrition">
+  <data key="d0">PARTY</data>
+</node>
+<node id="master supply agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="or &quot;pnc&quot;), and fonterra (usa) inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="fonterra (usa) inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="31 october 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="premier nutrition company, llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="co-hosting agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="associates, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="net">
+  <data key="d0">PARTY</data>
+</node>
+<node id="between">
+  <data key="d0">PARTY</data>
+</node>
+<node id="2) nigel crockett of (the ''employee">
+  <data key="d0">PARTY</data>
+</node>
+<node id="bicycletx limited">
+  <data key="d0">PARTY</data>
+</node>
+<node id="under 17 c">
+  <data key="d0">PARTY</data>
+</node>
+<node id="15 , 2010">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="development agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="november 2, 2012">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="29, 1999">
+  <data key="d0">PARTY</data>
+</node>
+<node id="corporation, a">
+  <data key="d0">PARTY</data>
+</node>
+<node id="snotarator llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="services and hosting agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="26, 1999">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="logic">
+  <data key="d0">PARTY</data>
+</node>
+<node id="com, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="visp web site building and hosting agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="12th day of may 2003">
+  <data key="d0">PARTY</data>
+</node>
+<node id="yournetplus">
+  <data key="d0">PARTY</data>
+</node>
+<node id="com">
+  <data key="d0">PARTY</data>
+</node>
+<node id="associated chapter 11 debtors in possession">
+  <data key="d0">PARTY</data>
+</node>
+<node id="chapter">
+  <data key="d0">PARTY</data>
+</node>
+<node id="april 18, 2018">
+  <data key="d0">DATE</data>
+</node>
+<node id="retail, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="with ga, the &quot;agent">
+  <data key="d0">PARTY</data>
+</node>
+<node id="agent">
+  <data key="d0">PARTY</data>
+</node>
+<node id="joseph">
+  <data key="d0">PARTY</data>
+</node>
+<node id="collectively the &quot;parties">
+  <data key="d0">PARTY</data>
+</node>
+<node id="system service warranty claims 13 section 2">
+  <data key="d0">PARTY</data>
+</node>
+<node id="7 efficiency warranty 14 section 2">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="7 efficiency warranty">
+  <data key="d0">PARTY</data>
+</node>
+<node id="article 5 grant of rights">
+  <data key="d0">PARTY</data>
+</node>
+<node id="access to data and meters 21 i">
+  <data key="d0">PARTY</data>
+</node>
+<node id="access to data and meters">
+  <data key="d0">PARTY</data>
+</node>
+<node id="18t h day of august 2014">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="karakudukmunay">
+  <data key="d0">PARTY</data>
+</node>
+<node id="principal">
+  <data key="d0">PARTY</data>
+</node>
+<node id="klinchev">
+  <data key="d0">PARTY</data>
+</node>
+<node id="for reference only">
+  <data key="d0">PARTY</data>
+</node>
+<node id="11th day of december, 2015">
+  <data key="d0">DATE</data>
+</node>
+<node id="26t h day of may, 2017">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="technologies inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="consulting agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="1st day of february, 2020">
+  <data key="d0">DATE</data>
+</node>
+<node id="hosting agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="sponsorship agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="may 2004">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="outpost, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="customization schedule">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="bank of america, n">
+  <data key="d0">PARTY</data>
+</node>
+<node id="web hosting agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="24t h day of august">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="30, 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="intellectual property">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="september 30, 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="domain name and content license agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="beijing">
+  <data key="d0">PARTY</data>
+</node>
+<node id="alliance agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="march 20">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="conformis, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="osteonics corp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="also known as stryker orthopaedics">
+  <data key="d0">PARTY</data>
+</node>
+<node id="1, 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="achaogen inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="cytodyn inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="pharmaceuticals">
+  <data key="d0">PARTY</data>
+</node>
+<node id="of march, 1999 by and between drkoop">
+  <data key="d0">DATE</data>
+</node>
+<node id="15 april, 2009">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="systems, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="online hosting agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="1st day of june, 1999">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="diplomat direct marketing">
+  <data key="d0">PARTY</data>
+</node>
+<node id="tadeo e-commerce corp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="diplomat direct marketing corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="diplomat direct marketing corp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="content license agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="licensor">
+  <data key="d0">PARTY</data>
+</node>
+<node id="data call technologies, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="plan_b media ag">
+  <data key="d0">PARTY</data>
+</node>
+<node id="cinema destinations corp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="day of , 201">
+  <data key="d0">DATE</data>
+</node>
+<node id="affiliate agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="june 1">
+  <data key="d0">DATE</data>
+</node>
+<node id="emerald health naturals, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="1v3">
+  <data key="d0">PARTY</data>
+</node>
+<node id="energous">
+  <data key="d0">PARTY</data>
+</node>
+<node id="6, 2016">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="semiconductor (uk) ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="enterprise transportation company">
+  <data key="d0">PARTY</data>
+</node>
+<node id="enterprise products operating l">
+  <data key="d0">PARTY</data>
+</node>
+<node id="distributor agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="21, 2005">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="vendingdata">
+  <data key="d0">PARTY</data>
+</node>
+<node id="vendingdata corporation, a nevada corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="31 december">
+  <data key="d0">DATE</data>
+</node>
+<node id="watchguard technologies, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="5, 1997">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="between watchguard technologies, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="19th day of january, 2001">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="14th day of november 2017">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="the">
+  <data key="d0">PARTY</data>
+</node>
+<node id="com networks, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="women">
+  <data key="d0">PARTY</data>
+</node>
+<node id="october 30, 2018">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="ehave, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="6 local programming and marketing agreement (wqht hd2">
+  <data key="d0">PARTY</data>
+</node>
+<node id="november 25, 2019">
+  <data key="d0">DATE</data>
+</node>
+<node id="mediaco holding inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="to services outsourcing agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="march 30, 2009">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="amendment to exhibit a to services agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="federated investment management">
+  <data key="d0">PARTY</data>
+</node>
+<node id="trading and transaction settlement">
+  <data key="d0">PARTY</data>
+</node>
+<node id="analysis">
+  <data key="d0">PARTY</data>
+</node>
+<node id="hoffmann-la roche ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="hoffmann-la roche">
+  <data key="d0">PARTY</data>
+</node>
+<node id="outsourcing agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="1st day of january, 2009">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="website design, development and hosting agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="january 11, 2018">
+  <data key="d0">DATE</data>
+</node>
+<node id="jan">
+  <data key="d0">PARTY</data>
+</node>
+<node id="11, 2018">
+  <data key="d0">DATE</data>
+</node>
+<node id="mitchell's web advance, plc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="freecook">
+  <data key="d0">PARTY</data>
+</node>
+<node id="2nd day of january">
+  <data key="d0">PARTY</data>
+</node>
+<node id="5th day of december 2008">
+  <data key="d0">DATE</data>
+</node>
+<node id="mining holdings limited">
+  <data key="d0">PARTY</data>
+</node>
+<node id="goosehead insurance agency, llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="31st day of march, 1998">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="david a">
+  <data key="d0">PARTY</data>
+</node>
+<node id="south medical supply, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="corp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="smith">
+  <data key="d0">PARTY</data>
+</node>
+<node id="3 execution version gwg holdings, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="december 27, 2018">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="marketing affiliate agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="marketing">
+  <data key="d0">PARTY</data>
+</node>
+<node id="trust advisors to the seller trusts">
+  <data key="d0">PARTY</data>
+</node>
+<node id="gwg holdings, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="august">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="b &amp; c general warehouse corporation llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="agreement number 12965">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="december 31, 2004">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="wireless content license agreement number 12965">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="twentieth century fox licensing &amp;">
+  <data key="d0">PARTY</data>
+</node>
+<node id="fox entertainment group, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="november 11, 2005">
+  <data key="d0">DATE</data>
+</node>
+<node id="march 27, 2006">
+  <data key="d0">DATE</data>
+</node>
+<node id="february 19, 2007">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="10, 2">
+  <data key="d0">PARTY</data>
+</node>
+<node id="corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="software development agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="6, 2004 (the">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="digital arts inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="may 3, 2016">
+  <data key="d0">DATE</data>
+</node>
+<node id="mg capital management ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="percy rockdale">
+  <data key="d0">PARTY</data>
+</node>
+<node id="percy rockdale llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="20th day of march">
+  <data key="d0">PARTY</data>
+</node>
+<node id="holiday rv superstores, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="d/b/a recreation usa (the &quot;company">
+  <data key="d0">PARTY</data>
+</node>
+<node id="resources, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="group, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="hpil energytech inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="group">
+  <data key="d0">PARTY</data>
+</node>
+<node id="31 day of july 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="avraham giron st">
+  <data key="d0">PARTY</data>
+</node>
+<node id="imaging ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="pob">
+  <data key="d0">PARTY</data>
+</node>
+<node id="software maintenance agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="october 13">
+  <data key="d0">DATE</data>
+</node>
+<node id="leader act ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="ezjr, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="form of trademark license agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="___, 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="trademark license agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="1s t day of march, 2018">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="15 th day of july, 2010">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="imedicor">
+  <data key="d0">PARTY</data>
+</node>
+<node id="i-escrow, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="18th day of may, 2001">
+  <data key="d0">DATE</data>
+</node>
+<node id="westrock">
+  <data key="d0">PARTY</data>
+</node>
+<node id="ingevity">
+  <data key="d0">PARTY</data>
+</node>
+<node id="17, 2017">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="anderson cancer center">
+  <data key="d0">PARTY</data>
+</node>
+<node id="biotechnologies, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="ivillage, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="media, a division of j">
+  <data key="d0">PARTY</data>
+</node>
+<node id="december 21, 2015">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="beijing sun seven stars culture development limited">
+  <data key="d0">PARTY</data>
+</node>
+<node id="none ceres-iger collaboration agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="19th day of july">
+  <data key="d0">PARTY</data>
+</node>
+<node id="sunwai">
+  <data key="d0">PARTY</data>
+</node>
+<node id="imine">
+  <data key="d0">PARTY</data>
+</node>
+<node id="huang jia country club and recreation inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="chen- bin architects office">
+  <data key="d0">PARTY</data>
+</node>
+<node id="march 3, 2000">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="verticalnet, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="verticalnet">
+  <data key="d0">PARTY</data>
+</node>
+<node id="distributorship agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="integrity short term government">
+  <data key="d0">PARTY</data>
+</node>
+<node id="january 18, 2020">
+  <data key="d0">DATE</data>
+</node>
+<node id="pareteum">
+  <data key="d0">PARTY</data>
+</node>
+<node id="partner">
+  <data key="d0">PARTY</data>
+</node>
+<node id="february 08, 2007">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="shenzhen">
+  <data key="d0">PARTY</data>
+</node>
+<node id="promotion agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="june 27, 2006">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="the 5th day of february, 2020">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="electric">
+  <data key="d0">PARTY</data>
+</node>
+<node id="day of ______________ 2013">
+  <data key="d0">DATE</data>
+</node>
+<node id="tel-online limited">
+  <data key="d0">PARTY</data>
+</node>
+<node id="seminars, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="12-23-2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="alliance holdings, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="beijing sina internet information service co">
+  <data key="d0">PARTY</data>
+</node>
+<node id="content">
+  <data key="d0">PARTY</data>
+</node>
+<node id="license agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="mutual termination agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="day of">
+  <data key="d0">PARTY</data>
+</node>
+<node id="14th day of march, 2016">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="corporation and axiometric, llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="liquidmetal technologies, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="eutectix">
+  <data key="d0">PARTY</data>
+</node>
+<node id="14 day of june">
+  <data key="d0">PARTY</data>
+</node>
+<node id="utek corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="jenner">
+  <data key="d0">PARTY</data>
+</node>
+<node id="transportation services agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="20th day of december">
+  <data key="d0">DATE</data>
+</node>
+<node id="maintenance agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="gunston consulting, llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="1st day of march 2020">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="medalist diversified reit, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="july 12, 1999">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="football northwest">
+  <data key="d0">PARTY</data>
+</node>
+<node id="february 3, 2010">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="promotion">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="marathon petroleum company lp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="june 11, 2015">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="november 20, 2007">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="confidential treatment requested by achaogen, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="26, 2016">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="collaborative development and commercialization agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="2nd day of june, 2008">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="digicorp, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="4 resolution of disputes arising under article 3">
+  <data key="d0">PARTY</data>
+</node>
+<node id="fixed contribution to expenses">
+  <data key="d0">PARTY</data>
+</node>
+<node id="·] day of [·], 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="21st day of january 2003">
+  <data key="d0">PARTY</data>
+</node>
+<node id="july 26, 2013">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="october 24, 2005">
+  <data key="d0">DATE</data>
+</node>
+<node id="recitals">
+  <data key="d0">PARTY</data>
+</node>
+<node id="01 (the &quot;rfp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="service agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="fidelity investments institutional operations company, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="·], 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="oaktree capital management (international) limited">
+  <data key="d0">PARTY</data>
+</node>
+<node id="25 september 2018">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="piphany">
+  <data key="d0">PARTY</data>
+</node>
+<node id="piphany, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="31 day of july, 2000">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="26 day of january, 2007">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="customer">
+  <data key="d0">PARTY</data>
+</node>
+<node id="oriental financial group inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="metavante">
+  <data key="d0">PARTY</data>
+</node>
+<node id="metavante corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="smbc nikko securities inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="bloom burton &amp; co">
+  <data key="d0">PARTY</data>
+</node>
+<node id="__, 2005 (the">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="joint filing agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="9th day of september">
+  <data key="d0">PARTY</data>
+</node>
+<node id="alan r">
+  <data key="d0">PARTY</data>
+</node>
+<node id="alan carley">
+  <data key="d0">PARTY</data>
+</node>
+<node id="purinix pharmaceuticals llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="services agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="june 24">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="statement">
+  <data key="d0">PARTY</data>
+</node>
+<node id="terms">
+  <data key="d0">PARTY</data>
+</node>
+<node id="december 14, 2016">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="supply agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="july 31, 2017">
+  <data key="d0">DATE</data>
+</node>
+<node id="profound medical inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="philips medical systems nederland b">
+  <data key="d0">PARTY</data>
+</node>
+<node id="medical inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="day of [ ], 2020">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="september 30, 1999">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="11, 1996">
+  <data key="d0">PARTY</data>
+</node>
+<node id="quote, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="watley, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="development of custom software">
+  <data key="d0">PARTY</data>
+</node>
+<node id="dot com llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="gas transportation agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="14t h day of april, 2015">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="16t h day of may, 2017">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="4 entire agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="1st day of june, 2017">
+  <data key="d0">PARTY</data>
+</node>
+<node id="prudential bank">
+  <data key="d0">PARTY</data>
+</node>
+<node id="jeffrey b">
+  <data key="d0">PARTY</data>
+</node>
+<node id="17t h day of october, 2007">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="license and development agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="september 24, 2013">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="yaskawa electric corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="rise education group">
+  <data key="d0">PARTY</data>
+</node>
+<node id="date">
+  <data key="d0">DATE</data>
+</node>
+<node id="penntex north louisiana operating, llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="reed's, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="b c marketing concepts inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="dba full sail brewing">
+  <data key="d0">PARTY</data>
+</node>
+<node id="dba full sail brewing company">
+  <data key="d0">PARTY</data>
+</node>
+<node id="dba full sail">
+  <data key="d0">PARTY</data>
+</node>
+<node id="collaborative research, development and commercialization agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="medicines, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="reynolds consumer products llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="reynolds consumer products inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="the &quot;company&quot; or &quot;rcp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="sekisui diagnostics, llc and its affiliates">
+  <data key="d0">PARTY</data>
+</node>
+<node id="services">
+  <data key="d0">PARTY</data>
+</node>
+<node id="sunset st">
+  <data key="d0">PARTY</data>
+</node>
+<node id="15th day of may, 2013">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="inventec appliances corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="pactiv llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="american general life insurance company of delaware">
+  <data key="d0">PARTY</data>
+</node>
+<node id="march 30">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="ib associates llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="30th day of november, 2017">
+  <data key="d0">PARTY</data>
+</node>
+<node id="bravatek solutions, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="contract">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="october 2000">
+  <data key="d0">DATE</data>
+</node>
+<node id="march 13">
+  <data key="d0">DATE</data>
+</node>
+<node id="healthcare capital corp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="water group limited (&quot;sparkling">
+  <data key="d0">PARTY</data>
+</node>
+<node id="support">
+  <data key="d0">PARTY</data>
+</node>
+<node id="12 entire agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="july 1, 2020">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="groupe parameus corp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="source: remark holdings, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="holdings, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="day of ___________________, 19__">
+  <data key="d0">PARTY</data>
+</node>
+<node id="14th day of may, 1999">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="4, 1997 (the">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="licensed technology">
+  <data key="d0">PARTY</data>
+</node>
+<node id="by m&amp;i">
+  <data key="d0">PARTY</data>
+</node>
+<node id="thayer equity investors iv, l">
+  <data key="d0">PARTY</data>
+</node>
+<node id="surgical, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="ste">
+  <data key="d0">PARTY</data>
+</node>
+<node id="20t h day of november, 2018">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="1s t day of october">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="equidata, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="applications products (africa) (pty) limited">
+  <data key="d0">PARTY</data>
+</node>
+<node id="9 services agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="august __, 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="delivery of financial statements; inspection rights">
+  <data key="d0">PARTY</data>
+</node>
+<node id="fsl 15 6">
+  <data key="d0">PARTY</data>
+</node>
+<node id="tph 15 6">
+  <data key="d0">PARTY</data>
+</node>
+<node id="3 or 15">
+  <data key="d0">PARTY</data>
+</node>
+<node id="tph's stockholder approval">
+  <data key="d0">PARTY</data>
+</node>
+<node id="1 termination prior to the effective date 15">
+  <data key="d0">PARTY</data>
+</node>
+<node id="termination">
+  <data key="d0">PARTY</data>
+</node>
+<node id="1 termination prior to the effective date">
+  <data key="d0">PARTY</data>
+</node>
+<node id="january 24, 2014">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="2014 amendment">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="cooperation agreement (2014 amendment">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="nanjing tuniu technology co">
+  <data key="d0">PARTY</data>
+</node>
+<node id="6, southeast university science park">
+  <data key="d0">PARTY</data>
+</node>
+<node id="beijing tuniu technology co">
+  <data key="d0">PARTY</data>
+</node>
+<node id="4, and 10">
+  <data key="d0">PARTY</data>
+</node>
+<node id="30th day of june">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="turnkey capital inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="transportation service agreement contract identification ft18150">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="great lakes gas transmission limited partnership">
+  <data key="d0">PARTY</data>
+</node>
+<node id="anr pipeline company">
+  <data key="d0">PARTY</data>
+</node>
+<node id="___, 1999 (the">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="20t h day of december 2018">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="todos medical ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="medical technologies ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="cremer oleo gmbh &amp; co">
+  <data key="d0">PARTY</data>
+</node>
+<node id="ultragenyx pharmaceutical">
+  <data key="d0">PARTY</data>
+</node>
+<node id="ultragenyx pharmaceutical inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="cremer">
+  <data key="d0">PARTY</data>
+</node>
+<node id="march 13, 2014">
+  <data key="d0">DATE</data>
+</node>
+<node id="jana partners llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="jana">
+  <data key="d0">PARTY</data>
+</node>
+<node id="urs corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="urs">
+  <data key="d0">PARTY</data>
+</node>
+<node id="october 15">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="george d">
+  <data key="d0">PARTY</data>
+</node>
+<node id="green (the &quot;business affiliate&quot;) and union dental corp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="1 financial corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="financial, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="amendment and termination of joint venture agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="october 30, 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="december 13">
+  <data key="d0">DATE</data>
+</node>
+<node id="nms communications corp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="verso backhaul solutions, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="solutions, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="operation and maintenance agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="november 3, 2010">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="7th day of april, 2003">
+  <data key="d0">DATE</data>
+</node>
+<node id="this non-competition agreement amendment no">
+  <data key="d0">PARTY</data>
+</node>
+<node id="solar, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="june 23, 2015">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="23, 2015">
+  <data key="d0">DATE</data>
+</node>
+<node id="9 regulation rr risk retention">
+  <data key="d0">PARTY</data>
+</node>
+<node id="10 cap collateral account">
+  <data key="d0">PARTY</data>
+</node>
+<node id="miscellaneous">
+  <data key="d0">PARTY</data>
+</node>
+<node id="vitalibis inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="bookingentertainment">
+  <data key="d0">PARTY</data>
+</node>
+<node id="leo pharma a/s">
+  <data key="d0">PARTY</data>
+</node>
+<node id="galen (chemicals) limited">
+  <data key="d0">PARTY</data>
+</node>
+<node id="shbv (hong kong) ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="group holdings plc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="of may , 2010">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="execution copy">
+  <data key="d0">PARTY</data>
+</node>
+<node id="13th day of october, 1999">
+  <data key="d0">PARTY</data>
+</node>
+<node id="day of september, 200_">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="exclusive distributor agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="12th day of november, 2019">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="day of _______________2000 (the">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="1st day of december, 2015">
+  <data key="d0">PARTY</data>
+</node>
+<node id="bosch international">
+  <data key="d0">PARTY</data>
+</node>
+<node id="12th day of november, 2018">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="2nd st">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="xpresspa group, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="april 14, 2014">
+  <data key="d0">EFFECTIVE_DATE</data>
+</node>
+<node id="1, 1990 by">
+  <data key="d0">DATE</data>
+</node>
+<node id="partners">
+  <data key="d0">PARTY</data>
+</node>
+<node id="zogenix, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="and innerscope hearing technologies, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="manufacturer">
+  <data key="d0">PARTY</data>
+</node>
+<node id="ee to all terms and conditions of this Consulting Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="direct, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="new jersey">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="arconic inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="delaware">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="commnet wireless, llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="Execution Version Network Build and Maintenance Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="at&amp;t mobility llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="rsion Network Build and Maintenance Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="source: atn international, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="and Maintenance Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="Scope of Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="1 scope">
+  <data key="d0">PARTY</data>
+</node>
+<node id="Mobility Network General Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="3 supply agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="at&amp;t competitor">
+  <data key="d0">PARTY</data>
+</node>
+<node id="the babcock &amp; wilcox company">
+  <data key="d0">PARTY</data>
+</node>
+<node id="california">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="AGENCY AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="bluefly, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="e-business hosting agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="VISP WEB SITE BUILDING AND HOSTING AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="2 operation and maintenance services">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="april 13, 2012">
+  <data key="d0">DATE</data>
+</node>
+<node id="april 13">
+  <data key="d0">DATE</data>
+</node>
+<node id="curo receivables finance ii">
+  <data key="d0">PARTY</data>
+</node>
+<node id="servicing agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="and CURO MANAGEMENT, LLC, as Servicer Dated as of April 8, 2020 This SERVICING AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="april 8, 2020">
+  <data key="d0">DATE</data>
+</node>
+<node id="nuance communications, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="birch first global investments inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="diversinet corp">
+  <data key="d0">PARTY</data>
+</node>
+<node id="limited">
+  <data key="d0">PARTY</data>
+</node>
+<node id="canada">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="February 4, 2005">
+  <data key="d0">DATE</data>
+</node>
+<node id="DATED EFFECTIVE AS OF March 11, 2015 TRANSPORTATION AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="march 11, 2015">
+  <data key="d0">DATE</data>
+</node>
+<node id="ING AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="rogers cable communications inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="video-on-demand content license agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="communications inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="K SERVICES AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="january 1, 2004">
+  <data key="d0">DATE</data>
+</node>
+<node id="This SECOND AMENDMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="march 1">
+  <data key="d0">DATE</data>
+</node>
+<node id="energy, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="joint development agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="This Consulting Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="This Promotion Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="march 12,1999">
+  <data key="d0">DATE</data>
+</node>
+<node id="the laws of the State">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="resource corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="the laws of the State of Colorado">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="November 11, 2005">
+  <data key="d0">DATE</data>
+</node>
+<node id="March 27, 2006">
+  <data key="d0">DATE</data>
+</node>
+<node id="cooperation">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="May 13">
+  <data key="d0">DATE</data>
+</node>
+<node id="ENDORSEMENT AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="April 15, 1994">
+  <data key="d0">DATE</data>
+</node>
+<node id="15, 1994 by">
+  <data key="d0">PARTY</data>
+</node>
+<node id="OR AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="theravance, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="10th day of january, 2018">
+  <data key="d0">PARTY</data>
+</node>
+<node id="Strategic Alliance Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="fazync">
+  <data key="d0">PARTY</data>
+</node>
+<node id="the laws of the State of Color">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="January 29, 2007">
+  <data key="d0">DATE</data>
+</node>
+<node id="data merchant services corporation">
+  <data key="d0">PARTY</data>
+</node>
+<node id="Execution Copy SPONSORSHIP AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="ive Distributor Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="depomed, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="June 16, 2004">
+  <data key="d0">DATE</data>
+</node>
+<node id="L TERMINATION AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="This Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="ANCE AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="California">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="1st day of january, 2000">
+  <data key="d0">PARTY</data>
+</node>
+<node id="NDORSEMENT AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="VICES AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="CO-BRANDING AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="johnson matthey catalog company, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="DISTRIBUTOR AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="company actions">
+  <data key="d0">PARTY</data>
+</node>
+<node id="is made">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="nls-1 pharma ag">
+  <data key="d0">PARTY</data>
+</node>
+<node id="19 day of march, 2004">
+  <data key="d0">PARTY</data>
+</node>
+<node id="may 25th, 2018">
+  <data key="d0">PARTY</data>
+</node>
+<node id="Service Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="cro consulting (pty">
+  <data key="d0">PARTY</data>
+</node>
+<node id="marv enterprises">
+  <data key="d0">PARTY</data>
+</node>
+<node id="the laws of the Commonwealth">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="prime">
+  <data key="d0">PARTY</data>
+</node>
+<node id="source: performance sports brands, inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="phoenix satellite television company limited">
+  <data key="d0">PARTY</data>
+</node>
+<node id="19t h day of march, 2020">
+  <data key="d0">PARTY</data>
+</node>
+<node id="Page 1 of 3 DISTRIBUTOR AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="plit-Dollar Endorsement Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="lubricants ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="pennsylvania">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="gulf">
+  <data key="d0">PARTY</data>
+</node>
+<node id="copy">
+  <data key="d0">PARTY</data>
+</node>
+<node id="Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="research">
+  <data key="d0">PARTY</data>
+</node>
+<node id="development">
+  <data key="d0">PARTY</data>
+</node>
+<node id="November 1, 2019">
+  <data key="d0">DATE</data>
+</node>
+<node id="gathering company, llc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="operations and maintenance agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="30th day of april (the &quot;effective">
+  <data key="d0">PARTY</data>
+</node>
+<node id="CONSULTING AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="PPB, VCA and OTA dated 10 October 2000 This contract">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="March 13, 1996">
+  <data key="d0">DATE</data>
+</node>
+<node id="REEMENT THIS ENDORSEMENT AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="intuit inc">
+  <data key="d0">PARTY</data>
+</node>
+<node id="August 26, 2015">
+  <data key="d0">DATE</data>
+</node>
+<node id="17t h day of may, 2017">
+  <data key="d0">PARTY</data>
+</node>
+<node id="This Distributor Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="rue adolphe fischer l-1520 luxembourg luxembourg">
+  <data key="d0">PARTY</data>
+</node>
+<node id="rue Adolphe Fischer L-1520 Luxembourg Luxembourg CO-BRANDING AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="22nd day of august 2005">
+  <data key="d0">PARTY</data>
+</node>
+<node id="July 23, 2003">
+  <data key="d0">DATE</data>
+</node>
+<node id="March 13, 2014">
+  <data key="d0">DATE</data>
+</node>
+<node id="1999, by">
+  <data key="d0">PARTY</data>
+</node>
+<node id="S ENDORSEMENT AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="the laws of the Province of B">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="glamis gold ltd">
+  <data key="d0">PARTY</data>
+</node>
+<node id="British Columbia">
+  <data key="d0">JURISDICTION</data>
+</node>
+<node id="This Endorsement Agreement">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="CORPORATION RESELLER AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<node id="september 14, 2005">
+  <data key="d0">DATE</data>
+</node>
+<node id="STRATEGIC ALLIANCE AGREEMENT">
+  <data key="d0">CONTRACT</data>
+</node>
+<edge source="co-branding agreement" target="21, 1999" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.376</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-branding agreement" target="19th day of january, 2001" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.371</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-branding agreement" target="march 3, 2000" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.371</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-branding agreement" target="21st day of january 2003" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.372</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-branding agreement" target="technologies inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.552</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-branding agreement" target="september 30, 1999" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.371</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-branding agreement" target="quote, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.426</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-branding agreement" target="11, 1996" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.372</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-branding agreement" target="inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.378</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-branding agreement" target="___, 1999 (the" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.376</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-branding agreement" target="verticalnet, inc" id="0">
+  <data key="d1">INFERRED_LINK</data>
+  <data key="d2">0.998</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="october 1, 2019" target="ability computer &amp; software industries" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.603</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="november 1, 2019" target="ability computer &amp; software industries" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.603</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="pte ltd" target="ability computer &amp; software industries" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.602</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="to 17 c" target="and" id="0">
+  <data key="d1">INDICATED_BY</data>
+  <data key="d2">0.63</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="to 17 c" target="endorsement agreement" id="0">
+  <data key="d1">INFERRED_LINK</data>
+  <data key="d2">0.998</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="and" target="agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.495</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="and" target="ENDORSEMENT AGREEMENT" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.448</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor" target="multiple linac and multi-modality distributor agreement" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.501</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="multiple linac and multi-modality distributor agreement" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.371</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="snotarator llc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.439</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="resources, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.439</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="beijing sina internet information service co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.428</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="1, 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.368</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="11, 1996" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.472</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="quote, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.588</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.432</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="inc" id="1">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.396</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="yaskawa electric corporation" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.428</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="23, 2015" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.472</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="February 4, 2005" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.367</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="January 29, 2007" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.486</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="source: performance sports brands, inc" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.553</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="medicines, inc" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.445</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="November 1, 2019" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.521</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement" target="term" id="0">
+  <data key="d1">INFERRED_LINK</data>
+  <data key="d2">0.997</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="endorsement agreement" target="tom" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.372</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="adams golf, ltd" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.42</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="watson" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.409</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="by and" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.366</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="february 1, 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.37</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="14th day of november 2017" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.435</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="20th day of march" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.37</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="holiday rv superstores, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.42</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="d/b/a recreation usa (the &quot;company" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.42</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="resources, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.42</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="14th day of march, 2016" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.37</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="jenner" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.474</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="july 26, 2013" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.521</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="1, 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.37</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="day of ___________________, 19__" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.37</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="porex corporation" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.474</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="and" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.372</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="endorsement agreement" target="term" id="0">
+  <data key="d1">INFERRED_LINK</data>
+  <data key="d2">0.998</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="endorsement agreement" target="cytodyn inc" id="0">
+  <data key="d1">INFERRED_LINK</data>
+  <data key="d2">0.998</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="endorsement agreement" target="group, inc" id="0">
+  <data key="d1">INFERRED_LINK</data>
+  <data key="d2">0.998</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="endorsement agreement" target="California" id="0">
+  <data key="d1">INFERRED_LINK</data>
+  <data key="d2">0.998</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="january 13, 2005" target="tom" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.362</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="january 13, 2005" target="adams golf, ltd" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.402</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="january 13, 2005" target="watson" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.495</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="adaptimmune" target="adaptimmune limited" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.72</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="adaptimmune llc" target="adaptimmune limited" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.628</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="adaptimmune llc" target="june 23, 2015" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.391</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="adaptimmune llc" target="23, 2015" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.39</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="reseller agreement" target="this ___ day of _________, 2004" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.385</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="reseller agreement" target="695014 b" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.503</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="reseller agreement" target="ltd" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.466</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="reseller agreement" target="dba galaxy telecom" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.424</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="reseller agreement" target="day of september, 200_" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.379</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="porex corporation" target="this ___ day of _________, 2004" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.526</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="detto technologies" target="this ___ day of _________, 2004" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.526</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="price $10" target="agency agreement" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.626</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="price $10" target="agreement" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.662</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agency agreement" target="november 9, 2005" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.384</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agency agreement" target="29, 1999" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.392</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agency agreement" target="corporation, a" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.431</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agency agreement" target="associated chapter 11 debtors in possession" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.431</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agency agreement" target="chapter" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.518</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="airsopure international group, inc" target="airsopure&quot; or by reference &quot;we&quot;, &quot;us" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.602</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="airsopure&quot; or by reference &quot;we&quot;, &quot;us" target="hereinafter &quot;you&quot; or by reference &quot;franchisee&quot;, or &quot;your" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agency" target="november 9, 2005" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.525</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="alliance bancorp, inc" target="common stock (par value $" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.472</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="alliance bancorp, inc" target="00 per share" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.472</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="alliance bancorp, inc" target="agency agreement" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.41</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="alliance bancorp, inc" target="___, 2006" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.399</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="common stock (par value $" target="agency agreement" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.534</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cooperation agreement" target="december 11, 2009" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.368</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cooperation agreement" target="june 1" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.582</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cooperation agreement" target="source: remark holdings, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.492</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cooperation agreement" target="holdings, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.584</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cooperation agreement" target="january 24, 2014" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.374</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cooperation agreement" target="March 13, 2014" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.493</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="december 11, 2009" target="persons and entities listed on schedule a" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.603</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="ireland, inc" target="the sterling/winters co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.61</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="ireland, inc" target="sterling/winters co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.61</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="inc" target="the sterling/winters co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.612</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="inc" target="sterling/winters co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.49</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="inc" target="california" id="0">
+  <data key="d1">LOCATED_IN</data>
+  <data key="d2">0.422</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="kubient, inc" target="the sterling/winters co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.482</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="kubient, inc" target="sterling/winters co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.482</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="collaboration agreement" target="april 14th, 2020" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.372</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="collaboration agreement" target="november 2, 2012" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.438</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="collaboration agreement" target="18t h day of august 2014" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.372</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="collaboration agreement" target="hoffmann-la roche ltd" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.577</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="collaboration agreement" target="hoffmann-la roche" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.621</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="intellectual property agreement" target="december 31, 2018" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.589</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="intellectual property agreement" target="30, 2019" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.363</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="intellectual property agreement" target="february 08, 2007" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.369</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="intellectual property agreement" target="shenzhen" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.554</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="intellectual property agreement" target="november 20, 2007" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.369</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="intellectual property agreement" target="december 13" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.424</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="intellectual property agreement" target="april 14, 2014" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.432</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="intellectual property agreement" target="June 16, 2004" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.368</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="december 31, 2018" target="armstrong flooring, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.758</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="december 31, 2018" target="armstrong" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.504</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="december 31, 2018" target="development of custom software" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.435</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="december 31, 2018" target="dot com llc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.444</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="nantz iii" target="company&quot; or &quot;azul" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.602</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="communications, inc" target="company&quot; or &quot;azul" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.439</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="ltd" target="10, 2" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.337</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="ltd" target="bloom burton &amp; co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.68</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="ltd" target="6, southeast university science park" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.405</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="natural gas co" target="natural gas for that transporter transport shipper; and" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.599</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="march 18, 2010" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.367</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="11th day of december, 2015" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.425</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="energous" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.406</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="31 december" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.425</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="may 2004" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.367</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="5th day of december 2008" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.359</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="15 th day of july, 2010" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.367</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="imedicor" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.406</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="i-escrow, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.418</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="14 day of june" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.363</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="utek corporation" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.521</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="9th day of september" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.363</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="statement" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.406</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="december 14, 2016" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.367</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="september 24, 2013" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.367</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="electric" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.406</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="yaskawa electric corporation" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.406</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="30th day of november, 2017" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.363</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="bravatek solutions, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.418</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="30th day of june" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.367</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="turnkey capital inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.479</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="of may , 2010" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.367</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="1st day of december, 2015" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.363</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="bosch international" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.406</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="strategic alliance agreement" target="August 26, 2015" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.581</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="joint venture agreement" target="february 1, 2018" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.465</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="joint venture agreement" target="18th day of may, 2001" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.383</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="joint venture agreement" target="amendment and termination of joint venture agreement" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.539</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="joint venture agreement" target="october 30, 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.388</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="february 1, 2018" target="wpt enterprises, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.669</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="jacksonville jaguars sponsorship agreement" target="november 27, 2017" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.538</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="term" target="and" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.619</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="network build and maintenance agreement" target="1 definitions 1" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.447</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="network build and maintenance agreement" target="2 affiliate 1 2" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.447</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="network build and maintenance agreement" target="affiliate" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.684</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1 definitions 1" target="2, 2" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.405</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2 affiliate 1 2" target="2, 2" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.405</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="affiliate" target="Scope of Agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.775</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2 of this agreement" target="1 definitions 1" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.454</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2 of this agreement" target="2 affiliate 1 2" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.454</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2 of this agreement" target="affiliate" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.612</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2, 2" target="3 supply agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.389</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="and maintenance agreement" target="30, 2000" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.369</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="and maintenance agreement" target="piphany, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.67</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="and maintenance agreement" target="__, 2005 (the" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.438</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="and maintenance agreement" target="applications products (africa) (pty) limited" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.436</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="and maintenance agreement" target="day of _______________2000 (the" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.443</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="30, 2000" target="amazon" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.57</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="30, 2000" target="com commerce services, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.579</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="audible inc" target="company" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.613</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="company" target="mining holdings limited" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.659</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="company" target="is made" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.52</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="azul linhas aéreas brasileiras s/a" target="avions de transport regional, g" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.65</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="deep@rrt" target="com and spinrecords" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="deep systems" target="com and spinrecords" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="premium managed hosting agreement" target="is a managed hosting agreement between astronutrition" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.503</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="premium managed hosting agreement" target="com and spinrecords" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.491</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="master supply agreement" target="or &quot;pnc&quot;), and fonterra (usa) inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.495</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="master supply agreement" target="fonterra (usa) inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.591</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="master supply agreement" target="purinix pharmaceuticals llc" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.448</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="master supply agreement" target="20t h day of november, 2018" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.375</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="master supply agreement" target="November 1, 2019" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.612</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="or &quot;pnc&quot;), and fonterra (usa) inc" target="california" id="0">
+  <data key="d1">LOCATED_IN</data>
+  <data key="d2">0.613</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="31 october 2019" target="or &quot;pnc&quot;), and fonterra (usa) inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.492</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="31 october 2019" target="fonterra (usa) inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.609</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="premier nutrition company, llc" target="or &quot;pnc&quot;), and fonterra (usa) inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.478</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="premier nutrition company, llc" target="fonterra (usa) inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.666</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="premier nutrition company, llc" target="operations and maintenance agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.674</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-hosting agreement" target="associates, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.589</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="co-hosting agreement" target="net" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.424</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="between" target="2) nigel crockett of (the ''employee" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.458</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="between" target="the laws of the State" id="0">
+  <data key="d1">ORGANIZED_UNDER</data>
+  <data key="d2">0.571</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="between" target="the laws of the Province of B" id="0">
+  <data key="d1">ORGANIZED_UNDER</data>
+  <data key="d2">0.469</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="bicycletx limited" target="2) nigel crockett of (the ''employee" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="under 17 c" target="15 , 2010" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.526</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="development agreement" target="15 , 2010" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.422</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="29, 1999" target="AGENCY AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.604</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="services and hosting agreement" target="26, 1999" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.385</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="services and hosting agreement" target="logic" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.424</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="services and hosting agreement" target="com, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.514</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="services and hosting agreement" target="vitalibis inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.578</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="services and hosting agreement" target="inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.387</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="com, inc" target="delaware" id="0">
+  <data key="d1">LOCATED_IN</data>
+  <data key="d2">0.776</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="visp web site building and hosting agreement" target="12th day of may 2003" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.403</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="visp web site building and hosting agreement" target="yournetplus" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.446</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="visp web site building and hosting agreement" target="com, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.458</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="visp web site building and hosting agreement" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.409</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="12th day of may 2003" target="VISP WEB SITE BUILDING AND HOSTING AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.484</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="12th day of may 2003" target="VISP WEB SITE BUILDING AND HOSTING AGREEMENT" id="1">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.493</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="12th day of may 2003" target="VISP WEB SITE BUILDING AND HOSTING AGREEMENT" id="2">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.453</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="april 18, 2018" target="associated chapter 11 debtors in possession" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.408</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="april 18, 2018" target="chapter" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.525</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="retail, inc" target="with ga, the &quot;agent" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.512</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="retail, inc" target="agent" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.512</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="joseph" target="collectively the &quot;parties" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="system service warranty claims 13 section 2" target="7 efficiency warranty 14 section 2" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.435</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="system service warranty claims 13 section 2" target="7 efficiency warranty" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.503</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="article 5 grant of rights" target="access to data and meters 21 i" id="0">
+  <data key="d1">APPOINTED_AS</data>
+  <data key="d2">0.484</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="article 5 grant of rights" target="access to data and meters" id="0">
+  <data key="d1">APPOINTED_AS</data>
+  <data key="d2">0.622</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="karakudukmunay" target="principal" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.468</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="karakudukmunay" target="klinchev" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.585</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="for reference only" target="11th day of december, 2015" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.525</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="26t h day of may, 2017" target="technologies inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.669</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="consulting agreement" target="1st day of february, 2020" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.403</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="consulting agreement" target="2nd day of january" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.407</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="consulting agreement" target="gunston consulting, llc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.559</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="hosting agreement" target="29, 1999" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.407</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="hosting agreement" target="17t h day of october, 2007" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.407</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="sponsorship agreement" target="may 2004" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.372</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="sponsorship agreement" target="of march, 1999 by and between drkoop" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.368</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="sponsorship agreement" target="31st day of march, 1998" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.372</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="sponsorship agreement" target="ivillage, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.489</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="sponsorship agreement" target="july 12, 1999" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.367</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="sponsorship agreement" target="14th day of may, 1999" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.372</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="sponsorship agreement" target="January 29, 2007" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.649</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="sponsorship agreement" target="March 13, 1996" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.449</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="outpost, inc" target="com" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.697</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="customization schedule" target="bank of america, n" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.629</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="web hosting agreement" target="24t h day of august" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.452</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="web hosting agreement" target="associates, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.503</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="intellectual property" target="september 30, 2019" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.438</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="intellectual property" target="may 3, 2016" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.435</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="september 30, 2019" target="conformis, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.669</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="domain name and content license agreement" target="beijing" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.571</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="domain name and content license agreement" target="beijing sina internet information service co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.648</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="alliance agreement" target="march 20" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.392</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="alliance agreement" target="energous" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.431</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="alliance agreement" target="anderson cancer center" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.589</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="alliance agreement" target="december 14, 2016" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.392</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="osteonics corp" target="conformis, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.711</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="also known as stryker orthopaedics" target="conformis, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.659</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1, 2019" target="achaogen inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.492</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1, 2019" target="cytodyn inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.609</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="pharmaceuticals" target="achaogen inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.482</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="pharmaceuticals" target="cytodyn inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.599</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15 april, 2009" target="systems, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.522</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15 april, 2009" target="associates, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.522</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="online hosting agreement" target="1st day of june, 1999" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.599</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1st day of june, 1999" target="diplomat direct marketing" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.453</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1st day of june, 1999" target="tadeo e-commerce corp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.62</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1st day of june, 1999" target="diplomat direct marketing corporation" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.453</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1st day of june, 1999" target="diplomat direct marketing corp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.462</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="content license agreement" target="licensor" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.452</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="content license agreement" target="10, 2" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.375</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="content license agreement" target="december 21, 2015" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.375</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="content license agreement" target="2nd day of june, 2008" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.38</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="content license agreement" target="digicorp, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.505</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="data call technologies, inc" target="licensor" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.594</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="data call technologies, inc" target="plan_b media ag" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.477</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="data call technologies, inc" target="content license agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.459</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cinema destinations corp" target="day of , 201" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.534</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="affiliate agreement" target="day of , 201" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.403</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="affiliate agreement" target="and" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.409</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="affiliate agreement" target="corporation and axiometric, llc" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.48</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="affiliate agreement" target="financial, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.458</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="emerald health naturals, inc" target="1v3" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.57</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="6, 2016" target="energous" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.603</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="semiconductor (uk) ltd" target="energous" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.602</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="enterprise transportation company" target="enterprise products operating l" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.602</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="21, 2005" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.374</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="vendingdata" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.413</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="vendingdata corporation, a nevada corporation" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.413</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="5, 1997" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.374</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="between watchguard technologies, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.493</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="august" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.374</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="b &amp; c general warehouse corporation llc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.425</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="electric" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.482</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="corp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.493</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="october 24, 2005" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.366</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="7th day of april, 2003" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.37</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributor agreement" target="march 13" id="0">
+  <data key="d1">INFERRED_LINK</data>
+  <data key="d2">0.998</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="distributor agreement" target="david a" id="0">
+  <data key="d1">INFERRED_LINK</data>
+  <data key="d2">0.998</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="distributor agreement" target="smith" id="0">
+  <data key="d1">INFERRED_LINK</data>
+  <data key="d2">0.998</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="watchguard technologies, inc" target="5, 1997" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.535</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="19th day of january, 2001" target="com, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.703</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="19th day of january, 2001" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.428</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="the" target="com networks, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.471</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="the" target="women" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.69</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="the" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.598</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="october 30, 2018" target="ehave, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.669</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="6 local programming and marketing agreement (wqht hd2" target="november 25, 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.414</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="6 local programming and marketing agreement (wqht hd2" target="mediaco holding inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.61</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="mediaco holding inc" target="ING AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.67</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="to services outsourcing agreement" target="march 30, 2009" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.447</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="to services outsourcing agreement" target="26 day of january, 2007" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.452</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 30, 2009" target="federated investment management" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.513</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 30, 2009" target="company" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.522</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="amendment to exhibit a to services agreement" target="march 30, 2009" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.537</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="trading and transaction settlement" target="analysis" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.65</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="outsourcing agreement" target="1st day of january, 2009" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.376</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="outsourcing agreement" target="1s t day of march, 2018" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.376</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="outsourcing agreement" target="piphany, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.683</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="outsourcing agreement" target="14t h day of april, 2015" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.447</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="outsourcing agreement" target="16t h day of may, 2017" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.447</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="website design, development and hosting agreement" target="january 11, 2018" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.451</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="website design, development and hosting agreement" target="jan" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.563</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="website design, development and hosting agreement" target="11, 2018" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.557</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="january 11, 2018" target="mitchell's web advance, plc" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.53</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="freecook" target="mitchell's web advance, plc" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.588</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2nd day of january" target="This Consulting Agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.613</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="goosehead insurance agency, llc" target="agreement" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.602</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="david a" target="south medical supply, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.512</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="david a" target="corp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.512</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="smith" target="south medical supply, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.512</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="smith" target="corp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.512</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="3 execution version gwg holdings, inc" target="december 27, 2018" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.502</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="3 execution version gwg holdings, inc" target="marketing affiliate agreement" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.41</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="3 execution version gwg holdings, inc" target="marketing" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.467</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="marketing affiliate agreement" target="1s t day of october" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.398</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="marketing affiliate agreement" target="equidata, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.541</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="trust advisors to the seller trusts" target="december 27, 2018" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.493</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="trust advisors to the seller trusts" target="marketing affiliate agreement" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.399</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="trust advisors to the seller trusts" target="marketing" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.458</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="gwg holdings, inc" target="marketing" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.602</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="agreement number 12965" target="december 31, 2004" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.542</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="wireless content license agreement number 12965" target="december 31, 2004" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.407</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="wireless content license agreement number 12965" target="November 11, 2005" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.417</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="wireless content license agreement number 12965" target="March 27, 2006" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.519</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="twentieth century fox licensing &amp;" target="fox entertainment group, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.659</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="november 11, 2005" target="wireless content license agreement number 12965" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.533</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 27, 2006" target="wireless content license agreement number 12965" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.533</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="february 19, 2007" target="wireless content license agreement number 12965" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.533</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="10, 2" target="corporation" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.603</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="10, 2" target="network build and maintenance agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.377</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="10, 2" target="2 of this agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.385</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="corporation" target="achaogen inc" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.664</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="software development agreement" target="6, 2004 (the" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.422</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="software development agreement" target="digital arts inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.589</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="may 3, 2016" target="mg capital management ltd" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.504</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="may 3, 2016" target="percy rockdale" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.365</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="may 3, 2016" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.464</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="may 3, 2016" target="percy rockdale llc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.374</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="may 3, 2016" target="westrock" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.365</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="may 3, 2016" target="ingevity" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.365</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="mg capital management ltd" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.739</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="20th day of march" target="ENDORSEMENT AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.613</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="d/b/a recreation usa (the &quot;company" target="group, inc" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.675</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="hpil energytech inc" target="group" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.602</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="31 day of july 2019" target="avraham giron st" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.585</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="imaging ltd" target="avraham giron st" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.615</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="imaging ltd" target="pob" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.578</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="software maintenance agreement" target="october 13" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.475</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="software maintenance agreement" target="leader act ltd" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.659</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="leader act ltd" target="ezjr, inc" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.665</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="form of trademark license agreement" target="___, 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.542</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="trademark license agreement" target="___, 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.407</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="trademark license agreement" target="·] day of [·], 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.407</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="trademark license agreement" target="·], 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.407</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="trademark license agreement" target="day of [ ], 2020" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.407</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="17, 2017" target="anderson cancer center" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.701</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="biotechnologies, inc" target="anderson cancer center" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.729</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="media, a division of j" target="ivillage, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.659</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="december 21, 2015" target="beijing sun seven stars culture development limited" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.603</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="none ceres-iger collaboration agreement" target="19th day of july" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.538</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="19th day of july" target="sunwai" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.44</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="19th day of july" target="ive Distributor Agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.514</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="imine" target="sunwai" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.588</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="huang jia country club and recreation inc" target="chen- bin architects office" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.597</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 3, 2000" target="verticalnet, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.579</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 3, 2000" target="verticalnet" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.468</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 3, 2000" target="inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.437</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributorship agreement" target="integrity short term government" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.491</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="distributorship agreement" target="and" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.454</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="january 18, 2020" target="integrity short term government" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.528</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="pareteum" target="partner" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="promotion agreement" target="june 27, 2006" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.365</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="promotion agreement" target="february 3, 2010" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.549</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="promotion agreement" target="bookingentertainment" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.409</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="promotion agreement" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.437</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="the 5th day of february, 2020" target="kubient, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.612</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="day of ______________ 2013" target="tel-online limited" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.528</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="seminars, inc" target="12-23-2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.661</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="alliance holdings, inc" target="12-23-2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.697</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="content" target="beijing sina internet information service co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="license agreement" target="beijing sina internet information service co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.581</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="mutual termination agreement" target="day of" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.418</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="mutual termination agreement" target="beijing sina internet information service co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.578</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="day of" target="L TERMINATION AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.661</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="corporation and axiometric, llc" target="This Agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.535</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="liquidmetal technologies, inc" target="eutectix" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.607</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="14 day of june" target="ANCE AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.604</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="jenner" target="California" id="0">
+  <data key="d1">LOCATED_IN</data>
+  <data key="d2">0.604</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="transportation services agreement" target="20th day of december" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.367</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="transportation services agreement" target="marathon petroleum company lp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.756</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="transportation services agreement" target="june 11, 2015" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.437</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="transportation services agreement" target="14t h day of april, 2015" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.371</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="20th day of december" target="alan r" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.438</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="20th day of december" target="alan carley" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.438</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="maintenance agreement" target="20th day of december" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.562</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="maintenance agreement" target="4, 1997 (the" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.38</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="maintenance agreement" target="thayer equity investors iv, l" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.6</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="maintenance agreement" target="July 23, 2003" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.465</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1st day of march 2020" target="gunston consulting, llc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.609</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1st day of march 2020" target="medalist diversified reit, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.492</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="july 12, 1999" target="football northwest" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.453</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="july 12, 1999" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.69</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="promotion" target="february 3, 2010" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.66</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="marathon petroleum company lp" target="VICES AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.786</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="confidential treatment requested by achaogen, inc" target="26, 2016" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.535</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="collaborative development and commercialization agreement" target="26, 2016" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.542</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="4 resolution of disputes arising under article 3" target="fixed contribution to expenses" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="21st day of january 2003" target="CO-BRANDING AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.71</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="recitals" target="01 (the &quot;rfp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.473</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="recitals" target="terms" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.473</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="recitals" target="term" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.473</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="service agreement" target="fidelity investments institutional operations company, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.503</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="service agreement" target="date" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.459</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="oaktree capital management (international) limited" target="25 september 2018" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.436</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="oaktree capital management (international) limited" target="between" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.503</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="piphany" target="piphany, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.803</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="31 day of july, 2000" target="piphany, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.786</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="26 day of january, 2007" target="customer" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.529</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="oriental financial group inc" target="metavante" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.598</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="oriental financial group inc" target="metavante corporation" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.781</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="oriental financial group inc" target="customer" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.432</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="smbc nikko securities inc" target="bloom burton &amp; co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.729</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="joint filing agreement" target="inc" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.597</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="9th day of september" target="ANCE AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.604</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="services agreement" target="june 24" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.537</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="supply agreement" target="july 31, 2017" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.373</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="supply agreement" target="sunset st" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.588</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="profound medical inc" target="july 31, 2017" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.591</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="profound medical inc" target="supply agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.528</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="philips medical systems nederland b" target="july 31, 2017" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.623</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="medical inc" target="july 31, 2017" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.534</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="medical inc" target="supply agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.456</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="september 30, 1999" target="verticalnet, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.76</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="11, 1996" target="CO-BRANDING AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.71</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="quote, inc" target="watley, inc" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.665</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="gas transportation agreement" target="14t h day of april, 2015" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.542</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="4 entire agreement" target="1st day of june, 2017" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.422</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="4 entire agreement" target="prudential bank" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.578</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1st day of june, 2017" target="jeffrey b" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.407</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1st day of june, 2017" target="plit-Dollar Endorsement Agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.601</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="prudential bank" target="jeffrey b" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.588</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="license and development agreement" target="17t h day of october, 2007" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.369</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="rise education group" target="date" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.534</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="penntex north louisiana operating, llc" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.692</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="reed's, inc" target="b c marketing concepts inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.686</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="reed's, inc" target="dba full sail brewing" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.437</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="reed's, inc" target="dba full sail brewing company" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.52</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="reed's, inc" target="dba full sail" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.565</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="collaborative research, development and commercialization agreement" target="medicines, inc" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.751</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="collaborative research, development and commercialization agreement" target="inc" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.61</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="reynolds consumer products llc" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.565</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="reynolds consumer products inc" target="the &quot;company&quot; or &quot;rcp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.613</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="sekisui diagnostics, llc and its affiliates" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.565</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="sekisui diagnostics, llc and its affiliates" target="agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.449</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="services" target="1, 2019" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.393</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="services" target="inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.427</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="services" target="vitalibis inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.467</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15th day of may, 2013" target="sunset st" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.66</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="inventec appliances corporation" target="sunset st" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.65</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="pactiv llc" target="sunset st" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.659</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="american general life insurance company of delaware" target="march 30" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.535</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="ib associates llc" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.663</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="30th day of november, 2017" target="Strategic Alliance Agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.613</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="contract" target="october 2000" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.534</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 13" target="between" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.393</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 13" target="healthcare capital corp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.504</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 13" target="corp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.402</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="water group limited (&quot;sparkling" target="support" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.599</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="12 entire agreement" target="july 1, 2020" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.422</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="12 entire agreement" target="groupe parameus corp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.589</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="holdings, inc" target="agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.562</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="day of ___________________, 19__" target="REEMENT THIS ENDORSEMENT AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.613</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="licensed technology" target="by m&amp;i" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="surgical, inc" target="ste" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.57</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="9 services agreement" target="august __, 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.542</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="delivery of financial statements; inspection rights" target="fsl 15 6" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.473</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="delivery of financial statements; inspection rights" target="tph 15 6" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.473</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="delivery of financial statements; inspection rights" target="3 or 15" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.473</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="tph's stockholder approval" target="fsl 15 6" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.443</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="tph's stockholder approval" target="tph 15 6" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.443</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="tph's stockholder approval" target="3 or 15" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.443</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="tph's stockholder approval" target="1 termination prior to the effective date 15" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.452</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="tph's stockholder approval" target="termination" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.443</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="tph's stockholder approval" target="1 termination prior to the effective date" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.452</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2014 amendment" target="cooperation agreement (2014 amendment" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.443</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2014 amendment" target="january 24, 2014" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.444</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cooperation agreement (2014 amendment" target="january 24, 2014" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.407</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cooperation agreement (2014 amendment" target="nanjing tuniu technology co" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.634</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="nanjing tuniu technology co" target="6, southeast university science park" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="beijing tuniu technology co" target="4, and 10" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="transportation service agreement contract identification ft18150" target="great lakes gas transmission limited partnership" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.53</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="transportation service agreement contract identification ft18150" target="anr pipeline company" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.618</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="20t h day of december 2018" target="todos medical ltd" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.522</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="20t h day of december 2018" target="medical technologies ltd" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.522</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cremer oleo gmbh &amp; co" target="ultragenyx pharmaceutical" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.498</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cremer oleo gmbh &amp; co" target="ultragenyx pharmaceutical inc" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.507</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cremer oleo gmbh &amp; co" target="supply agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.573</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cremer" target="ultragenyx pharmaceutical" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.498</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cremer" target="ultragenyx pharmaceutical inc" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.507</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cremer" target="supply agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.445</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 13, 2014" target="jana partners llc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.45</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 13, 2014" target="jana" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.366</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 13, 2014" target="urs corporation" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.5</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 13, 2014" target="com" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.41</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 13, 2014" target="the" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.335</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="march 13, 2014" target="urs" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.335</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="october 15" target="george d" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.656</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="october 15" target="green (the &quot;business affiliate&quot;) and union dental corp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.477</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1 financial corporation" target="financial, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.602</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="amendment and termination of joint venture agreement" target="october 30, 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.542</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="december 13" target="nms communications corp" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.504</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="december 13" target="verso backhaul solutions, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.402</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="december 13" target="solutions, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.402</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="operation and maintenance agreement" target="november 3, 2010" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.537</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="this non-competition agreement amendment no" target="solar, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.67</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="9 regulation rr risk retention" target="10 cap collateral account" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="10 cap collateral account" target="miscellaneous" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.593</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="leo pharma a/s" target="galen (chemicals) limited" id="0">
+  <data key="d1">REFERRED_TO_AS</data>
+  <data key="d2">0.645</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="leo pharma a/s" target="development agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.607</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="shbv (hong kong) ltd" target="group holdings plc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.512</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="shbv (hong kong) ltd" target="of may , 2010" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.445</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="group holdings plc" target="of may , 2010" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.526</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="execution copy" target="13th day of october, 1999" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.435</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="13th day of october, 1999" target="This Endorsement Agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.67</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="exclusive distributor agreement" target="12th day of november, 2019" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.422</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="exclusive distributor agreement" target="April 15, 1994" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.549</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1st day of december, 2015" target="STRATEGIC ALLIANCE AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.604</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="12th day of november, 2018" target="com, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.739</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2nd st" target="xpresspa group, inc" id="0">
+  <data key="d1">HAS</data>
+  <data key="d2">0.537</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1, 1990 by" target="partners" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.528</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="zogenix, inc" target="and innerscope hearing technologies, inc" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.523</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="zogenix, inc" target="manufacturer" id="0">
+  <data key="d1">IS_A</data>
+  <data key="d2">0.512</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="ee to all terms and conditions of this Consulting Agreement" target="june 1" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.473</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="direct, inc" target="new jersey" id="0">
+  <data key="d1">LOCATED_IN</data>
+  <data key="d2">0.624</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="arconic inc" target="delaware" id="0">
+  <data key="d1">ORGANIZED_UNDER</data>
+  <data key="d2">0.787</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="commnet wireless, llc" target="Execution Version Network Build and Maintenance Agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.386</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="commnet wireless, llc" target="Execution Version Network Build and Maintenance Agreement" id="1">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.616</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="at&amp;t mobility llc" target="rsion Network Build and Maintenance Agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.386</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="at&amp;t mobility llc" target="rsion Network Build and Maintenance Agreement" id="1">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.616</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="source: atn international, inc" target="and Maintenance Agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.364</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="source: atn international, inc" target="and Maintenance Agreement" id="1">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.784</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1 scope" target="Mobility Network General Agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.373</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1 scope" target="Mobility Network General Agreement" id="1">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.594</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="at&amp;t competitor" target="3 supply agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.466</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="the babcock &amp; wilcox company" target="intellectual property agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.66</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="bluefly, inc" target="e-business hosting agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.719</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2 operation and maintenance services" target="april 13, 2012" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.581</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2 operation and maintenance services" target="april 13" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.581</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="curo receivables finance ii" target="servicing agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.737</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="and CURO MANAGEMENT, LLC, as Servicer Dated as of April 8, 2020 This SERVICING AGREEMENT" target="april 8, 2020" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.526</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="and CURO MANAGEMENT, LLC, as Servicer Dated as of April 8, 2020 This SERVICING AGREEMENT" target="april 8, 2020" id="1">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.526</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="and CURO MANAGEMENT, LLC, as Servicer Dated as of April 8, 2020 This SERVICING AGREEMENT" target="april 8, 2020" id="2">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.583</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="nuance communications, inc" target="intellectual property agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.448</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="birch first global investments inc" target="marketing affiliate agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.57</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="diversinet corp" target="agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.665</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="diversinet corp" target="promotion agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.449</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="limited" target="canada" id="0">
+  <data key="d1">LOCATED_IN</data>
+  <data key="d2">0.573</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="DATED EFFECTIVE AS OF March 11, 2015 TRANSPORTATION AGREEMENT" target="march 11, 2015" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.534</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="rogers cable communications inc" target="video-on-demand content license agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.618</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="communications inc" target="video-on-demand content license agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.501</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="K SERVICES AGREEMENT" target="january 1, 2004" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.581</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="This SECOND AMENDMENT" target="march 1" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.524</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="energy, inc" target="joint development agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.769</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="This Promotion Agreement" target="march 12,1999" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.534</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="resource corporation" target="the laws of the State of Colorado" id="0">
+  <data key="d1">ORGANIZED_UNDER</data>
+  <data key="d2">0.731</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cooperation" target="May 13" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.567</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cooperation" target="March 13, 2014" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.481</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15, 1994 by" target="OR AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.67</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="theravance, inc" target="collaboration agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.637</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="10th day of january, 2018" target="Strategic Alliance Agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.613</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="fazync" target="the laws of the State of Color" id="0">
+  <data key="d1">ORGANIZED_UNDER</data>
+  <data key="d2">0.604</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="data merchant services corporation" target="Execution Copy SPONSORSHIP AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.661</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="data merchant services corporation" target="Execution Copy SPONSORSHIP AGREEMENT" id="1">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.604</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="depomed, inc" target="promotion agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.71</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1st day of january, 2000" target="NDORSEMENT AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.67</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="johnson matthey catalog company, inc" target="DISTRIBUTOR AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.493</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="company actions" target="is made" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.52</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="nls-1 pharma ag" target="license and development agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.791</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="19 day of march, 2004" target="reseller agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.377</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="may 25th, 2018" target="Service Agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.535</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="cro consulting (pty" target="Service Agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.608</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="marv enterprises" target="the laws of the Commonwealth" id="0">
+  <data key="d1">ORGANIZED_UNDER</data>
+  <data key="d2">0.613</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="prime" target="agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.604</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="phoenix satellite television company limited" target="content license agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.534</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="19t h day of march, 2020" target="Page 1 of 3 DISTRIBUTOR AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.613</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="lubricants ltd" target="pennsylvania" id="0">
+  <data key="d1">ORGANIZED_UNDER</data>
+  <data key="d2">0.613</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="gulf" target="pennsylvania" id="0">
+  <data key="d1">ORGANIZED_UNDER</data>
+  <data key="d2">0.661</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="copy" target="Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.681</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="copy" target="Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT" id="1">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.53</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="research" target="Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.688</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="research" target="Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT" id="1">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.553</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="development" target="Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.688</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="development" target="Execution Copy COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT" id="1">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.553</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="gathering company, llc" target="operations and maintenance agreement" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.486</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="30th day of april (the &quot;effective" target="CONSULTING AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.715</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="30th day of april (the &quot;effective" target="CONSULTING AGREEMENT" id="1">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.48</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="PPB, VCA and OTA dated 10 October 2000 This contract" target="october 2000" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.526</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="intuit inc" target="california" id="0">
+  <data key="d1">LOCATED_IN</data>
+  <data key="d2">0.681</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="17t h day of may, 2017" target="This Distributor Agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.592</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="rue adolphe fischer l-1520 luxembourg luxembourg" target="rue Adolphe Fischer L-1520 Luxembourg Luxembourg CO-BRANDING AGREEMENT" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.527</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="22nd day of august 2005" target="co-branding agreement" id="0">
+  <data key="d1">ENTERED_INTO</data>
+  <data key="d2">0.369</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="1999, by" target="S ENDORSEMENT AGREEMENT" id="0">
+  <data key="d1">PARTY_OF</data>
+  <data key="d2">0.67</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="glamis gold ltd" target="British Columbia" id="0">
+  <data key="d1">ORGANIZED_UNDER</data>
+  <data key="d2">0.67</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="CORPORATION RESELLER AGREEMENT" target="september 14, 2005" id="0">
+  <data key="d1">EFFECTIVE_ON</data>
+  <data key="d2">0.524</data>
+  <data key="d3">False</data>
+</edge>
+</graph></graphml>

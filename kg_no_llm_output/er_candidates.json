@@ -1,0 +1,812 @@
+[
+  {
+    "left": "m_cfdefb28000b",
+    "right": "m_f3d70048af81",
+    "score": 0.9011,
+    "left_text": " Co-Branding Agreement Agency Agreement",
+    "right_text": "CO-BRANDING AND ADVERTISING AGREEMENT",
+    "features": {
+      "char_sim": 0.72,
+      "token_jaccard": 0.5,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.9736842105263158
+    },
+    "merged": true
+  },
+  {
+    "left": "m_d5e1d621a8a5",
+    "right": "m_f585e70cac93",
+    "score": 0.9802,
+    "left_text": "-SERVICES AGREEMENT",
+    "right_text": "SERVICES AGREEMENT",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_28653866201f",
+    "right": "m_b815cae42ecc",
+    "score": 0.6844,
+    "left_text": "October 1, 2019",
+    "right_text": "November 1, 2019",
+    "features": {
+      "char_sim": 0.7586206896551724,
+      "token_jaccard": 0.5,
+      "acronym_match": 0.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.9333333333333333
+    },
+    "merged": false
+  },
+  {
+    "left": "m_f8cf3e8521bb",
+    "right": "m_7eb97de0c15f",
+    "score": 0.3108,
+    "left_text": "December 31, 2020",
+    "right_text": "June 1, 2020",
+    "features": {
+      "char_sim": 0.5925925925925926,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_f8cf3e8521bb",
+    "right": "m_7b73fea1f9f3",
+    "score": 0.274,
+    "left_text": "December 31, 2020",
+    "right_text": "July 1, 2020",
+    "features": {
+      "char_sim": 0.5185185185185185,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_f8cf3e8521bb",
+    "right": "m_e95a1be7741d",
+    "score": 0.9707,
+    "left_text": "December 31, 2020",
+    "right_text": "December 31, 2020",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_f8cf3e8521bb",
+    "right": "m_24d4a58c37fc",
+    "score": 0.3108,
+    "left_text": "December 31, 2020",
+    "right_text": "June 1, 2020",
+    "features": {
+      "char_sim": 0.5925925925925926,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_f8cf3e8521bb",
+    "right": "m_3904cb2b9e49",
+    "score": 0.274,
+    "left_text": "December 31, 2020",
+    "right_text": "July 1, 2020",
+    "features": {
+      "char_sim": 0.5185185185185185,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_f8cf3e8521bb",
+    "right": "m_b4c1f31fa49b",
+    "score": 0.9707,
+    "left_text": "December 31, 2020",
+    "right_text": "December 31, 2020",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_7eb97de0c15f",
+    "right": "m_7b73fea1f9f3",
+    "score": 0.9216,
+    "left_text": "June 1, 2020",
+    "right_text": "July 1, 2020",
+    "features": {
+      "char_sim": 0.8181818181818182,
+      "token_jaccard": 0.5,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_7eb97de0c15f",
+    "right": "m_e95a1be7741d",
+    "score": 0.4021,
+    "left_text": "June 1, 2020",
+    "right_text": "December 31, 2020",
+    "features": {
+      "char_sim": 0.5925925925925926,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_7eb97de0c15f",
+    "right": "m_24d4a58c37fc",
+    "score": 0.9707,
+    "left_text": "June 1, 2020",
+    "right_text": "June 1, 2020",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_7eb97de0c15f",
+    "right": "m_3904cb2b9e49",
+    "score": 0.8873,
+    "left_text": "June 1, 2020",
+    "right_text": "July 1, 2020",
+    "features": {
+      "char_sim": 0.8181818181818182,
+      "token_jaccard": 0.5,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_7eb97de0c15f",
+    "right": "m_b4c1f31fa49b",
+    "score": 0.3108,
+    "left_text": "June 1, 2020",
+    "right_text": "December 31, 2020",
+    "features": {
+      "char_sim": 0.5925925925925926,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_7b73fea1f9f3",
+    "right": "m_e95a1be7741d",
+    "score": 0.3602,
+    "left_text": "July 1, 2020",
+    "right_text": "December 31, 2020",
+    "features": {
+      "char_sim": 0.5185185185185185,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_7b73fea1f9f3",
+    "right": "m_24d4a58c37fc",
+    "score": 0.8873,
+    "left_text": "July 1, 2020",
+    "right_text": "June 1, 2020",
+    "features": {
+      "char_sim": 0.8181818181818182,
+      "token_jaccard": 0.5,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_7b73fea1f9f3",
+    "right": "m_3904cb2b9e49",
+    "score": 0.9707,
+    "left_text": "July 1, 2020",
+    "right_text": "July 1, 2020",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_7b73fea1f9f3",
+    "right": "m_b4c1f31fa49b",
+    "score": 0.274,
+    "left_text": "July 1, 2020",
+    "right_text": "December 31, 2020",
+    "features": {
+      "char_sim": 0.5185185185185185,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_e95a1be7741d",
+    "right": "m_24d4a58c37fc",
+    "score": 0.3108,
+    "left_text": "December 31, 2020",
+    "right_text": "June 1, 2020",
+    "features": {
+      "char_sim": 0.5925925925925926,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_e95a1be7741d",
+    "right": "m_3904cb2b9e49",
+    "score": 0.274,
+    "left_text": "December 31, 2020",
+    "right_text": "July 1, 2020",
+    "features": {
+      "char_sim": 0.5185185185185185,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_e95a1be7741d",
+    "right": "m_b4c1f31fa49b",
+    "score": 0.9707,
+    "left_text": "December 31, 2020",
+    "right_text": "December 31, 2020",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_24d4a58c37fc",
+    "right": "m_3904cb2b9e49",
+    "score": 0.9216,
+    "left_text": "June 1, 2020",
+    "right_text": "July 1, 2020",
+    "features": {
+      "char_sim": 0.8181818181818182,
+      "token_jaccard": 0.5,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_24d4a58c37fc",
+    "right": "m_b4c1f31fa49b",
+    "score": 0.4021,
+    "left_text": "June 1, 2020",
+    "right_text": "December 31, 2020",
+    "features": {
+      "char_sim": 0.5925925925925926,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_3904cb2b9e49",
+    "right": "m_b4c1f31fa49b",
+    "score": 0.3602,
+    "left_text": "July 1, 2020",
+    "right_text": "December 31, 2020",
+    "features": {
+      "char_sim": 0.5185185185185185,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_58796786f1ea",
+    "right": "m_6c7b4c476f3f",
+    "score": 0.9802,
+    "left_text": "-JOINT VENTURE AGREEMENT",
+    "right_text": "JOINT VENTURE AGREEMENT",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_b06da5444031",
+    "right": "m_3cfc1eb47f82",
+    "score": 0.343,
+    "left_text": "February 28, 2004",
+    "right_text": "September 1, 2004",
+    "features": {
+      "char_sim": 0.5625,
+      "token_jaccard": 0.2,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": false
+  },
+  {
+    "left": "m_f018c0217685",
+    "right": "m_ec83db5a25c4",
+    "score": 0.9802,
+    "left_text": "the Commonwealth of Pennsylvania",
+    "right_text": "the Commonwealth of Pennsylvania",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_f018c0217685",
+    "right": "m_fbca51bf936a",
+    "score": 0.311,
+    "left_text": "the Commonwealth of Pennsylvania",
+    "right_text": "the State of California",
+    "features": {
+      "char_sim": 0.4727272727272727,
+      "token_jaccard": 0.3333333333333333,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.71875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_f018c0217685",
+    "right": "m_62cd4e874852",
+    "score": 0.311,
+    "left_text": "the Commonwealth of Pennsylvania",
+    "right_text": "the State of California",
+    "features": {
+      "char_sim": 0.4727272727272727,
+      "token_jaccard": 0.3333333333333333,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.71875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_ec83db5a25c4",
+    "right": "m_fbca51bf936a",
+    "score": 0.311,
+    "left_text": "the Commonwealth of Pennsylvania",
+    "right_text": "the State of California",
+    "features": {
+      "char_sim": 0.4727272727272727,
+      "token_jaccard": 0.3333333333333333,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.71875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_ec83db5a25c4",
+    "right": "m_62cd4e874852",
+    "score": 0.311,
+    "left_text": "the Commonwealth of Pennsylvania",
+    "right_text": "the State of California",
+    "features": {
+      "char_sim": 0.4727272727272727,
+      "token_jaccard": 0.3333333333333333,
+      "acronym_match": 0.0,
+      "same_doc": 0.0,
+      "len_ratio": 0.71875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_fbca51bf936a",
+    "right": "m_62cd4e874852",
+    "score": 0.9707,
+    "left_text": "the State of California",
+    "right_text": "the State of California",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_f334f452a16f",
+    "right": "m_8d9ae280497f",
+    "score": 0.9802,
+    "left_text": "-ENDORSEMENT AGREEMENT",
+    "right_text": "ENDORSEMENT AGREEMENT",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_8eeee868331a",
+    "right": "m_1acc3040cefb",
+    "score": 0.9802,
+    "left_text": "-STRATEGIC ALLIANCE AGREEMENT",
+    "right_text": "STRATEGIC ALLIANCE AGREEMENT",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_90e8ac934ccd",
+    "right": "m_7e10424ab444",
+    "score": 0.9287,
+    "left_text": "Adaptimmune LLC",
+    "right_text": "Adaptimmune Limited",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 0.3333333333333333,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_90e8ac934ccd",
+    "right": "m_496497b58f96",
+    "score": 0.9287,
+    "left_text": "Adaptimmune LLC",
+    "right_text": "Adaptimmune Limited",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 0.3333333333333333,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_90e8ac934ccd",
+    "right": "m_ec649b3fb95d",
+    "score": 0.9287,
+    "left_text": "Adaptimmune LLC",
+    "right_text": "Adaptimmune Limited",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 0.3333333333333333,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_7e10424ab444",
+    "right": "m_496497b58f96",
+    "score": 0.9802,
+    "left_text": "Adaptimmune Limited",
+    "right_text": "Adaptimmune Limited",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_7e10424ab444",
+    "right": "m_ec649b3fb95d",
+    "score": 0.9802,
+    "left_text": "Adaptimmune Limited",
+    "right_text": "Adaptimmune Limited",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_496497b58f96",
+    "right": "m_ec649b3fb95d",
+    "score": 0.9802,
+    "left_text": "Adaptimmune Limited",
+    "right_text": "Adaptimmune Limited",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_15dbbb5ed4aa",
+    "right": "m_00405349030b",
+    "score": 0.9802,
+    "left_text": "Texas",
+    "right_text": "Texas",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_1561d0a37711",
+    "right": "m_50138f124019",
+    "score": 0.9802,
+    "left_text": "-RESELLER AGREEMENT",
+    "right_text": "RESELLER AGREEMENT",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_6dae2f6530cf",
+    "right": "m_d8e484d9e635",
+    "score": 0.5993,
+    "left_text": "March 1, 2018",
+    "right_text": "June 1, 2018",
+    "features": {
+      "char_sim": 0.6086956521739131,
+      "token_jaccard": 0.5,
+      "acronym_match": 0.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.9166666666666666
+    },
+    "merged": false
+  },
+  {
+    "left": "m_6dae2f6530cf",
+    "right": "m_c7fb11077a27",
+    "score": 0.5909,
+    "left_text": "March 1, 2018",
+    "right_text": "September 1, 2018",
+    "features": {
+      "char_sim": 0.6428571428571429,
+      "token_jaccard": 0.5,
+      "acronym_match": 0.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.75
+    },
+    "merged": false
+  },
+  {
+    "left": "m_6dae2f6530cf",
+    "right": "m_891d65474d05",
+    "score": 0.613,
+    "left_text": "March 1, 2018",
+    "right_text": "December 1, 2018",
+    "features": {
+      "char_sim": 0.6666666666666666,
+      "token_jaccard": 0.5,
+      "acronym_match": 0.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.8
+    },
+    "merged": false
+  },
+  {
+    "left": "m_d8e484d9e635",
+    "right": "m_c7fb11077a27",
+    "score": 0.5507,
+    "left_text": "June 1, 2018",
+    "right_text": "September 1, 2018",
+    "features": {
+      "char_sim": 0.5925925925925926,
+      "token_jaccard": 0.5,
+      "acronym_match": 0.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.6875
+    },
+    "merged": false
+  },
+  {
+    "left": "m_d8e484d9e635",
+    "right": "m_891d65474d05",
+    "score": 0.5721,
+    "left_text": "June 1, 2018",
+    "right_text": "December 1, 2018",
+    "features": {
+      "char_sim": 0.6153846153846154,
+      "token_jaccard": 0.5,
+      "acronym_match": 0.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.7333333333333333
+    },
+    "merged": false
+  },
+  {
+    "left": "m_c7fb11077a27",
+    "right": "m_891d65474d05",
+    "score": 0.725,
+    "left_text": "September 1, 2018",
+    "right_text": "December 1, 2018",
+    "features": {
+      "char_sim": 0.8387096774193549,
+      "token_jaccard": 0.5,
+      "acronym_match": 0.0,
+      "same_doc": 1.0,
+      "len_ratio": 0.9375
+    },
+    "merged": true
+  },
+  {
+    "left": "m_46300fb3fe03",
+    "right": "m_31a7dc7bea7e",
+    "score": 0.9802,
+    "left_text": "-CONSULTING AGREEMENT",
+    "right_text": "CONSULTING AGREEMENT",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_46300fb3fe03",
+    "right": "m_4342bed05446",
+    "score": 0.9707,
+    "left_text": "-CONSULTING AGREEMENT",
+    "right_text": "-CONSULTING AGREEMENT",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_46300fb3fe03",
+    "right": "m_a04ca3769ced",
+    "score": 0.9707,
+    "left_text": "-CONSULTING AGREEMENT",
+    "right_text": "CONSULTING AGREEMENT",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_31a7dc7bea7e",
+    "right": "m_4342bed05446",
+    "score": 0.9707,
+    "left_text": "CONSULTING AGREEMENT",
+    "right_text": "-CONSULTING AGREEMENT",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_31a7dc7bea7e",
+    "right": "m_a04ca3769ced",
+    "score": 0.9707,
+    "left_text": "CONSULTING AGREEMENT",
+    "right_text": "CONSULTING AGREEMENT",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 0.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  },
+  {
+    "left": "m_4342bed05446",
+    "right": "m_a04ca3769ced",
+    "score": 0.9802,
+    "left_text": "-CONSULTING AGREEMENT",
+    "right_text": "CONSULTING AGREEMENT",
+    "features": {
+      "char_sim": 1.0,
+      "token_jaccard": 1.0,
+      "acronym_match": 1.0,
+      "same_doc": 1.0,
+      "len_ratio": 1.0
+    },
+    "merged": true
+  }
+]

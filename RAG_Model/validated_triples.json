@@ -1,0 +1,26 @@
+[
+  {
+    "subject": "Company A",
+    "predicate": "acquired",
+    "object": "Company B",
+    "validated": true,
+    "confidence": 0.95,
+    "source": "stage7_validation.txt"
+  },
+  {
+    "subject": "Company B",
+    "predicate": "headquartered_in",
+    "object": "Berlin",
+    "validated": true,
+    "confidence": 0.91,
+    "source": "stage7_validation.txt"
+  },
+  {
+    "subject": "Company A",
+    "predicate": "ceo",
+    "object": "Person D",
+    "validated": true,
+    "confidence": 0.88,
+    "source": "stage7_validation.txt"
+  }
+]

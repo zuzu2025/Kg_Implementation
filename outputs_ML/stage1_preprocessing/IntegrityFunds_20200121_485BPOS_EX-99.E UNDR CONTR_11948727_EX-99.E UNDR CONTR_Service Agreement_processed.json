@@ -1,5 +1,7 @@
 {
   "filename": "IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement.txt",
+  "source_path": "data\\IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement.txt",
+  "sha256": "2135a565bb91e5f7a162f64ff162e18cb9e1235993c1874be87ccdf5060e0f04",
   "num_sentences": 65,
   "num_chunks": 9,
   "chunks": [

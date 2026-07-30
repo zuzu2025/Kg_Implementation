@@ -1,5 +1,7 @@
 {
   "filename": "GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt",
+  "source_path": "data\\GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt",
+  "sha256": "9915baf3632fcf879008f7240a9f8047f8da3a88d2fd9808a0f492004ac009fa",
   "num_sentences": 200,
   "num_chunks": 25,
   "chunks": [

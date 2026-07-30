@@ -14,6 +14,23 @@ nlp = spacy.load("en_core_web_sm")
 # ALGORITHM 1 — HOBBS ALGORITHM
 # ══════════════════════════════════════════════════════
 
+_NON_REFERENTIAL_ENT_TYPES = {'DATE', 'TIME', 'CARDINAL', 'QUANTITY', 'ORDINAL', 'MONEY', 'PERCENT'}
+
+def _is_referential_chunk(chunk, doc):
+    """
+    Exclude noun phrases that are dates, durations, quantities, or money
+    amounts from being coreference candidates. A phrase like "30 days" or
+    "2 years" trivially satisfies the crude plural heuristic (ends in 's'),
+    which was letting pronouns like "They" wrongly resolve to a duration
+    instead of an actual party/entity. Pronouns in these contracts almost
+    never refer back to a quantity or date, so these are filtered out at
+    the source rather than patched downstream in each consumer.
+    """
+    for ent in doc.ents:
+        if ent.start < chunk.end and ent.end > chunk.start and ent.label_ in _NON_REFERENTIAL_ENT_TYPES:
+            return False
+    return True
+
 def get_noun_phrases(doc):
     """
     Extract all noun phrases from a spaCy doc.
@@ -25,6 +42,8 @@ def get_noun_phrases(doc):
     """
     noun_phrases = []
     for chunk in doc.noun_chunks:
+        if not _is_referential_chunk(chunk, doc):
+            continue
         noun_phrases.append({
             "text": chunk.text,
             "start": chunk.start,
@@ -35,10 +54,25 @@ def get_noun_phrases(doc):
     return noun_phrases
 
 def is_pronoun(token):
-    """Check if a token is a pronoun that needs resolution"""
-    pronouns = {'it', 'its', 'they', 'them', 'their', 'he', 'she', 
-                'his', 'her', 'this', 'that', 'these', 'those'}
-    return token.text.lower() in pronouns
+    """
+    Check if a token is a pronoun that needs resolution.
+
+    Demonstratives ('this', 'that', 'these', 'those') are only treated as
+    pronouns needing resolution when spaCy's POS tagger marks them PRON
+    (standalone use, e.g. "This happened last year"). As a determiner
+    ('this Agreement', 'that party') they modify a following noun and
+    aren't themselves a referential pronoun — previously "this" in "this
+    Agreement" was being resolved as if it needed an antecedent, which
+    is a category error (a determiner isn't anaphoric).
+    """
+    true_pronouns = {'it', 'its', 'they', 'them', 'their', 'he', 'she', 'his', 'her'}
+    demonstratives = {'this', 'that', 'these', 'those'}
+    text = token.text.lower()
+    if text in true_pronouns:
+        return True
+    if text in demonstratives:
+        return token.pos_ == 'PRON'
+    return False
 
 def hobbs_resolve(pronoun_token, doc, noun_phrases):
     """
@@ -183,58 +217,71 @@ def extract_mention_features(mention1, mention2, doc):
         len_diff
     ]
 
-def generate_training_pairs(texts, max_texts=50):
+def generate_training_pairs(texts, max_texts=100):
     """
-    Generate synthetic training pairs for SVM.
-    
-    Since we have no labeled coreference data,
-    we use HEURISTIC labeling:
-    
-    POSITIVE pairs (coreferent = same entity):
-    - Exact string matches
-    - Pronoun + nearest preceding noun phrase
-    - Substring matches (e.g. "Google" and "Google LLC")
-    
-    NEGATIVE pairs (not coreferent):
-    - Mentions far apart with no word overlap
-    - Different entity types (date vs company name)
+    Generate training pairs for the SVM using the Hobbs algorithm's output
+    as weak (distant) supervision, instead of literal exact-match /
+    substring-match / word-overlap rules.
+
+    Why the change: the original version labeled a pair POSITIVE using
+    exact_match, substring_match, and jaccard word overlap — and then fed
+    those exact same signals back in as SVM features. The classifier only
+    had to re-derive its own labeling rule, which is why it scored a
+    suspicious 1.00 F1 across the board: it wasn't learning coreference,
+    it was learning to reproduce the rule that generated its own labels.
+
+    Hobbs makes its antecedent choice using number agreement + structural
+    left-to-right proximity — a decision process independent of the SVM's
+    literal feature values — so using it as the label source breaks that
+    circularity.
+
+    POSITIVE: (pronoun, antecedent Hobbs selected)
+    NEGATIVE: (pronoun, other candidates Hobbs considered but did NOT
+               select) — hard negatives, since they were live candidates
+               in the same window rather than random unrelated text.
+
+    This also fixes a train/inference mismatch in the original code: the
+    SVM is used at inference time ONLY on (pronoun, preceding noun phrase)
+    pairs (see run_svm_coref), but was previously trained on generic
+    noun-phrase-to-noun-phrase pairs that don't match that distribution.
     """
     positive_pairs = []
     negative_pairs = []
-    
+
     for text in texts[:max_texts]:
         doc = nlp(text[:5000])
         noun_phrases = get_noun_phrases(doc)
-        
+
         if len(noun_phrases) < 2:
             continue
-        
-        for i in range(len(noun_phrases)):
-            for j in range(i+1, min(i+10, len(noun_phrases))):
-                m1 = noun_phrases[i]
-                m2 = noun_phrases[j]
-                
-                text1 = m1["text"].lower()
-                text2 = m2["text"].lower()
-                words1 = set(text1.split())
-                words2 = set(text2.split())
-                
-                features = extract_mention_features(m1, m2, doc)
-                
-                # Heuristic positive: exact match or substring
-                if text1 == text2 or text1 in text2 or text2 in text1:
+
+        for token in doc:
+            if not is_pronoun(token):
+                continue
+
+            pronoun_mention = {
+                "text": token.text,
+                "start": token.i,
+                "end": token.i + 1
+            }
+
+            # Same candidate window used at inference time in run_svm_coref
+            candidates = [np for np in noun_phrases if np["end"] <= token.i]
+            candidates = candidates[-10:]
+            if not candidates:
+                continue
+
+            chosen_text = hobbs_resolve(token, doc, noun_phrases)
+            if chosen_text is None:
+                continue
+
+            for cand in candidates:
+                features = extract_mention_features(pronoun_mention, cand, doc)
+                if cand["text"] == chosen_text:
                     positive_pairs.append(features)
-                
-                # Heuristic positive: high word overlap + close distance
-                elif (len(words1 & words2) > 0 and 
-                      abs(m1["start"] - m2["start"]) < 15):
-                    positive_pairs.append(features)
-                
-                # Heuristic negative: no word overlap + far apart
-                elif (len(words1 & words2) == 0 and 
-                      abs(m1["start"] - m2["start"]) > 30):
+                else:
                     negative_pairs.append(features)
-    
+
     return positive_pairs, negative_pairs
 
 def train_svm_coref(texts):
@@ -293,11 +340,8 @@ def run_svm_coref(text, svm_model):
     noun_phrases = get_noun_phrases(doc)
     resolutions = []
     
-    pronouns = {'it', 'its', 'they', 'them', 'their', 
-                'he', 'she', 'this', 'that', 'these', 'those'}
-    
     for token in doc:
-        if token.text.lower() not in pronouns:
+        if not is_pronoun(token):
             continue
         
         pronoun_mention = {

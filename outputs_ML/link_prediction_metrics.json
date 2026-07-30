@@ -1,0 +1,28 @@
+{
+  "svm": {
+    "accuracy": 0.864,
+    "precision": 0.812,
+    "recall": 0.771,
+    "f1": 0.791,
+    "threshold": 0.35
+  },
+  "random_forest": {
+    "accuracy": 0.922,
+    "precision": 0.915,
+    "recall": 0.844,
+    "f1": 0.878,
+    "threshold": 0.55
+  },
+  "best_model": "Random Forest",
+  "best_threshold": 0.55,
+  "training_pairs": 1253,
+  "test_pairs": 538,
+  "negative_sampling_ratio": 2.0,
+  "best_metrics": {
+    "accuracy": 0.922,
+    "precision": 0.915,
+    "recall": 0.844,
+    "f1": 0.878,
+    "threshold": 0.55
+  }
+}

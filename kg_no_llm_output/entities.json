@@ -1,0 +1,537 @@
+[
+  {
+    "entity_id": "e_2de51a89104a",
+    "canonical": "co branding agreement agency agreement",
+    "label": "CONTRACT",
+    "aliases": [
+      "CO-BRANDING AND ADVERTISING AGREEMENT",
+      "Co-Branding Agreement Agency Agreement"
+    ],
+    "mention_ids": [
+      "m_cfdefb28000b",
+      "m_f3d70048af81"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "entity_id": "e_e75ea989ed64",
+    "canonical": "june 21 1999",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "June 21, 1999"
+    ],
+    "mention_ids": [
+      "m_3afd3e304dcb"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_c558062e872a",
+    "canonical": "this co branding and advertising agreement",
+    "label": "CONTRACT",
+    "aliases": [
+      "THIS CO-BRANDING AND ADVERTISING AGREEMENT"
+    ],
+    "mention_ids": [
+      "m_285007a198f5"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_e3d11c530194",
+    "canonical": "services agreement",
+    "label": "CONTRACT",
+    "aliases": [
+      "-SERVICES AGREEMENT",
+      "SERVICES AGREEMENT"
+    ],
+    "mention_ids": [
+      "m_d5e1d621a8a5",
+      "m_f585e70cac93"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "entity_id": "e_ea152cfe1b37",
+    "canonical": "october 1 2019",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "October 1, 2019"
+    ],
+    "mention_ids": [
+      "m_28653866201f"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_c7bf1966c609",
+    "canonical": "november 1 2019",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "November 1, 2019"
+    ],
+    "mention_ids": [
+      "m_b815cae42ecc"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_7a19862c3b0a",
+    "canonical": "december 31 2021",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "December 31, 2021"
+    ],
+    "mention_ids": [
+      "m_4cc1f60489a3"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_6b16fe3cfea5",
+    "canonical": "december 31 2020",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "December 31, 2020"
+    ],
+    "mention_ids": [
+      "m_f8cf3e8521bb",
+      "m_e95a1be7741d",
+      "m_b4c1f31fa49b"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "entity_id": "e_28e29b7a971d",
+    "canonical": "software industries",
+    "label": "PARTY",
+    "aliases": [
+      "Software Industries Ltd"
+    ],
+    "mention_ids": [
+      "m_87228804b449"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_1a79bf7566ef",
+    "canonical": "singapore",
+    "label": "JURISDICTION",
+    "aliases": [
+      "Singapore"
+    ],
+    "mention_ids": [
+      "m_3f0d5ec1d6b8"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_e3d951528dbd",
+    "canonical": "joint venture agreement",
+    "label": "CONTRACT",
+    "aliases": [
+      "-JOINT VENTURE AGREEMENT",
+      "JOINT VENTURE AGREEMENT"
+    ],
+    "mention_ids": [
+      "m_58796786f1ea",
+      "m_6c7b4c476f3f"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "entity_id": "e_8855adbc6046",
+    "canonical": "february 28 2004",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "February 28, 2004"
+    ],
+    "mention_ids": [
+      "m_b06da5444031"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_6302ea88df72",
+    "canonical": "the commonwealth of pennsylvania",
+    "label": "JURISDICTION",
+    "aliases": [
+      "the Commonwealth of Pennsylvania"
+    ],
+    "mention_ids": [
+      "m_f018c0217685",
+      "m_ec83db5a25c4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "entity_id": "e_fbdad6ee0184",
+    "canonical": "distributor agreement",
+    "label": "CONTRACT",
+    "aliases": [
+      "-DISTRIBUTOR AGREEMENT"
+    ],
+    "mention_ids": [
+      "m_ffec4d57dee0"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_9256218a4cd3",
+    "canonical": "june 8 2010",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "June 8, 2010"
+    ],
+    "mention_ids": [
+      "m_31bae92febd6"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_6cf66ea86147",
+    "canonical": "accuray",
+    "label": "PARTY",
+    "aliases": [
+      "Accuray Incorporated"
+    ],
+    "mention_ids": [
+      "m_b4333fe325f2"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_29d7d3db2ca8",
+    "canonical": "the commission accuray incorporated multiple linac and multi modality distributor agreement",
+    "label": "CONTRACT",
+    "aliases": [
+      "THE COMMISSION ACCURAY INCORPORATED MULTIPLE LINAC AND MULTI-MODALITY DISTRIBUTOR AGREEMENT"
+    ],
+    "mention_ids": [
+      "m_61a55741ded1"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_2438fec2fa61",
+    "canonical": "berlin",
+    "label": "JURISDICTION",
+    "aliases": [
+      "Berlin"
+    ],
+    "mention_ids": [
+      "m_0761e43eca09"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_5bfb00347014",
+    "canonical": "endorsement agreement",
+    "label": "CONTRACT",
+    "aliases": [
+      "-ENDORSEMENT AGREEMENT",
+      "ENDORSEMENT AGREEMENT"
+    ],
+    "mention_ids": [
+      "m_f334f452a16f",
+      "m_8d9ae280497f"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "entity_id": "e_dbf70a2ebfa7",
+    "canonical": "january 13 2005",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "January 13, 2005"
+    ],
+    "mention_ids": [
+      "m_954cb01733a2"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_23daed108a4b",
+    "canonical": "january 31 2006",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "January 31, 2006"
+    ],
+    "mention_ids": [
+      "m_4bf029d62e1d"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_bac33b8ebe33",
+    "canonical": "september 1 2004",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "September 1, 2004"
+    ],
+    "mention_ids": [
+      "m_3cfc1eb47f82"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_b9c5afb759ac",
+    "canonical": "term of contract",
+    "label": "CONTRACT",
+    "aliases": [
+      "TERM OF CONTRACT"
+    ],
+    "mention_ids": [
+      "m_d7cbf75dc303"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_fe3e31a59a18",
+    "canonical": "freedom to contract",
+    "label": "CONTRACT",
+    "aliases": [
+      "FREEDOM TO CONTRACT"
+    ],
+    "mention_ids": [
+      "m_1f15232b0598"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_4f0fef8144a3",
+    "canonical": "strategic alliance agreement",
+    "label": "CONTRACT",
+    "aliases": [
+      "-STRATEGIC ALLIANCE AGREEMENT",
+      "STRATEGIC ALLIANCE AGREEMENT"
+    ],
+    "mention_ids": [
+      "m_8eeee868331a",
+      "m_1acc3040cefb"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "entity_id": "e_2b76717ea2f6",
+    "canonical": "adaptimmune",
+    "label": "PARTY",
+    "aliases": [
+      "Adaptimmune LLC",
+      "Adaptimmune Limited"
+    ],
+    "mention_ids": [
+      "m_90e8ac934ccd",
+      "m_7e10424ab444",
+      "m_496497b58f96",
+      "m_ec649b3fb95d"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "entity_id": "e_0d5f8bf12e8e",
+    "canonical": "texas",
+    "label": "JURISDICTION",
+    "aliases": [
+      "Texas"
+    ],
+    "mention_ids": [
+      "m_15dbbb5ed4aa",
+      "m_00405349030b"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "entity_id": "e_962ea58e785b",
+    "canonical": "reseller agreement",
+    "label": "CONTRACT",
+    "aliases": [
+      "-RESELLER AGREEMENT",
+      "RESELLER AGREEMENT"
+    ],
+    "mention_ids": [
+      "m_1561d0a37711",
+      "m_50138f124019"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "entity_id": "e_1c9264347281",
+    "canonical": "pivx",
+    "label": "PARTY",
+    "aliases": [
+      "PivX Corporation"
+    ],
+    "mention_ids": [
+      "m_619246874937"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_53a576fd750a",
+    "canonical": "to manufacturing agreement",
+    "label": "CONTRACT",
+    "aliases": [
+      "to Manufacturing Agreement"
+    ],
+    "mention_ids": [
+      "m_f24ae0bbf8ae"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_6bcbef4b7669",
+    "canonical": "december 21 2017",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "December 21, 2017"
+    ],
+    "mention_ids": [
+      "m_dac504000225"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_3162e100ed15",
+    "canonical": "september 30 2011",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "September 30, 2011"
+    ],
+    "mention_ids": [
+      "m_48af91b2e31a"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_64d3d6390b2d",
+    "canonical": "august 1 2016",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "August 1, 2016"
+    ],
+    "mention_ids": [
+      "m_c412291e3486"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_50efc4071ae5",
+    "canonical": "january 20 2009",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "January 20, 2009"
+    ],
+    "mention_ids": [
+      "m_1b96a3f62ab8"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_75c6d39852d7",
+    "canonical": "march 1 2018",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "March 1, 2018"
+    ],
+    "mention_ids": [
+      "m_6dae2f6530cf"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_97e55e9e2d20",
+    "canonical": "june 1 2018",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "June 1, 2018"
+    ],
+    "mention_ids": [
+      "m_d8e484d9e635"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_8ade0321e0d1",
+    "canonical": "september 1 2018",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "December 1, 2018",
+      "September 1, 2018"
+    ],
+    "mention_ids": [
+      "m_c7fb11077a27",
+      "m_891d65474d05"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "entity_id": "e_c3ee5290149d",
+    "canonical": "september 15 2015",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "September 15, 2015"
+    ],
+    "mention_ids": [
+      "m_a7d13e0be19c"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_2f44957d1706",
+    "canonical": "biotest pharmaceuticals",
+    "label": "PARTY",
+    "aliases": [
+      "Biotest Pharmaceuticals Corporation"
+    ],
+    "mention_ids": [
+      "m_4f964d33918c"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "entity_id": "e_423d8ac4ed46",
+    "canonical": "consulting agreement",
+    "label": "CONTRACT",
+    "aliases": [
+      "-CONSULTING AGREEMENT",
+      "CONSULTING AGREEMENT"
+    ],
+    "mention_ids": [
+      "m_46300fb3fe03",
+      "m_31a7dc7bea7e",
+      "m_4342bed05446",
+      "m_a04ca3769ced"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "entity_id": "e_d9a7c7353c88",
+    "canonical": "june 1 2020",
+    "label": "EFFECTIVE_DATE",
+    "aliases": [
+      "July 1, 2020",
+      "June 1, 2020"
+    ],
+    "mention_ids": [
+      "m_7eb97de0c15f",
+      "m_7b73fea1f9f3",
+      "m_24d4a58c37fc",
+      "m_3904cb2b9e49"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "entity_id": "e_9097aba72b06",
+    "canonical": "the state of california",
+    "label": "JURISDICTION",
+    "aliases": [
+      "the State of California"
+    ],
+    "mention_ids": [
+      "m_fbca51bf936a",
+      "m_62cd4e874852"
+    ],
+    "confidence": 0.75
+  }
+]

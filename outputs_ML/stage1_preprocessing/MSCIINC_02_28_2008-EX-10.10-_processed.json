@@ -1,5 +1,7 @@
 {
   "filename": "MSCIINC_02_28_2008-EX-10.10-.txt",
+  "source_path": "data\\MSCIINC_02_28_2008-EX-10.10-.txt",
+  "sha256": "f9315155cae492ba772b8a5f69d8fcefbe1f70d0358eb402fd67a7dff4b3022e",
   "num_sentences": 68,
   "num_chunks": 9,
   "chunks": [

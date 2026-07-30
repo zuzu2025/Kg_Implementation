@@ -1,0 +1,20 @@
+{
+  "stage5_unique_input_triples": 702,
+  "original_validated": 481,
+  "original_rejected": 221,
+  "original_pass_rate": 68.5,
+  "repair_candidates": 221,
+  "repair_attempted": 130,
+  "repaired_validated_unique_output": 117,
+  "original_rejected_repaired_successfully": 130,
+  "repaired_still_rejected": 91,
+  "stage5_unique_resolved_triples": 611,
+  "post_repair_pass_rate": 87.0,
+  "stage5_unique_resolution_rate": 87.0,
+  "unique_output_pass_rate": 87.0,
+  "repair_failure_reasons": {
+    "unrepairable_schema_violation": 68,
+    "artifact_entity": 20,
+    "empty_or_self": 3
+  }
+}

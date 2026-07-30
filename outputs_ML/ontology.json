@@ -1,16 +1,16 @@
 {
   "entity_types": [
-    "EFFECTIVE_DATE",
-    "CONTRACT",
     "JURISDICTION",
-    "NOTICE",
+    "CONTRACT",
+    "PARTY",
+    "EFFECTIVE_DATE",
     "DATE"
   ],
   "relation_categories": {
     "REL_CLUSTER_0": {
-      "category": "INDICATED_BY",
+      "category": "HAS",
       "predicates": [
-        "indicated by"
+        "having at"
       ]
     },
     "REL_CLUSTER_1": {
@@ -20,31 +20,35 @@
       ]
     },
     "REL_CLUSTER_2": {
-      "category": "HAS",
+      "category": "EFFECTIVE_ON",
       "predicates": [
-        "have"
+        "dated"
       ]
     },
     "REL_CLUSTER_3": {
-      "category": "OTHER",
+      "category": "HAS",
       "predicates": [
-        "to",
-        "to time thereunder"
+        "holding"
       ]
     },
     "REL_CLUSTER_4": {
-      "category": "OTHER",
+      "category": "IS_A",
       "predicates": [
-        "identified by",
-        "\u00a7",
-        "formed under",
-        "("
+        "2020 , effective as of",
+        "indicated by",
+        "located at",
+        "per share",
+        "this"
       ]
     },
     "REL_CLUSTER_5": {
-      "category": "OTHER",
+      "category": "PARTY_OF",
       "predicates": [
-        "obtain"
+        "and maintenance agreement between",
+        "between",
+        "by and between airsopure international",
+        "by and between arca u.s.",
+        "by and between"
       ]
     }
   },
@@ -53,63 +57,135 @@
       "subject": "PARTY",
       "relation": "EFFECTIVE_ON",
       "object": "PARTY",
-      "frequency": 227,
+      "frequency": 845,
+      "support": 0.7204,
+      "confidence": 0.8811,
+      "induced": true
+    },
+    {
+      "subject": "PARTY",
+      "relation": "ENTERED_INTO",
+      "object": "PARTY",
+      "frequency": 93,
+      "support": 0.5924,
+      "confidence": 0.9394,
       "induced": true
     },
     {
       "subject": "CONTRACT",
-      "relation": "EFFECTIVE_ON",
+      "relation": "ENTERED_INTO",
       "object": "PARTY",
-      "frequency": 136,
+      "frequency": 33,
+      "support": 0.2102,
+      "confidence": 0.8919,
+      "induced": true
+    },
+    {
+      "subject": "PARTY",
+      "relation": "GOVERNED_BY",
+      "object": "PARTY",
+      "frequency": 38,
+      "support": 0.9268,
+      "confidence": 1.0,
       "induced": true
     },
     {
       "subject": "PARTY",
       "relation": "HAS",
       "object": "PARTY",
-      "frequency": 616,
-      "induced": true
-    },
-    {
-      "subject": "PARTY",
-      "relation": "HAS",
-      "object": "DATE",
-      "frequency": 14,
-      "induced": true
-    },
-    {
-      "subject": "PARTY",
-      "relation": "INDICATED_BY",
-      "object": "PARTY",
-      "frequency": 334,
-      "induced": true
-    },
-    {
-      "subject": "PARTY",
-      "relation": "INDICATED_BY",
-      "object": "CONTRACT",
-      "frequency": 26,
+      "frequency": 680,
+      "support": 0.9164,
+      "confidence": 0.9328,
       "induced": true
     },
     {
       "subject": "PARTY",
       "relation": "IS_A",
       "object": "PARTY",
-      "frequency": 1346,
+      "frequency": 368,
+      "support": 0.3669,
+      "confidence": 0.8679,
       "induced": true
     },
     {
       "subject": "CONTRACT",
       "relation": "IS_A",
       "object": "PARTY",
-      "frequency": 130,
+      "frequency": 246,
+      "support": 0.2453,
+      "confidence": 0.6074,
+      "induced": true
+    },
+    {
+      "subject": "EFFECTIVE_DATE",
+      "relation": "IS_A",
+      "object": "PARTY",
+      "frequency": 121,
+      "support": 0.1206,
+      "confidence": 0.9918,
+      "induced": true
+    },
+    {
+      "subject": "PARTY",
+      "relation": "LOCATED_IN",
+      "object": "PARTY",
+      "frequency": 36,
+      "support": 1.0,
+      "confidence": 1.0,
+      "induced": true
+    },
+    {
+      "subject": "PARTY",
+      "relation": "ORGANIZED_UNDER",
+      "object": "PARTY",
+      "frequency": 39,
+      "support": 1.0,
+      "confidence": 1.0,
+      "induced": true
+    },
+    {
+      "subject": "CONTRACT",
+      "relation": "PARTY_OF",
+      "object": "PARTY",
+      "frequency": 94,
+      "support": 0.4541,
+      "confidence": 0.9691,
+      "induced": true
+    },
+    {
+      "subject": "DATE",
+      "relation": "PARTY_OF",
+      "object": "PARTY",
+      "frequency": 53,
+      "support": 0.256,
+      "confidence": 1.0,
+      "induced": true
+    },
+    {
+      "subject": "EFFECTIVE_DATE",
+      "relation": "PARTY_OF",
+      "object": "PARTY",
+      "frequency": 29,
+      "support": 0.1401,
+      "confidence": 1.0,
+      "induced": true
+    },
+    {
+      "subject": "PARTY",
+      "relation": "REFERRED_TO_AS",
+      "object": "PARTY",
+      "frequency": 24,
+      "support": 0.6667,
+      "confidence": 0.7742,
       "induced": true
     },
     {
       "subject": "PARTY",
       "relation": "REQUESTED_BY",
       "object": "PARTY",
-      "frequency": 22,
+      "frequency": 23,
+      "support": 0.9583,
+      "confidence": 0.9583,
       "induced": true
     }
   ],
@@ -120,6 +196,8 @@
     "entity_clusters_hac": 8,
     "relation_clusters_kmeans": 6,
     "relation_clusters_hac": 6,
-    "domain_rules_induced": true
+    "domain_rules_induced": true,
+    "domain_rule_min_support": 0.08,
+    "relation_rule_min_confidence": 0.6
   }
 }

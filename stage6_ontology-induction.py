@@ -1,5 +1,7 @@
 import json
 import os
+import re
+import random
 import numpy as np
 from collections import defaultdict, Counter
 from sklearn.cluster import KMeans, AgglomerativeClustering
@@ -23,7 +25,7 @@ def load_entities(path):
             entities.append(entity)
     return entities
 
-def build_entity_tfidf(entities, max_per_type=500):
+def build_entity_tfidf(entities, max_per_type=500, max_words=8):
     """
     Convert entity mentions to TF-IDF vectors.
     Each entity mention = one document.
@@ -32,29 +34,77 @@ def build_entity_tfidf(entities, max_per_type=500):
     # Sample entities per type for balance
     by_type = defaultdict(list)
     for e in entities:
-        by_type[e["label"]].append(e["text"])
-    
+        text = clean_text(e.get("text", ""))
+        label = e.get("label", "UNKNOWN")
+        if is_informative_mention(text):
+            by_type[label].append(text)
+
     sampled_texts = []
     sampled_labels = []
-    
+
     for label, texts in by_type.items():
-        sample = texts[:max_per_type]
+        # Entity mentions here range from short canonical forms
+        # ("Agreement", "OTS") to full 50+ word clauses (JURISDICTION
+        # spans are often an entire governing-law sentence). Mixed
+        # together, TF-IDF ends up clustering the long spans by shared
+        # legal boilerplate ("shall", "the parties", "and") rather than
+        # by type-distinctive vocabulary, which collapses every type into
+        # one mixed dumping-ground cluster. Preferring short mentions
+        # keeps the type-discovery signal clean; only fall back to longer
+        # spans if a type genuinely has too few short mentions to sample.
+        short_texts = [t for t in texts if len(t.split()) <= max_words]
+        pool = short_texts if len(short_texts) >= min(50, max_per_type) else texts
+        if len(pool) > max_per_type:
+            rng = random.Random(42)
+            sample = rng.sample(pool, max_per_type)
+        else:
+            sample = pool
         sampled_texts.extend(sample)
         sampled_labels.extend([label] * len(sample))
-    
+
     print(f"Building TF-IDF vectors for {len(sampled_texts)} entities...")
-    
+
     vectorizer = TfidfVectorizer(
         analyzer='word',
-        ngram_range=(1, 2),
-        max_features=500,
-        min_df=2
+        ngram_range=(1, 3),
+        max_features=1000,
+        min_df=2,
+        sublinear_tf=True
     )
-    
+
     X = vectorizer.fit_transform(sampled_texts)
     X = normalize(X)  # normalize for better clustering
-    
+
     return X, sampled_labels, sampled_texts, vectorizer
+
+
+def clean_text(value):
+    return re.sub(r"\s+", " ", str(value or "")).strip()
+
+
+def is_informative_mention(text):
+    """Remove fragments that usually hurt clustering and downstream F1."""
+    if not text or len(text) < 2:
+        return False
+    if len(text) == 1:
+        return False
+    if re.fullmatch(r"[\W_]+", text):
+        return False
+    return True
+
+
+def cluster_quality(cluster_labels, original_labels):
+    clusters = defaultdict(list)
+    for cluster_id, label in zip(cluster_labels, original_labels):
+        clusters[cluster_id].append(label)
+
+    correct = 0
+    total = 0
+    for labels in clusters.values():
+        counts = Counter(labels)
+        correct += counts.most_common(1)[0][1]
+        total += len(labels)
+    return correct / total if total else 0.0
 
 def cluster_entities_kmeans(X, n_clusters=8):
     """
@@ -171,16 +221,31 @@ def build_relation_tfidf(relations, max_relations=5000):
     Each predicate = one document.
     Clustering discovers higher-level relation categories.
     """
-    sampled = relations[:max_relations]
-    predicates = [r["predicate"] for r in sampled]
+    filtered = [
+        r for r in relations
+        if r.get("relation", "OTHER") != "OTHER"
+        and is_informative_mention(r.get("predicate", ""))
+        and is_informative_mention(r.get("entity1", ""))
+        and is_informative_mention(r.get("entity2", ""))
+    ]
+    if len(filtered) > max_relations:
+        # Random sample instead of filtered[:max_relations] — taking the
+        # first N is still order-biased toward whichever contracts were
+        # processed first in stage5. A fixed seed keeps this reproducible.
+        rng = random.Random(42)
+        sampled = rng.sample(filtered, max_relations)
+    else:
+        sampled = filtered
+    predicates = [clean_text(r["predicate"]).lower() for r in sampled]
     relation_types = [r["relation"] for r in sampled]
     
     print(f"\nBuilding TF-IDF vectors for {len(predicates)} relation predicates...")
     
     vectorizer = TfidfVectorizer(
         analyzer='char_wb',  # character n-grams — better for short predicates
-        ngram_range=(2, 4),
-        max_features=300
+        ngram_range=(2, 5),
+        max_features=600,
+        sublinear_tf=True
     )
     
     X = vectorizer.fit_transform(predicates)
@@ -250,7 +315,7 @@ def analyze_relation_clusters(cluster_labels, predicates, relation_types, algori
         }
     
     return ontology_relations
-def induce_domain_rules(relations_path, min_count=10):
+def induce_domain_rules(relations_path, min_count=5, min_support=0.08, min_confidence=0.60):
     """
     Automatically induce domain rules from relation data.
     
@@ -269,6 +334,8 @@ def induce_domain_rules(relations_path, min_count=10):
         relation_type = rel.get("relation", "OTHER")
         if relation_type == "OTHER":
             continue
+        if not is_informative_mention(rel.get("entity1", "")) or not is_informative_mention(rel.get("entity2", "")):
+            continue
         
         label1 = rel.get("label1", "UNKNOWN")
         label2 = rel.get("label2", "UNKNOWN")
@@ -283,21 +350,27 @@ def induce_domain_rules(relations_path, min_count=10):
     print("=" * 50)
     
     for relation_type, pair_counts in sorted(rule_counts.items()):
-        # Get top 2 most frequent pairs for this relation
-        top_pairs = pair_counts.most_common(2)
+        relation_total = sum(pair_counts.values())
+        top_pairs = pair_counts.most_common(3)
         
         print(f"\n{relation_type}:")
         for (subj_type, obj_type), count in top_pairs:
-            if count >= min_count:
+            support = count / relation_total if relation_total else 0.0
+            subject_total = sum(c for (s, _), c in pair_counts.items() if s == subj_type)
+            confidence = count / max(subject_total, 1)
+            if count >= min_count and support >= min_support and confidence >= min_confidence:
                 rule = {
                     "subject": subj_type,
                     "relation": relation_type,
                     "object": obj_type,
                     "frequency": count,
+                    "support": round(support, 4),
+                    "confidence": round(confidence, 4),
                     "induced": True  # flag as data-driven
                 }
                 domain_rules.append(rule)
-                print(f"  {subj_type} --[{relation_type}]--> {obj_type} ({count} times)")
+                print(f"  {subj_type} --[{relation_type}]--> {obj_type} "
+                      f"({count} times, support={support:.2f}, confidence={confidence:.2f})")
     
     print(f"\nTotal induced rules: {len(domain_rules)}")
     return domain_rules
@@ -334,7 +407,9 @@ def build_ontology(entity_clusters_kmeans, entity_clusters_hac,
             "entity_clusters_hac": len(entity_clusters_hac),
             "relation_clusters_kmeans": len(relation_clusters_kmeans),
             "relation_clusters_hac": len(relation_clusters_hac),
-            "domain_rules_induced": True
+            "domain_rules_induced": True,
+            "domain_rule_min_support": 0.08,
+            "relation_rule_min_confidence": 0.60
         }
     }
     

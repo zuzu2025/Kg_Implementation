@@ -1,0 +1,625 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Docket — local contract search</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --desk: #1B1F1C;
+    --desk-raised: #232722;
+    --folder: #D9CBAA;
+    --folder-dark: #C4B48D;
+    --ink: #241F17;
+    --paper-text: #EAE4D3;
+    --paper-text-dim: #A8A190;
+    --oxblood: #8A3A32;
+    --oxblood-bright: #B24A3F;
+    --brass: #B4903F;
+    --line: rgba(217, 203, 170, 0.16);
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--desk);
+    color:var(--paper-text);
+    font-family:'Inter', sans-serif;
+    min-height:100vh;
+  }
+  .wrap{max-width:1080px;margin:0 auto;padding:48px 24px 80px;}
+
+  header{margin-bottom:36px;}
+  .wordmark{
+    font-family:'Fraunces', serif;
+    font-weight:700;
+    font-size:2.6rem;
+    letter-spacing:0.01em;
+    color:var(--paper-text);
+    margin:0;
+    display:inline-block;
+    border-bottom:3px solid var(--oxblood);
+    padding-bottom:4px;
+  }
+  .subhead{
+    margin:14px 0 0;
+    color:var(--paper-text-dim);
+    font-size:0.95rem;
+    max-width:52ch;
+    line-height:1.5;
+  }
+
+  /* --- search ticket --- */
+  .search-shell{
+    position:relative;
+    margin-top:36px;
+  }
+  .ticket{
+    background:var(--folder);
+    border-radius:10px 10px 4px 4px;
+    padding:4px;
+    box-shadow:0 12px 28px rgba(0,0,0,0.35);
+  }
+  .ticket-inner{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    padding:14px 18px;
+  }
+  .ticket-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.72rem;
+    letter-spacing:0.08em;
+    color:var(--oxblood);
+    text-transform:uppercase;
+    white-space:nowrap;
+  }
+  #q{
+    flex:1;
+    border:none;
+    background:transparent;
+    font-family:'Inter', sans-serif;
+    font-size:1.05rem;
+    color:var(--ink);
+    outline:none;
+  }
+  #q::placeholder{color:#8a806a;}
+  .perforation{
+    height:10px;
+    background:
+      radial-gradient(circle at 12px 0, var(--desk) 5px, transparent 5.5px) repeat-x;
+    background-size: 24px 10px;
+    background-position: 6px -5px;
+  }
+
+  .suggestions{
+    position:absolute;
+    left:4px; right:4px; top:calc(100% + 8px);
+    background:var(--desk-raised);
+    border:1px solid var(--line);
+    border-radius:8px;
+    overflow:hidden;
+    z-index:20;
+    box-shadow:0 16px 32px rgba(0,0,0,0.45);
+    display:none;
+  }
+  .suggestions.open{display:block;animation:dropIn 0.15s ease-out;}
+  @keyframes dropIn{from{opacity:0;transform:translateY(-4px);}to{opacity:1;transform:translateY(0);}}
+  .sugg-item{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:10px;
+    padding:10px 16px;
+    cursor:pointer;
+    border-bottom:1px solid var(--line);
+    font-size:0.92rem;
+  }
+  .sugg-item:last-child{border-bottom:none;}
+  .sugg-item:hover, .sugg-item.active{background:rgba(138,58,50,0.18);}
+  .sugg-text{color:var(--paper-text);}
+  .sugg-meta{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.68rem;
+    color:var(--paper-text-dim);
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+  }
+
+  /* --- example chips --- */
+  .examples{margin-top:20px;display:flex;flex-wrap:wrap;gap:8px;}
+  .examples-label{
+    width:100%;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.68rem;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--paper-text-dim);
+    margin-bottom:2px;
+  }
+  .chip{
+    font-family:'Inter', sans-serif;
+    font-size:0.85rem;
+    color:var(--paper-text);
+    background:transparent;
+    border:1px solid var(--line);
+    border-radius:20px;
+    padding:7px 14px;
+    cursor:pointer;
+    transition:border-color 0.15s, background 0.15s;
+  }
+  .chip:hover{border-color:var(--brass); background:rgba(180,144,63,0.1);}
+
+  /* --- results --- */
+  .results{
+    margin-top:44px;
+    display:grid;
+    grid-template-columns:1.5fr 1fr;
+    gap:28px;
+  }
+  @media (max-width:760px){.results{grid-template-columns:1fr;}}
+
+  .col-title{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.72rem;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--brass);
+    margin:0 0 14px;
+    padding-bottom:8px;
+    border-bottom:1px solid var(--line);
+  }
+
+  .exhibit{
+    background:var(--folder);
+    color:var(--ink);
+    border-radius:6px;
+    padding:16px 18px;
+    margin-bottom:14px;
+    position:relative;
+    opacity:0;
+    animation:riseIn 0.35s ease-out forwards;
+  }
+  @keyframes riseIn{from{opacity:0;transform:translateY(6px);}to{opacity:1;transform:translateY(0);}}
+  .exhibit-head{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    margin-bottom:8px;
+  }
+  .exhibit-num{
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:600;
+    font-size:0.78rem;
+    color:var(--oxblood);
+  }
+  .exhibit-score{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.72rem;
+    color:#6b6250;
+  }
+  .exhibit-text{font-size:0.97rem;line-height:1.55;}
+  .exhibit-entities{
+    margin-top:10px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:6px;
+  }
+  .tag{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.68rem;
+    background:var(--folder-dark);
+    border-radius:3px;
+    padding:2px 7px;
+  }
+
+  .kg-card{
+    background:var(--desk-raised);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:16px 18px;
+    margin-bottom:14px;
+    opacity:0;
+    animation:riseIn 0.35s ease-out forwards;
+  }
+  .kg-head{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    margin-bottom:10px;
+  }
+  .kg-name{font-family:'Fraunces', serif;font-weight:600;font-size:1.05rem;}
+  .kg-type{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.65rem;
+    letter-spacing:0.05em;
+    color:var(--brass);
+    border:1px solid rgba(180,144,63,0.4);
+    border-radius:3px;
+    padding:1px 6px;
+  }
+  .fact{
+    font-size:0.88rem;
+    line-height:1.6;
+    color:var(--paper-text);
+    display:flex;
+    align-items:center;
+    gap:8px;
+    flex-wrap:wrap;
+    padding:6px 0;
+    border-top:1px solid var(--line);
+  }
+  .fact:first-of-type{border-top:none;}
+  .fact-rel{color:var(--paper-text-dim);font-family:'IBM Plex Mono', monospace;font-size:0.75rem;}
+  .seal{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.65rem;
+    border-radius:50%;
+    width:34px;height:34px;
+    display:flex;align-items:center;justify-content:center;
+    border:1.5px solid var(--brass);
+    color:var(--brass);
+    flex-shrink:0;
+  }
+  .seal.inferred{border-color:var(--oxblood-bright);color:var(--oxblood-bright);border-style:dashed;}
+  .missing-note{
+    font-size:0.82rem;
+    color:var(--paper-text-dim);
+    border-left:2px solid var(--oxblood);
+    padding-left:10px;
+    margin-top:6px;
+  }
+
+  .empty-state{
+    color:var(--paper-text-dim);
+    font-size:0.9rem;
+    padding:20px 0;
+  }
+
+  /* --- reasoning chain (multi-hop graph path) --- */
+  .answer-panel{
+    margin-top:28px;
+    background:linear-gradient(180deg, rgba(180,144,63,0.10), rgba(180,144,63,0.04));
+    border:1px solid var(--brass, #B4903F);
+    border-radius:8px;
+    padding:20px 22px;
+    opacity:0;
+    animation:riseIn 0.35s ease-out forwards;
+  }
+  .answer-title{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.72rem;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--brass, #B4903F);
+    margin:0 0 10px;
+  }
+  .answer-text{
+    font-family:'Fraunces', serif;
+    font-size:1.15rem;
+    line-height:1.5;
+    color:var(--paper-text);
+    white-space:pre-wrap;
+  }
+  .answer-fallback-note{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.75rem;
+    color:var(--paper-text-dim);
+    margin-top:4px;
+  }
+
+  .reasoning-panel{
+    margin-top:36px;
+    background:var(--desk-raised);
+    border:1px solid var(--line);
+    border-radius:8px;
+    padding:18px 20px;
+    opacity:0;
+    animation:riseIn 0.35s ease-out forwards;
+  }
+  .reasoning-title{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.72rem;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--brass);
+    margin:0 0 14px;
+  }
+  .chain{
+    display:flex;
+    flex-wrap:wrap;
+    align-items:center;
+    gap:6px;
+    font-size:0.9rem;
+    padding:10px 0;
+    border-top:1px solid var(--line);
+  }
+  .chain:first-of-type{border-top:none;}
+  .chain-node{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    color:var(--paper-text);
+    background:rgba(180,144,63,0.12);
+    border:1px solid rgba(180,144,63,0.3);
+    border-radius:4px;
+    padding:3px 9px;
+  }
+  .chain-rel{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.7rem;
+    color:var(--paper-text-dim);
+    white-space:nowrap;
+  }
+  .chain-hops{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.68rem;
+    color:var(--oxblood-bright);
+    margin-right:8px;
+  }
+  .graph-tag{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.62rem;
+    color:var(--oxblood);
+    border:1px solid var(--oxblood);
+    border-radius:3px;
+    padding:1px 5px;
+    margin-left:6px;
+  }
+  .loading{color:var(--paper-text-dim);font-family:'IBM Plex Mono',monospace;font-size:0.85rem;}
+
+  @media (prefers-reduced-motion: reduce){
+    *{animation-duration:0.01ms !important;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1 class="wordmark">DOCKET</h1>
+    <p class="subhead">Search your contracts and the facts extracted from them. Runs entirely on your machine — no API calls, no model writing prose. What you see is retrieved evidence, ranked.</p>
+  </header>
+
+  <div class="search-shell">
+    <div class="ticket">
+      <div class="ticket-inner">
+        <span class="ticket-label">Query No.</span>
+        <input id="q" type="text" placeholder="Search a clause, a party, a jurisdiction…" autocomplete="off">
+      </div>
+      <div class="perforation"></div>
+    </div>
+    <div class="suggestions" id="suggestions"></div>
+  </div>
+
+  <div class="examples" id="examples">
+    <span class="examples-label">Try</span>
+    {% for ex in examples %}
+    <button class="chip" data-q="{{ ex }}">{{ ex }}</button>
+    {% endfor %}
+  </div>
+
+  <div class="answer-panel" id="answerPanel" style="display:none;">
+    <h2 class="answer-title">Answer</h2>
+    <div id="answerBody"></div>
+  </div>
+
+  <div class="reasoning-panel" id="reasoning" style="display:none;">
+    <h2 class="reasoning-title">Reasoning path (multi-hop)</h2>
+    <div id="reasoningBody"></div>
+  </div>
+
+  <div class="results" id="results" style="display:none;">
+    <div>
+      <h2 class="col-title">Matching clauses</h2>
+      <div id="sentences"></div>
+    </div>
+    <div>
+      <h2 class="col-title">Knowledge graph</h2>
+      <div id="kgfacts"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const qInput = document.getElementById('q');
+const suggBox = document.getElementById('suggestions');
+const resultsBox = document.getElementById('results');
+const answerBox = document.getElementById('answerPanel');
+const answerBody = document.getElementById('answerBody');
+const reasoningBox = document.getElementById('reasoning');
+const reasoningBody = document.getElementById('reasoningBody');
+const sentencesBox = document.getElementById('sentences');
+const kgBox = document.getElementById('kgfacts');
+const examplesBox = document.getElementById('examples');
+
+let debounceTimer = null;
+let activeIndex = -1;
+let currentSuggestions = [];
+
+function debounce(fn, ms){
+  return (...args) => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => fn(...args), ms);
+  };
+}
+
+async function fetchSuggestions(q){
+  if(!q.trim()){ closeSuggestions(); return; }
+  const res = await fetch('/api/suggest?q=' + encodeURIComponent(q));
+  const data = await res.json();
+  currentSuggestions = data;
+  activeIndex = -1;
+  renderSuggestions(data);
+}
+
+function renderSuggestions(items){
+  if(!items.length){ closeSuggestions(); return; }
+  suggBox.innerHTML = items.map((it, i) =>
+    `<div class="sugg-item" data-idx="${i}">
+       <span class="sugg-text">${escapeHtml(it.text)}</span>
+       <span class="sugg-meta">${escapeHtml(it.label)}${it.in_graph ? '' : ' · not in graph'}</span>
+     </div>`
+  ).join('');
+  suggBox.classList.add('open');
+  [...suggBox.children].forEach((el, i) => {
+    el.addEventListener('mousedown', (e) => { e.preventDefault(); chooseSuggestion(i); });
+  });
+}
+
+function closeSuggestions(){
+  suggBox.classList.remove('open');
+  suggBox.innerHTML = '';
+  currentSuggestions = [];
+  activeIndex = -1;
+}
+
+function chooseSuggestion(i){
+  const item = currentSuggestions[i];
+  if(!item) return;
+  qInput.value = item.text;
+  closeSuggestions();
+  runSearch(item.text);
+}
+
+qInput.addEventListener('input', debounce((e) => fetchSuggestions(e.target.value), 220));
+
+qInput.addEventListener('keydown', (e) => {
+  const items = [...suggBox.children];
+  if(e.key === 'ArrowDown' && items.length){
+    e.preventDefault();
+    activeIndex = Math.min(activeIndex + 1, items.length - 1);
+    highlightActive(items);
+  } else if(e.key === 'ArrowUp' && items.length){
+    e.preventDefault();
+    activeIndex = Math.max(activeIndex - 1, 0);
+    highlightActive(items);
+  } else if(e.key === 'Enter'){
+    e.preventDefault();
+    if(activeIndex >= 0 && currentSuggestions[activeIndex]){
+      chooseSuggestion(activeIndex);
+    } else {
+      closeSuggestions();
+      runSearch(qInput.value);
+    }
+  } else if(e.key === 'Escape'){
+    closeSuggestions();
+  }
+});
+
+function highlightActive(items){
+  items.forEach((el, i) => el.classList.toggle('active', i === activeIndex));
+}
+
+document.addEventListener('click', (e) => {
+  if(!e.target.closest('.search-shell')) closeSuggestions();
+});
+
+examplesBox.addEventListener('click', (e) => {
+  const btn = e.target.closest('.chip');
+  if(!btn) return;
+  qInput.value = btn.dataset.q;
+  runSearch(btn.dataset.q);
+});
+
+async function runSearch(q){
+  if(!q || !q.trim()) return;
+  resultsBox.style.display = 'grid';
+  sentencesBox.innerHTML = '<div class="loading">Searching…</div>';
+  kgBox.innerHTML = '';
+  answerBox.style.display = 'none';
+  answerBody.innerHTML = '';
+  const res = await fetch('/api/search?q=' + encodeURIComponent(q));
+  if(!res.ok){
+    sentencesBox.innerHTML = '<div class="empty-state">Nothing to search — try typing a question first.</div>';
+    return;
+  }
+  const data = await res.json();
+  renderResults(data);
+}
+
+function renderReasoning(paths){
+  if(!paths || !paths.length){
+    reasoningBox.style.display = 'none';
+    reasoningBody.innerHTML = '';
+    return;
+  }
+  reasoningBox.style.display = 'block';
+  reasoningBody.innerHTML = paths.map(p => `
+    <div class="chain">
+      <span class="chain-hops">${p.hops} hop${p.hops === 1 ? '' : 's'}</span>
+      ${p.path.map((edge, i) => `
+        ${i === 0 ? `<span class="chain-node">${escapeHtml(edge.source)}</span>` : ''}
+        <span class="chain-rel">--${escapeHtml(edge.relation)}${edge.inferred ? ' (inferred)' : ''}--&gt;</span>
+        <span class="chain-node">${escapeHtml(edge.target)}</span>
+      `).join('')}
+    </div>
+  `).join('');
+}
+
+function renderAnswer(data){
+  if(data.synthesized_answer){
+    answerBox.style.display = 'block';
+    answerBody.innerHTML = `<div class="answer-text">${escapeHtml(data.synthesized_answer)}</div>`;
+  } else {
+    // No synthesized answer -- either GEMINI_API_KEY isn't set, or the
+    // call failed. Say so plainly rather than silently hiding the panel,
+    // so it's clear this is a config/connectivity state, not "no answer
+    // exists for your question."
+    answerBox.style.display = 'block';
+    answerBody.innerHTML = `<div class="answer-fallback-note">No synthesized answer available (Gemini API key not configured, or the request failed) — showing raw retrieved evidence below.</div>`;
+  }
+}
+
+function renderResults(data){
+  renderAnswer(data);
+  renderReasoning(data.reasoning_paths);
+  if(!data.matched_sentences.length){
+    sentencesBox.innerHTML = '<div class="empty-state">No clauses matched. Try different words — plain contract language works best.</div>';
+  } else {
+    sentencesBox.innerHTML = data.matched_sentences.map((s, i) => `
+      <div class="exhibit" style="animation-delay:${i * 40}ms">
+        <div class="exhibit-head">
+          <span class="exhibit-num">EXHIBIT ${String(i+1).padStart(2,'0')}</span>
+          <span class="exhibit-score">score ${s.score}${s.graph_boost ? '<span class="graph-tag">graph-linked</span>' : ''}</span>
+        </div>
+        <div class="exhibit-text">${escapeHtml(s.text)}</div>
+        ${s.entities.length ? `<div class="exhibit-entities">${s.entities.map(e => `<span class="tag">${escapeHtml(e)}</span>`).join('')}</div>` : ''}
+      </div>
+    `).join('');
+  }
+
+  const kgEntries = Object.entries(data.kg_facts || {});
+  let kgHtml = '';
+  if(kgEntries.length){
+    kgHtml += kgEntries.map(([name, info], i) => `
+      <div class="kg-card" style="animation-delay:${i * 40}ms">
+        <div class="kg-head">
+          <span class="kg-name">${escapeHtml(name)}</span>
+          <span class="kg-type">${escapeHtml(info.type)}</span>
+        </div>
+        ${info.facts.map(f => `
+          <div class="fact">
+            <span class="seal ${f.inferred ? 'inferred' : ''}">${(f.confidence*100).toFixed(0)}%</span>
+            <span>${escapeHtml(f.source)} <span class="fact-rel">--${escapeHtml(f.relation)}--></span> ${escapeHtml(f.target)}</span>
+          </div>
+        `).join('')}
+      </div>
+    `).join('');
+  }
+  if(data.query_entities_missing_from_kg && data.query_entities_missing_from_kg.length){
+    kgHtml += `<div class="missing-note">Recognized in your contracts but has no facts in the completed knowledge graph (likely dropped during validation or link prediction): ${data.query_entities_missing_from_kg.map(escapeHtml).join(', ')}</div>`;
+  }
+  if(!kgHtml){
+    kgHtml = '<div class="empty-state">No graph facts connected to this query.</div>';
+  }
+  kgBox.innerHTML = kgHtml;
+}
+
+function escapeHtml(str){
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+</script>
+</body>
+</html>

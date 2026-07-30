@@ -1,5 +1,7 @@
 {
   "filename": "VerizonAbsLlc_20200123_8-K_EX-10.4_11952335_EX-10.4_Service Agreement.txt",
+  "source_path": "data\\VerizonAbsLlc_20200123_8-K_EX-10.4_11952335_EX-10.4_Service Agreement.txt",
+  "sha256": "6ed1f77b684b1c6ebbd6fd986c7717015b4ee44b302173ab69c329e272560c47",
   "num_sentences": 1025,
   "num_chunks": 129,
   "chunks": [

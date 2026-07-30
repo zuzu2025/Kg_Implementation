@@ -11,8 +11,54 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
+from kg_no_llm_algorithms import mention_quality
 
 nlp = spacy.load("en_core_web_sm")
+
+
+def load_stage3_entities(raw_path, linked_path="outputs_ML/linked_entities_v2.json"):
+    """
+    Prefer Stage 3 linked/canonical mentions when available, but keep the
+    original surface mention for text matching.
+    """
+    path = linked_path if os.path.exists(linked_path) else raw_path
+    with open(path, 'r') as f:
+        rows = json.load(f)
+
+    if path == linked_path:
+        normalized = []
+        for contract in rows:
+            entities = []
+            for e in contract.get("entities", []):
+                text = e.get("original_mention", e.get("canonical", ""))
+                canonical = e.get("canonical", e.get("original_mention", ""))
+                if mention_quality(text) == 0.0 or mention_quality(canonical) == 0.0:
+                    continue
+                entities.append({
+                    "text": text,
+                    "canonical": canonical,
+                    "label": e.get("label", "OTHER"),
+                    "link_score": e.get("score", 0.0),
+                    "linked": e.get("linked", False),
+                })
+            normalized.append({
+                "filename": contract["filename"],
+                "entities": entities,
+            })
+        print(f"Loaded canonical Stage 3 entities from {path}")
+        return normalized
+
+    print(f"Loaded raw CRF entities from {path}")
+    return [
+        {
+            "filename": contract["filename"],
+            "entities": [
+                e for e in contract.get("entities", [])
+                if mention_quality(e.get("text", "")) > 0.0
+            ],
+        }
+        for contract in rows
+    ]
 
 # ══════════════════════════════════════════════════════
 # STEP 1 — OPENIE STYLE EXTRACTION
@@ -60,23 +106,31 @@ def normalize_predicate(predicate):
     pred = predicate.lower().strip()
 
     relation_map = [
-    (['entered into', 'enter into', 'executes', 'execute'], 'ENTERED_INTO'),
-    (['governed by', 'construed by', 'governed and construed'], 'GOVERNED_BY'),
+    (['entered into', 'enter into', 'executes', 'execute',
+      'execution', 'executed'], 'ENTERED_INTO'),
+    (['governed by', 'construed by', 'governed and construed',
+      'promulgated under', 'promulgated', 'pursuant to'], 'GOVERNED_BY'),
     (['agrees to pay', 'agreed to pay', 'shall pay', 'will pay', 'payable to'], 'PAYABLE_BY'),
     (['grants to', 'granted to', 'grant to', 'license to', 'licenses to'], 'GRANTED_TO'),
     (['effective as of', 'effective date', 'dated as of', 
       'commencing on', 'dated as', 'dated'], 'EFFECTIVE_ON'),
-    (['party to', 'parties to', 'is a party', 'are parties'], 'PARTY_OF'),
+    (['party to', 'parties to', 'is a party', 'are parties',
+      'by and between', 'between'], 'PARTY_OF'),
     (['appoints', 'appointed as', 'appoint'], 'APPOINTED_AS'),
     (['subject to', 'conditioned on', 'contingent on'], 'SUBJECT_TO'),
     (['limited to', 'restricted to', 'shall not exceed'], 'LIMITED_TO'),
     (['defined in', 'as defined', 'meaning set forth'], 'DEFINED_IN'),
     (['terminates', 'terminate', 'termination of'], 'TERMINATES'),
     (['owns', 'shall own', 'retains ownership'], 'OWNS'),
+    (['located at', 'located in', 'headquartered at', 'headquartered in',
+      'situated at', 'situated in'], 'LOCATED_IN'),
+    (['organized under', 'organized in', 'incorporated under',
+      'incorporated in'], 'ORGANIZED_UNDER'),
+    (['referred to as', 'hereinafter referred to as', 'known as'], 'REFERRED_TO_AS'),
     (['is', 'are', 'was', 'were'], 'IS_A'),
-    (['has', 'have', 'had'], 'HAS'),
+    (['has', 'have', 'had', 'having', 'holding', 'holds'], 'HAS'),
     (['contains', 'contained in', 'included in'], 'CONTAINS'),
-    (['requested', 'requested with'], 'REQUESTED_BY'),
+    (['requested', 'requested with', 'requesting'], 'REQUESTED_BY'),
     (['indicated by', 'indicated'], 'INDICATED_BY'),
     ]
 
@@ -97,6 +151,7 @@ def extract_entity_pairs_openIE(text, entities):
         for match in re.finditer(re.escape(mention), text.lower()):
             entity_spans.append({
                 "text": entity["text"],
+                "canonical": entity.get("canonical", entity["text"]),
                 "label": entity["label"],
                 "start_char": match.start(),
                 "end_char": match.end()
@@ -106,8 +161,24 @@ def extract_entity_pairs_openIE(text, entities):
     garbage_predicates = {
         'definitions', 'omitted', 'exhibit', 'outsourcing',
         'pages', 'making', 'identified', 'contracted',
-        'definitions as', 'contained in by', 'requested with'
+        'definitions as', 'contained in by', 'requested with',
+        # bare connectors/stopwords with no relational content on their own
+        'and', 'or', 'the', 'a', 'an', 'to', 'of', 'in', 'on', 'by', 'for'
     }
+
+    def _is_junk_predicate(vp):
+        """
+        Reject predicate fragments that are mostly punctuation/digits
+        (e.g. '" ) , and', 'address:3885', '( "') — these come from
+        verb-phrase extraction picking up quote marks, parenthesis
+        remnants, or address fragments near entity spans rather than an
+        actual verb phrase, and shouldn't be treated as a relation.
+        """
+        stripped = vp.replace(' ', '')
+        if not stripped:
+            return True
+        alpha_chars = sum(c.isalpha() for c in stripped)
+        return (alpha_chars / len(stripped)) < 0.6
 
     for sent in doc.sents:
         sent_start = sent.start_char
@@ -120,6 +191,20 @@ def extract_entity_pairs_openIE(text, entities):
 
         if len(sent_entities) < 2:
             continue
+
+        # Cap how far apart two entities can be and still be paired. Real
+        # relational statements ("X is a party to Y", "X dated Y") have
+        # their two entities close together with the predicate directly
+        # between them. Pairs from opposite ends of a long sentence are
+        # almost never a real relation — just two entities that happen to
+        # co-occur. This is the surgical fix for the fan-out problem: it
+        # suppresses far-apart spurious pairs without discarding whole
+        # sentences, which matters because legal prose is naturally
+        # entity-dense (median sentence length ~50 words in this corpus) —
+        # a blanket per-sentence entity-count skip was tried and reverted
+        # here because it discarded legitimate pairs along with noise,
+        # collapsing total extracted pairs by >95%.
+        MAX_TOKEN_GAP = 25
 
         for i in range(len(sent_entities)):
             for j in range(i+1, len(sent_entities)):
@@ -139,12 +224,16 @@ def extract_entity_pairs_openIE(text, entities):
                     continue
                 if e1_end_token >= e2_start_token:
                     continue
+                if e2_start_token - e1_end_token > MAX_TOKEN_GAP:
+                    continue
 
                 verb_phrase = extract_verb_phrase(sent, e1_end_token, e2_start_token)
 
                 if not verb_phrase or len(verb_phrase.split()) > 6:
                     continue
                 if verb_phrase.lower() in garbage_predicates:
+                    continue
+                if _is_junk_predicate(verb_phrase):
                     continue
                 if verb_phrase.isupper():
                     continue
@@ -153,8 +242,10 @@ def extract_entity_pairs_openIE(text, entities):
 
                 pairs.append({
                     "entity1": e1["text"],
+                    "canonical1": e1.get("canonical", e1["text"]),
                     "label1": e1["label"],
                     "entity2": e2["text"],
+                    "canonical2": e2.get("canonical", e2["text"]),
                     "label2": e2["label"],
                     "predicate": verb_phrase,
                     "relation": known_relation,
@@ -191,6 +282,24 @@ def discover_relations_openIE(all_pairs):
 # ══════════════════════════════════════════════════════
 
 def extract_relation_features(pair):
+    """
+    Features for the relation-type classifier.
+
+    IMPORTANT: earlier versions of this function included has_entry_verb,
+    has_gov_word, has_pay_word, has_grant_word, and has_date_word — keyword
+    presence checks whose vocabulary directly overlapped normalize_predicate's
+    keyword lists (the function that PRODUCES the labels these classifiers
+    are trained to predict). That's circular: a classifier fed "does the
+    predicate contain 'governed'/'construed'" as a feature doesn't need to
+    learn anything about relation extraction to predict GOVERNED_BY — it
+    just needs to learn to reproduce the keyword rule that already assigned
+    that label. Those five features are removed here. What remains are
+    features that are structurally independent of the labeling rule: the
+    entity type pair, predicate/sentence length, and generic (non-relation-
+    specific) preposition presence. This gives an honest measure of whether
+    entity-type context and predicate shape carry signal beyond the literal
+    keyword match — a fair test rather than a circular one.
+    """
     pred = pair["predicate"].lower()
     pred_words = set(pred.split())
 
@@ -203,31 +312,13 @@ def extract_relation_features(pair):
     label2 = type_map.get(pair["label2"], 6)
 
     pred_length = len(pred.split())
-
-    entry_verbs = {'entered', 'enter', 'execute', 'executes', 'sign', 'signed'}
-    has_entry_verb = 1.0 if pred_words & entry_verbs else 0.0
-
-    gov_words = {'governed', 'construed', 'jurisdiction', 'laws'}
-    has_gov_word = 1.0 if pred_words & gov_words else 0.0
-
-    pay_words = {'pay', 'pays', 'paid', 'payment', 'payable'}
-    has_pay_word = 1.0 if pred_words & pay_words else 0.0
-
-    grant_words = {'grant', 'grants', 'granted', 'license', 'licenses'}
-    has_grant_word = 1.0 if pred_words & grant_words else 0.0
-
-    date_words = {'effective', 'dated', 'commencing', 'starting', 'beginning'}
-    has_date_word = 1.0 if pred_words & date_words else 0.0
-
     sent_length = len(pair["sentence"].split())
 
     prepositions = {'by', 'to', 'of', 'into', 'as', 'on', 'in', 'for'}
     has_preposition = 1.0 if pred_words & prepositions else 0.0
 
     return [
-        label1, label2, pred_length,
-        has_entry_verb, has_gov_word, has_pay_word,
-        has_grant_word, has_date_word, sent_length, has_preposition
+        label1, label2, pred_length, sent_length, has_preposition
     ]
 
 # ══════════════════════════════════════════════════════
@@ -306,8 +397,7 @@ if __name__ == "__main__":
     OUTPUT_PATH = "outputs_ML/relations.json"
 
     print("Loading entities...")
-    with open(ENTITIES_PATH, 'r') as f:
-        all_entity_results = json.load(f)
+    all_entity_results = load_stage3_entities(ENTITIES_PATH)
 
     print("Extracting entity pairs with OpenIE...")
     all_pairs = []
@@ -326,6 +416,20 @@ if __name__ == "__main__":
             continue
 
         pairs = extract_entity_pairs_openIE(text, entities)
+
+        # PATCH: stamp source filename on every pair. Stage 7's fan-out cap
+        # (which keeps only the best-supported object per subject+relation
+        # for single-valued relations like EFFECTIVE_ON) needs to know which
+        # document each pair came from. Without it, the cap can only key on
+        # (subject, relation) globally — and a generic canonical string like
+        # "agreement" or a company name that legitimately shows up across
+        # many different contracts in this 510-doc corpus gets treated as
+        # one entity with dozens of relations, when really it's dozens of
+        # different documents each contributing one true fact. This one
+        # field is what lets stage7 tell those two cases apart.
+        for p in pairs:
+            p["filename"] = fname
+
         all_pairs.extend(pairs)
 
         if (i + 1) % 50 == 0:
@@ -340,8 +444,18 @@ if __name__ == "__main__":
     classifier_results, label_encoder, X_train, X_test = train_classifiers(all_pairs)
 
     os.makedirs("outputs_ML", exist_ok=True)
-    with open(OUTPUT_PATH, 'w') as f:
-        json.dump(all_pairs[:5000], f, indent=2)
+    tmp_output_path = OUTPUT_PATH + ".tmp"
+    with open(tmp_output_path, 'w') as f:
+        # Previously this saved only all_pairs[:5000] — 1.7% of the total,
+        # and not a random 1.7%: since all_pairs is built by iterating
+        # files in order, it was biased toward whichever contracts were
+        # processed first. Stage 6's induce_domain_rules() reads this
+        # entire file to count entity-type-pair frequencies per relation
+        # type, so that truncation was silently starving ontology
+        # induction of most of the extracted data. Saving everything here
+        # fixes that at the source.
+        json.dump(all_pairs, f, indent=2)
+    os.replace(tmp_output_path, OUTPUT_PATH)
 
     print(f"\nDone!")
     print(f"Total pairs extracted: {len(all_pairs)}")

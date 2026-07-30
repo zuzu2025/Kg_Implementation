@@ -1,5 +1,7 @@
 {
   "filename": "SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate Agreement.txt",
+  "source_path": "data\\SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate Agreement.txt",
+  "sha256": "93c7b52c2c43487dae56a24e2c14aeec98b1a6bc74866fc0fa18f644edb3d337",
   "num_sentences": 124,
   "num_chunks": 16,
   "chunks": [

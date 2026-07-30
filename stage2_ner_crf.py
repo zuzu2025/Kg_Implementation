@@ -132,9 +132,9 @@ def sentence_to_labels(sentence, entities, text):
     words_with_pos = []
     for match in re.finditer(r'\S+', text):
         words_with_pos.append((match.group(), match.start(), match.end()))
-    
+
     labels = ['O'] * len(words_with_pos)
-    
+
     for entity in entities:
         ent_start = entity['start']
         ent_end = entity['end']
@@ -147,50 +147,51 @@ def sentence_to_labels(sentence, entities, text):
                     first = False
                 else:
                     labels[idx] = f'I-{ent_label}'
-    
+
     words = [w for w, _, _ in words_with_pos]
     return words, labels
 
 def prepare_training_data(ner_data_path):
+    """
+    Original CUAD loader — reads full-document text + character-offset
+    entity spans (the format produced by the CUAD QA-to-IOB conversion).
+    """
     with open(ner_data_path, 'r', encoding='utf-8') as f:
         ner_data = json.load(f)
-    
+
     X = []
     y = []
-    
-    print(f"Preparing {len(ner_data)} training examples...")
-    
+
+    print(f"Preparing {len(ner_data)} training examples from CUAD data...")
+
     for example in ner_data:
         text = example['text']
         entities = example['entities']
-        
-        # Split text into sentences BUT track their position in full text
+
         sentences_with_pos = []
         for match in re.finditer(r'[^\.\n]+[\.\n]?', text):
             sent = match.group().strip()
             if sent:
                 sentences_with_pos.append((sent, match.start(), match.end()))
-        
+
         for sent, sent_start, sent_end in sentences_with_pos:
             words_with_pos = []
             for match in re.finditer(r'\S+', sent):
-                # Position relative to FULL TEXT, not sentence
                 abs_start = sent_start + match.start()
                 abs_end = sent_start + match.end()
                 words_with_pos.append((match.group(), abs_start, abs_end))
-            
+
             if not words_with_pos:
                 continue
-            
-            # Assign BIO labels using FULL TEXT positions
+
             labels = ['O'] * len(words_with_pos)
-            
+
             for entity in entities:
                 ent_start = entity['start']
                 ent_end = entity['end']
                 ent_label = entity['label']
                 first = True
-                
+
                 for idx, (word, w_start, w_end) in enumerate(words_with_pos):
                     if w_start >= ent_start and w_end <= ent_end:
                         if first:
@@ -198,16 +199,114 @@ def prepare_training_data(ner_data_path):
                             first = False
                         else:
                             labels[idx] = f'I-{ent_label}'
-            
+
             words = [w for w, _, _ in words_with_pos]
-            
-            # Only keep sentences with at least one entity
+
             if any(l != 'O' for l in labels):
                 features = sentence_to_features(words)
                 X.append(features)
                 y.append(labels)
-    
+
     return X, y
+
+
+def prepare_llm_training_data(llm_data_path):
+    """
+    NEW — loader for llm_training_data.json (from the Gemini-labeling script).
+
+    This file's format is DIFFERENT from the original CUAD format: it's
+    already word-level labeled, not character-offset based:
+        [{"sentence": "...", "labels": [{"word": "...", "label": "B-PARTY"}, ...],
+          "source_file": "..."}, ...]
+
+    So no character-offset -> word alignment step is needed here — we just
+    read the words/labels straight out.
+
+    NOTE: occasionally Gemini's JSON output has a one-off formatting glitch,
+    e.g. {",": "O"} instead of {"word": ",", "label": "O"}. Rather than crash
+    the whole run over a handful of malformed entries, we skip just the
+    affected SENTENCE and keep going, logging how many were skipped.
+    """
+    with open(llm_data_path, 'r', encoding='utf-8') as f:
+        llm_data = json.load(f)
+
+    X = []
+    y = []
+    skipped = 0
+    skipped_examples = []
+
+    print(f"Preparing {len(llm_data)} training examples from LLM-labeled data...")
+
+    for item in llm_data:
+        label_entries = item.get('labels')
+        if not label_entries:
+            skipped += 1
+            continue
+
+        words = []
+        labels = []
+        malformed = False
+
+        for entry in label_entries:
+            if not isinstance(entry, dict):
+                malformed = True
+                break
+            if 'word' in entry and 'label' in entry:
+                words.append(entry['word'])
+                labels.append(entry['label'])
+            elif len(entry) == 1:
+                # handles the rare glitch format {",": "O"} — recover it as
+                # word="," label="O" rather than dropping the whole sentence
+                (w, l), = entry.items()
+                words.append(w)
+                labels.append(l)
+            else:
+                malformed = True
+                break
+
+        if malformed or len(words) != len(labels) or not words:
+            skipped += 1
+            if len(skipped_examples) < 5:
+                skipped_examples.append(item.get('sentence', '')[:60])
+            continue
+
+        if any(l != 'O' for l in labels):
+            features = sentence_to_features(words)
+            X.append(features)
+            y.append(labels)
+
+    if skipped:
+        print(f"  Skipped {skipped} malformed LLM-labeled entries")
+        if skipped_examples:
+            print(f"  Examples of skipped sentences: {skipped_examples}")
+
+    return X, y
+
+
+def prepare_hybrid_training_data(cuad_data_path, llm_data_path):
+    """
+    Combines original CUAD-derived training data with the new LLM-labeled
+    data into a single training set. If the CUAD file isn't found, falls
+    back to LLM-only data so this still runs even without the original file.
+    """
+    X_all, y_all = [], []
+
+    if cuad_data_path and os.path.exists(cuad_data_path):
+        X_cuad, y_cuad = prepare_training_data(cuad_data_path)
+        print(f"  CUAD sentences: {len(X_cuad)}")
+        X_all.extend(X_cuad)
+        y_all.extend(y_cuad)
+    else:
+        print(f"  CUAD data not found at '{cuad_data_path}' — training on LLM-labeled data only.")
+
+    X_llm, y_llm = prepare_llm_training_data(llm_data_path)
+    print(f"  LLM-labeled sentences: {len(X_llm)}")
+    X_all.extend(X_llm)
+    y_all.extend(y_llm)
+
+    print(f"  Combined total: {len(X_all)} sentences\n")
+    return X_all, y_all
+
 
 def train_crf(X_train, y_train):
     print("Training CRF model...")
@@ -258,27 +357,87 @@ def predict_entities(crf, text):
             all_entities.append(current_entity)
     return all_entities
 
+def prepare_combined_sentence_data(data_path):
+    """
+    Loader for combined_training_data.json — this file's entries are ALREADY
+    single sentences (produced by combine_training_data.py), not full
+    documents. Unlike prepare_training_data(), this does NOT re-split on
+    periods/newlines, because doing so on an already-split sentence can slice
+    straight through entities that contain internal periods (e.g. "Apple
+    Inc.", "U.S.C.", abbreviations) — silently truncating or dropping them.
+    """
+    with open(data_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    X = []
+    y = []
+
+    print(f"Preparing {len(data)} training examples from combined data...")
+
+    for example in data:
+        text = example['text']
+        entities = example['entities']
+
+        words_with_pos = []
+        for match in re.finditer(r'\S+', text):
+            words_with_pos.append((match.group(), match.start(), match.end()))
+
+        if not words_with_pos:
+            continue
+
+        labels = ['O'] * len(words_with_pos)
+
+        for entity in entities:
+            ent_start = entity['start']
+            ent_end = entity['end']
+            ent_label = entity['label']
+            first = True
+
+            for idx, (word, w_start, w_end) in enumerate(words_with_pos):
+                # overlap-based match: tag a token if its span overlaps the
+                # entity span at all, rather than requiring full containment.
+                # This recovers cases like ("COMPANY"), where attached
+                # punctuation pushes the token boundary slightly past the
+                # entity's recorded end offset.
+                if w_start < ent_end and w_end > ent_start:
+                    if first:
+                        labels[idx] = f'B-{ent_label}'
+                        first = False
+                    else:
+                        labels[idx] = f'I-{ent_label}'
+
+        words = [w for w, _, _ in words_with_pos]
+
+        if any(l != 'O' for l in labels):
+            features = sentence_to_features(words)
+            X.append(features)
+            y.append(labels)
+
+    return X, y
+
+
 if __name__ == "__main__":
-    NER_DATA_PATH = "outputs_ML/ner_training_data.json"
-    MODEL_PATH = "outputs_ML/crf_model.pkl"
-    
-    X, y = prepare_training_data(NER_DATA_PATH)
+    TRAINING_DATA_PATH = "outputs_ML/ner_training_data.json"
+    MODEL_PATH = "outputs_ML/crf_model_v2.pkl"
+
+    print("Preparing no-LLM CRF training data from span-labeled examples...")
+    X, y = prepare_training_data(TRAINING_DATA_PATH)
     print(f"Total sentences prepared: {len(X)}")
-    
+
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=42
     )
     print(f"Train: {len(X_train)} sentences")
     print(f"Test:  {len(X_test)} sentences")
-    
+
     crf = train_crf(X_train, y_train)
     evaluate_crf(crf, X_test, y_test)
-    
+
     os.makedirs("outputs_ML", exist_ok=True)
     with open(MODEL_PATH, 'wb') as f:
         pickle.dump(crf, f)
     print(f"\nModel saved to {MODEL_PATH}")
-    
+
     sample = "Google LLC entered into this Agreement with Apple Inc on January 2021 governed by Delaware law."
     print(f"\nSample prediction:")
     print(f"Text: {sample}")

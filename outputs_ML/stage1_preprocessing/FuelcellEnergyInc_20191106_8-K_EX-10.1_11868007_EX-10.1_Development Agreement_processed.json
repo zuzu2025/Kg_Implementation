@@ -1,5 +1,7 @@
 {
   "filename": "FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+  "source_path": "data\\FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+  "sha256": "c809f579e6b5b0da201af7300efc64f0afd7b0757e060bab1b625f80a8e29ee5",
   "num_sentences": 511,
   "num_chunks": 64,
   "chunks": [

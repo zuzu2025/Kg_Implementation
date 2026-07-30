@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import hashlib
 import spacy
 from nltk.tokenize import sent_tokenize
 import nltk
@@ -91,6 +92,7 @@ def process_all_contracts(data_dir, output_dir):
         fpath = os.path.join(data_dir, fname)
         with open(fpath, 'r', encoding='utf-8', errors='ignore') as f:
             raw_text = f.read()
+        source_hash = hashlib.sha256(raw_text.encode('utf-8', errors='ignore')).hexdigest()
         
         # Step 1 — Clean
         cleaned = clean_text(raw_text)
@@ -104,6 +106,8 @@ def process_all_contracts(data_dir, output_dir):
         # Step 4 — Save processed contract
         output = {
             "filename": fname,
+            "source_path": fpath,
+            "sha256": source_hash,
             "num_sentences": len(sentences),
             "num_chunks": len(chunks),
             "chunks": chunks
@@ -118,6 +122,7 @@ def process_all_contracts(data_dir, output_dir):
         all_stats["total_chunks"] += len(chunks)
         all_stats["contracts"].append({
             "filename": fname,
+            "sha256": source_hash,
             "sentences": len(sentences),
             "chunks": len(chunks)
         })

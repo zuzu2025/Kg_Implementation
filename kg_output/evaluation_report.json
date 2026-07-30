@@ -1,0 +1,54 @@
+{
+  "num_entities": 650,
+  "num_relations": 621,
+  "num_inferred_links_added": 10,
+  "graph_density": 0.0029,
+  "connected_components": 104,
+  "avg_degree": 1.868,
+  "entity_coverage": 1.0,
+  "stage7_validation_pass_rate": 0.87,
+  "stage7_precision_proxy": 0.515,
+  "stage7_recall_proxy": 0.87,
+  "stage7_f1_proxy": 0.647,
+  "stage7_avg_validated_confidence": 0.515,
+  "stage7_avg_rejected_confidence": 0.544,
+  "stage8_link_prediction": {
+    "accuracy": 0.922,
+    "precision": 0.915,
+    "recall": 0.844,
+    "f1": 0.878,
+    "threshold": 0.55
+  },
+  "stage3_er_clusters": 104109,
+  "stage3_er_pairs_scored": 9438,
+  "stage3_er_pairs_merged": 3630,
+  "stage3_er_avg_cluster_size": 1.453,
+  "stage3_er_max_cluster_size": 2163,
+  "manual_review_sample": [
+    {
+      "subject": "premier nutrition company, llc",
+      "relation": "IS_A",
+      "object": "or \"pnc\"), and fonterra (usa) inc"
+    },
+    {
+      "subject": "affiliate agreement",
+      "relation": "ENTERED_INTO",
+      "object": "corporation and axiometric, llc"
+    },
+    {
+      "subject": "web hosting agreement",
+      "relation": "IS_A",
+      "object": "24t h day of august"
+    },
+    {
+      "subject": "sponsorship agreement",
+      "relation": "IS_A",
+      "object": "ivillage, inc"
+    },
+    {
+      "subject": "retail, inc",
+      "relation": "IS_A",
+      "object": "with ga, the \"agent"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 {
   "filename": "TcPipelinesLp_20160226_10-K_EX-99.12_9454048_EX-99.12_Transportation Agreement.txt",
+  "source_path": "data\\TcPipelinesLp_20160226_10-K_EX-99.12_9454048_EX-99.12_Transportation Agreement.txt",
+  "sha256": "39457f659c35d463dcf94e4be347bc6772ba5627ba3d48f2968d82e39393f865",
   "num_sentences": 32,
   "num_chunks": 4,
   "chunks": [

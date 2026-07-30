@@ -1,0 +1,192 @@
+[
+  {
+    "subject": "co branding agreement agency agreement",
+    "predicate": "EFFECTIVE_ON",
+    "object": "june 21 1999",
+    "subject_type": "CONTRACT",
+    "object_type": "EFFECTIVE_DATE",
+    "confidence": 0.9,
+    "evidence": "THIS CO-BRANDING AND ADVERTISING AGREEMENT (the \"Agreement\") is made as of June 21, 1999 (the \"Effective Date\") by and between I-ESCROW, INC",
+    "doc_id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement"
+  },
+  {
+    "subject": "services agreement",
+    "predicate": "EFFECTIVE_ON",
+    "object": "october 1 2019",
+    "subject_type": "CONTRACT",
+    "object_type": "EFFECTIVE_DATE",
+    "confidence": 0.9,
+    "evidence": "SERVICES AGREEMENT This Services Agreement (this \"Agreement\") is entered into on October 1, 2019 and is made effective as of November 1, 2019 (the \"Effective Date\"), by and between [ * * * ] (the \"Provider\"), and TELCOSTAR PTE, LTD",
+    "doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT"
+  },
+  {
+    "subject": "services agreement",
+    "predicate": "EFFECTIVE_ON",
+    "object": "november 1 2019",
+    "subject_type": "CONTRACT",
+    "object_type": "EFFECTIVE_DATE",
+    "confidence": 0.9,
+    "evidence": "SERVICES AGREEMENT This Services Agreement (this \"Agreement\") is entered into on October 1, 2019 and is made effective as of November 1, 2019 (the \"Effective Date\"), by and between [ * * * ] (the \"Provider\"), and TELCOSTAR PTE, LTD",
+    "doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT"
+  },
+  {
+    "subject": "services agreement",
+    "predicate": "GOVERNED_BY",
+    "object": "singapore",
+    "subject_type": "CONTRACT",
+    "object_type": "JURISDICTION",
+    "confidence": 0.86,
+    "evidence": "a company organized and existing under the laws of Singapore and Ability Computer & Software Industries Ltd, a company organized and existing under the laws of the State of Israel (each and both of them \"Recipient",
+    "doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT"
+  },
+  {
+    "subject": "joint venture agreement",
+    "predicate": "EFFECTIVE_ON",
+    "object": "february 28 2004",
+    "subject_type": "CONTRACT",
+    "object_type": "EFFECTIVE_DATE",
+    "confidence": 0.9,
+    "evidence": "The Joint Venture shall commence on the 1st of March, 2003, and shall be effective until February 28, 2004 unless extended by written agreement of the Joint Venturers not less than thirty (30) days prior to scheduled termination",
+    "doc_id": "ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT"
+  },
+  {
+    "subject": "joint venture agreement",
+    "predicate": "GOVERNED_BY",
+    "object": "the commonwealth of pennsylvania",
+    "subject_type": "CONTRACT",
+    "object_type": "JURISDICTION",
+    "confidence": 0.86,
+    "evidence": "The Joint Venturers declare that in entering into this Agreement, they have contracted with reference to the laws of the Commonwealth of Pennsylvania, and the construction and interpretation of the terms and provisions of this Agreement shall be interpreted and construed under the laws of the Common",
+    "doc_id": "ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT"
+  },
+  {
+    "subject": "distributor agreement",
+    "predicate": "EFFECTIVE_ON",
+    "object": "june 8 2010",
+    "subject_type": "CONTRACT",
+    "object_type": "EFFECTIVE_DATE",
+    "confidence": 0.9,
+    "evidence": "24B-2, CONFIDENTIAL INFORMATION (INDICATED BY {*****}) HAS BEEN OMITTED FROM THIS DOCUMENT AND HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO A CONFIDENTIAL TREATMENT APPLICATION FILED WITH THE COMMISSION ACCURAY INCORPORATED MULTIPLE LINAC AND MULTI-MODALITY DISTR",
+    "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT"
+  },
+  {
+    "subject": "distributor agreement",
+    "predicate": "GOVERNED_BY",
+    "object": "berlin",
+    "subject_type": "CONTRACT",
+    "object_type": "JURISDICTION",
+    "confidence": 0.86,
+    "evidence": "24B-2, CONFIDENTIAL INFORMATION (INDICATED BY {*****}) HAS BEEN OMITTED FROM THIS DOCUMENT AND HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO A CONFIDENTIAL TREATMENT APPLICATION FILED WITH THE COMMISSION ACCURAY INCORPORATED MULTIPLE LINAC AND MULTI-MODALITY DISTR",
+    "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT"
+  },
+  {
+    "subject": "endorsement agreement",
+    "predicate": "EFFECTIVE_ON",
+    "object": "january 13 2005",
+    "subject_type": "CONTRACT",
+    "object_type": "EFFECTIVE_DATE",
+    "confidence": 0.9,
+    "evidence": "This Agreement is entered into on January 13, 2005 between professional golfer, TOM WATSON, (hereinafter referred to as \"CONSULTANT\") and ADAMS GOLF, LTD",
+    "doc_id": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT"
+  },
+  {
+    "subject": "adaptimmune",
+    "predicate": "PARTY_OF",
+    "object": "strategic alliance agreement",
+    "subject_type": "PARTY",
+    "object_type": "CONTRACT",
+    "confidence": 0.88,
+    "evidence": "Houston, TX 77030, USA (\"MD Anderson\"), a member institution of The University of Texas System (\"System\") and Adaptimmune LLC, with a place of business located at 2001 Market Street, Philadelphia, PA 1903, USA (\"Adaptimmune\"); and Adaptimmune Limited, with a place of business at 101 Milton Park, Abi",
+    "doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT"
+  },
+  {
+    "subject": "strategic alliance agreement",
+    "predicate": "GOVERNED_BY",
+    "object": "texas",
+    "subject_type": "CONTRACT",
+    "object_type": "JURISDICTION",
+    "confidence": 0.86,
+    "evidence": "Adaptimmune acknowledges and agrees that MD Anderson is an agency of the State of Texas, and its investigator, employees, and officers do constitute a Public Official, as used in this paragraph, for purposes of this Section",
+    "doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT"
+  },
+  {
+    "subject": "pivx",
+    "predicate": "PARTY_OF",
+    "object": "reseller agreement",
+    "subject_type": "PARTY",
+    "object_type": "CONTRACT",
+    "confidence": 0.88,
+    "evidence": "This Reseller Agreement is entered as of this ___ day of _________, 2004 (\"Effective Date\") by and between PivX Corporation, a California corporation, having its principal place of business at 23 Corporate Plaza Drive, Newport Beach, California, 92661 (\"PivX\") and Detto Technologies, a Washington co",
+    "doc_id": "ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT"
+  },
+  {
+    "subject": "biotest pharmaceuticals",
+    "predicate": "PARTY_OF",
+    "object": "to manufacturing agreement",
+    "subject_type": "PARTY",
+    "object_type": "CONTRACT",
+    "confidence": 0.88,
+    "evidence": "WHEREAS, ADMA (as successor-in-interest to Biotest Pharmaceuticals Corporation (\"BPC\") and Sanofi Pasteur are parties to that certain Manufacturing Agreement, effective September 30, 2011, as previously amended (including by that certain Amendment #2 to the Manufacturing Agreement, effective as of A",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement "
+  },
+  {
+    "subject": "to manufacturing agreement",
+    "predicate": "EFFECTIVE_ON",
+    "object": "december 21 2017",
+    "subject_type": "CONTRACT",
+    "object_type": "EFFECTIVE_DATE",
+    "confidence": 0.9,
+    "evidence": "Amendment #3 to the Manufacturing Agreement This Amendment #3 to the Manufacturing Agreement (this \"Amendment #3\") is made effective as of December 21, 2017 (\"Amendment Effective Date\"), by and between ADMA BioManufacturing, LLC, a Delaware limited liability company, having a place of business at 58",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement "
+  },
+  {
+    "subject": "to manufacturing agreement",
+    "predicate": "EFFECTIVE_ON",
+    "object": "september 30 2011",
+    "subject_type": "CONTRACT",
+    "object_type": "EFFECTIVE_DATE",
+    "confidence": 0.9,
+    "evidence": "WHEREAS, ADMA (as successor-in-interest to Biotest Pharmaceuticals Corporation (\"BPC\") and Sanofi Pasteur are parties to that certain Manufacturing Agreement, effective September 30, 2011, as previously amended (including by that certain Amendment #2 to the Manufacturing Agreement, effective as of A",
+    "doc_id": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement "
+  },
+  {
+    "subject": "consulting agreement",
+    "predicate": "EFFECTIVE_ON",
+    "object": "june 1 2020",
+    "subject_type": "CONTRACT",
+    "object_type": "EFFECTIVE_DATE",
+    "confidence": 0.9,
+    "evidence": "V having an address at Staalwijkstraat 16, 2313 XR Leiden, the Netherlands, represented by Andrea van Elsas, (\"Consultant\") agree to all terms and conditions of this Consulting Agreement (\"Agreement\") dated June 1, 2020, effective as of July 1, 2020 (\"Effective Date",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT(1)"
+  },
+  {
+    "subject": "consulting agreement",
+    "predicate": "GOVERNED_BY",
+    "object": "the state of california",
+    "subject_type": "CONTRACT",
+    "object_type": "JURISDICTION",
+    "confidence": 0.86,
+    "evidence": "This Agreement shall be construed and enforced in accordance with the laws of the State of California, without regard to the conflict of law principles of California or any other jurisdiction",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT(1)"
+  },
+  {
+    "subject": "consulting agreement",
+    "predicate": "EFFECTIVE_ON",
+    "object": "june 1 2020",
+    "subject_type": "CONTRACT",
+    "object_type": "EFFECTIVE_DATE",
+    "confidence": 0.9,
+    "evidence": "V having an address at Staalwijkstraat 16, 2313 XR Leiden, the Netherlands, represented by Andrea van Elsas, (\"Consultant\") agree to all terms and conditions of this Consulting Agreement (\"Agreement\") dated June 1, 2020, effective as of July 1, 2020 (\"Effective Date",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT"
+  },
+  {
+    "subject": "consulting agreement",
+    "predicate": "GOVERNED_BY",
+    "object": "the state of california",
+    "subject_type": "CONTRACT",
+    "object_type": "JURISDICTION",
+    "confidence": 0.86,
+    "evidence": "This Agreement shall be construed and enforced in accordance with the laws of the State of California, without regard to the conflict of law principles of California or any other jurisdiction",
+    "doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT"
+  }
+]

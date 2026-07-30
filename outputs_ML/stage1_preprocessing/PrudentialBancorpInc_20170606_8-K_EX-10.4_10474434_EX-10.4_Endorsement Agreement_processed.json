@@ -1,5 +1,7 @@
 {
   "filename": "PrudentialBancorpInc_20170606_8-K_EX-10.4_10474434_EX-10.4_Endorsement Agreement.txt",
+  "source_path": "data\\PrudentialBancorpInc_20170606_8-K_EX-10.4_10474434_EX-10.4_Endorsement Agreement.txt",
+  "sha256": "fbd91f8673f9f240dbc62ccfe0665bec3490abb191df5cff64061b4c00ac71f3",
   "num_sentences": 66,
   "num_chunks": 9,
   "chunks": [
